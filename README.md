@@ -1,8 +1,8 @@
-# Swift Site Portfolio - Public Distribution
+# Rupak Portfolio - Public Distribution
 
-This repository contains the compiled static files for the Swift Site Portfolio website.
+This repository contains the compiled static files for the Rupak Portfolio website.
 
-🌐 **Live Site**: [View Website](https://rupakbiswasbd.github.io/swift-site-portfolio-public/)
+🌐 **Live Site**: [View Website](https://rupakbiswas.com)
 
 ## About
 
@@ -26,4 +26,4 @@ This is an automatically generated repository containing only the built static f
 
 *This repository is automatically updated via GitHub Actions when changes are pushed to the main branch.*
 
-**Last Updated**: 2025-10-20 21:58:28 UTC
+**Last Updated**: 2025-10-21 09:41:15 UTC

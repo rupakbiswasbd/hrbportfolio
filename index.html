@@ -47,7 +47,7 @@
     </noscript>
 
     <!-- Preload main module for faster loading -->
-    <link rel="modulepreload" href="data:application/octet-stream;base64,aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgY3JlYXRlUm9vdCB9IGZyb20gInJlYWN0LWRvbS9jbGllbnQiOwppbXBvcnQgQXBwIGZyb20gIi4vQXBwLnRzeCI7CmltcG9ydCAiLi9pbmRleC5jc3MiOwoKY3JlYXRlUm9vdChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgicm9vdCIpISkucmVuZGVyKDxBcHAgLz4pOwo=" />
+    <link rel="modulepreload" href="data:application/octet-stream;base64,aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgY3JlYXRlUm9vdCB9IGZyb20gInJlYWN0LWRvbS9jbGllbnQiOwppbXBvcnQgQXBwIGZyb20gIi4vQXBwLnRzeCI7CmltcG9ydCAiLi9pbmRleC5jc3MiOwoKLy8gUmVtb3ZlIGxvYWRpbmcgaW5kaWNhdG9yIG9uY2UgUmVhY3QgaXMgcmVhZHkKY29uc3QgbG9hZGluZ0luZGljYXRvciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJsb2FkaW5nLWluZGljYXRvciIpOwppZiAobG9hZGluZ0luZGljYXRvcikgewogIGxvYWRpbmdJbmRpY2F0b3Iuc3R5bGUuZGlzcGxheSA9ICJub25lIjsKfQoKY3JlYXRlUm9vdChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgicm9vdCIpISkucmVuZGVyKDxBcHAgLz4pOwo=" />
 
     <!-- Preload critical images for LCP optimization -->
     <link rel="preload" as="image" href="/avatar.jpg" fetchpriority="high" />
@@ -111,7 +111,42 @@
 
     <!-- Manifest for PWA support -->
     <link rel="manifest" href="/manifest.json" />
-    <script type="module" crossorigin src="/assets/index-CQekl_IO.js"></script>
+
+    <style>
+      /* Loading indicator styles */
+      @keyframes spin {
+        to { transform: rotate(360deg); }
+      }
+
+      #loading-indicator {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #ffffff;
+        z-index: 9999;
+      }
+
+      #loading-spinner {
+        width: 50px;
+        height: 50px;
+        border: 4px solid #f3f4f6;
+        border-top-color: #8b5cf6;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        #loading-indicator {
+          background: #0a0a0f;
+        }
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/index-8gPaqIiu.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/ui-utils-CtF19A-_.js">
     <link rel="modulepreload" crossorigin href="/assets/pdf-viewer-l8A7ISWv.js">
     <link rel="modulepreload" crossorigin href="/assets/react-vendor-DrV72cJP.js">
@@ -125,39 +160,12 @@
   </head>
 
   <body>
-    <div id="root">
-      <!-- Minimal loading indicator while app initializes -->
-      <div style="
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background: #ffffff;
-      ">
-        <div style="
-          width: 50px;
-          height: 50px;
-          border: 4px solid #f3f4f6;
-          border-top-color: #8b5cf6;
-          border-radius: 50%;
-          animation: spin 1s linear infinite;
-        "></div>
-      </div>
-      <style>
-        @keyframes spin {
-          to { transform: rotate(360deg); }
-        }
-        @media (prefers-color-scheme: dark) {
-          #root > div {
-            background: #0a0a0f;
-          }
-        }
-      </style>
+    <!-- Loading indicator - outside root to not interfere with React -->
+    <div id="loading-indicator">
+      <div id="loading-spinner"></div>
     </div>
+
+    <div id="root"></div>
     <script>
       // GitHub Pages SPA redirect workaround
       // Check if we have a redirect from 404.html

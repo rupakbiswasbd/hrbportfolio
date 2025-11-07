@@ -32,11 +32,25 @@
     <link rel="dns-prefetch" href="https://images.unsplash.com" />
     <link rel="dns-prefetch" href="https://i.postimg.cc" />
 
-    <!-- Optimized font loading with font-display: swap -->
+    <!-- Optimized font loading with font-display: swap - Non-blocking -->
     <link
+      rel="preload"
       href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
-      rel="stylesheet"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
     />
+    <noscript>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet"
+      />
+    </noscript>
+
+    <!-- Preload main module for faster loading -->
+    <link rel="modulepreload" href="data:application/octet-stream;base64,aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgY3JlYXRlUm9vdCB9IGZyb20gInJlYWN0LWRvbS9jbGllbnQiOwppbXBvcnQgQXBwIGZyb20gIi4vQXBwLnRzeCI7CmltcG9ydCAiLi9pbmRleC5jc3MiOwoKY3JlYXRlUm9vdChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgicm9vdCIpISkucmVuZGVyKDxBcHAgLz4pOwo=" />
+
+    <!-- Preload critical images for LCP optimization -->
+    <link rel="preload" as="image" href="/avatar.jpg" fetchpriority="high" />
 
     <meta
       property="og:title"
@@ -97,14 +111,17 @@
 
     <!-- Manifest for PWA support -->
     <link rel="manifest" href="/manifest.json" />
-    <script type="module" crossorigin src="/assets/index-CoOMQUFc.js"></script>
-    <link rel="modulepreload" crossorigin href="/assets/react-vendor-B4Fy9l-l.js">
-    <link rel="modulepreload" crossorigin href="/assets/radix-ui-CPregLo-.js">
-    <link rel="modulepreload" crossorigin href="/assets/ui-utils-zowjHuUE.js">
-    <link rel="modulepreload" crossorigin href="/assets/ui-features-C8aiIYyU.js">
-    <link rel="modulepreload" crossorigin href="/assets/services-v61ZZuSi.js">
-    <link rel="modulepreload" crossorigin href="/assets/router-D96c5ted.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-DVeEKgTp.css">
+    <script type="module" crossorigin src="/assets/index-9hXRl-vl.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/ui-utils-CtF19A-_.js">
+    <link rel="modulepreload" crossorigin href="/assets/pdf-viewer-l8A7ISWv.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-vendor-DrV72cJP.js">
+    <link rel="modulepreload" crossorigin href="/assets/radix-ui-DZ1uBIJ-.js">
+    <link rel="modulepreload" crossorigin href="/assets/icons-BR5cnbbO.js">
+    <link rel="modulepreload" crossorigin href="/assets/themes-D87KjwUn.js">
+    <link rel="modulepreload" crossorigin href="/assets/sonner-DPEAFYlX.js">
+    <link rel="modulepreload" crossorigin href="/assets/router-CddqcGhB.js">
+    <link rel="stylesheet" crossorigin href="/assets/pdf-viewer-Bb80Opmj.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-C1Vunumd.css">
   </head>
 
   <body>

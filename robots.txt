@@ -1,9 +1,37 @@
-# Allow all crawlers
+# robots.txt for Rupak Biswas Portfolio
+# https://www.rupakbiswas.com/
+
 User-agent: *
 Allow: /
+Disallow: /dist/
+Disallow: /node_modules/
+Disallow: /*.json$
+Disallow: /src/
 
 # Sitemap location
-Sitemap: https://rupakbiswasbd.github.io/swift-site-portfolio/sitemap.xml
+Sitemap: https://www.rupakbiswas.com/sitemap.xml
 
-# Crawl-delay (optional, helps prevent server overload)
+# Crawl-delay for polite crawling
 Crawl-delay: 1
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /

@@ -32,11 +32,19 @@
     <link rel="dns-prefetch" href="https://images.unsplash.com" />
     <link rel="dns-prefetch" href="https://i.postimg.cc" />
 
-    <!-- Optimized font loading with font-display: swap -->
+    <!-- Non-blocking font loading with media attribute trick -->
     <link
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
       rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      media="print"
+      onload="this.media='all'"
     />
+    <noscript>
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      />
+    </noscript>
 
     <meta
       property="og:title"
@@ -97,14 +105,14 @@
 
     <!-- Manifest for PWA support -->
     <link rel="manifest" href="/manifest.json" />
-    <script type="module" crossorigin src="/assets/index-CPt57OKn.js"></script>
+    <script type="module" crossorigin src="/assets/index-B63a8BUf.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/react-vendor-B4Fy9l-l.js">
     <link rel="modulepreload" crossorigin href="/assets/radix-ui-O2d7iapo.js">
     <link rel="modulepreload" crossorigin href="/assets/ui-utils-yQ9xUh-k.js">
     <link rel="modulepreload" crossorigin href="/assets/ui-features-C8aiIYyU.js">
     <link rel="modulepreload" crossorigin href="/assets/services-v61ZZuSi.js">
     <link rel="modulepreload" crossorigin href="/assets/router-D96c5ted.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-BFvPSKCJ.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-U_jhqN_6.css">
   </head>
 
   <body>

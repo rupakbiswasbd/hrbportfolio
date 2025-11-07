@@ -32,12 +32,12 @@
     <link rel="dns-prefetch" href="https://images.unsplash.com" />
     <link rel="dns-prefetch" href="https://i.postimg.cc" />
 
-    <!-- Optimized font loading with font-display: swap - Non-blocking -->
+    <!-- Optimized font loading with font-display: swap -->
     <link
-      rel="preload"
+      rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
-      as="style"
-      onload="this.onload=null;this.rel='stylesheet'"
+      media="print"
+      onload="this.media='all'"
     />
     <noscript>
       <link
@@ -111,7 +111,7 @@
 
     <!-- Manifest for PWA support -->
     <link rel="manifest" href="/manifest.json" />
-    <script type="module" crossorigin src="/assets/index-9hXRl-vl.js"></script>
+    <script type="module" crossorigin src="/assets/index-CQekl_IO.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/ui-utils-CtF19A-_.js">
     <link rel="modulepreload" crossorigin href="/assets/pdf-viewer-l8A7ISWv.js">
     <link rel="modulepreload" crossorigin href="/assets/react-vendor-DrV72cJP.js">
@@ -125,7 +125,39 @@
   </head>
 
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <!-- Minimal loading indicator while app initializes -->
+      <div style="
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #ffffff;
+      ">
+        <div style="
+          width: 50px;
+          height: 50px;
+          border: 4px solid #f3f4f6;
+          border-top-color: #8b5cf6;
+          border-radius: 50%;
+          animation: spin 1s linear infinite;
+        "></div>
+      </div>
+      <style>
+        @keyframes spin {
+          to { transform: rotate(360deg); }
+        }
+        @media (prefers-color-scheme: dark) {
+          #root > div {
+            background: #0a0a0f;
+          }
+        }
+      </style>
+    </div>
     <script>
       // GitHub Pages SPA redirect workaround
       // Check if we have a redirect from 404.html

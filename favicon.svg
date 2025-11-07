@@ -1,22 +1,26 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background circle with gradient -->
-  <circle cx="16" cy="16" r="16" fill="url(#gradient)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
+  <!-- Background with gradient -->
+  <rect width="32" height="32" rx="6" fill="url(#gradient)"/>
   
-  <!-- Portfolio briefcase -->
-  <rect x="7" y="11" width="18" height="12" rx="2" fill="white" opacity="0.95"/>
-  <rect x="7" y="11" width="18" height="3" rx="2" fill="#4f46e5"/>
+  <!-- Apple logo (slightly bigger scale) -->
+  <g transform="translate(2, 1.5) scale(0.56)">
+    <path d="M 44.527344 34.75 C 43.449219 37.144531 42.929688 38.214844 41.542969 40.328125 C 39.601563 43.28125 36.863281 46.96875 33.480469 46.992188 C 30.46875 47.019531 29.691406 45.027344 25.601563 45.0625 C 21.515625 45.082031 20.664063 47.03125 17.648438 47 C 14.261719 46.96875 11.671875 43.648438 9.730469 40.699219 C 4.300781 32.429688 3.726563 22.734375 7.082031 17.578125 C 9.457031 13.921875 13.210938 11.773438 16.738281 11.773438 C 20.332031 11.773438 22.589844 13.746094 25.558594 13.746094 C 28.441406 13.746094 30.195313 11.769531 34.351563 11.769531 C 37.492188 11.769531 40.8125 13.480469 43.1875 16.433594 C 35.421875 20.691406 36.683594 31.78125 44.527344 34.75 Z M 31.195313 8.46875 C 32.707031 6.527344 33.855469 3.789063 33.4375 1 C 30.972656 1.167969 28.089844 2.742188 26.40625 4.78125 C 24.878906 6.640625 23.613281 9.398438 24.105469 12.066406 C 26.796875 12.152344 29.582031 10.546875 31.195313 8.46875 Z" fill="white"/>
+  </g>
   
-  <!-- Handle -->
-  <rect x="12" y="9" width="8" height="2" rx="1" fill="white"/>
-  
-  <!-- Code symbol -->
-  <text x="10" y="20" font-family="monospace" font-size="10" fill="#4f46e5" font-weight="bold">&lt;/&gt;</text>
+  <!-- User profile icon (filled silhouette) -->
+  <g opacity="0.9">
+    <!-- Head circle -->
+    <circle cx="16" cy="18" r="2.8" fill="url(#gradient)"/>
+    <!-- Body/torso shape -->
+    <ellipse cx="16" cy="24.5" rx="4.5" ry="3" fill="url(#gradient)"/>
+  </g>
   
   <!-- Gradient definition -->
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#A855F7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EC4899;stop-opacity:1" />
     </linearGradient>
   </defs>
 </svg>

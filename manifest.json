@@ -3,21 +3,14 @@
   "short_name": "Rupak Portfolio",
   "description": "Portfolio of Hemendra Rupak Biswas, iOS Developer specializing in Swift, SwiftUI, and mobile app development",
   "start_url": "/",
-  "display": "standalone",
+  "display": "browser",
   "background_color": "#ffffff",
   "theme_color": "#000000",
-  "orientation": "portrait-primary",
   "icons": [
     {
       "src": "/favicon.svg",
       "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "type": "image/svg+xml"
     }
-  ],
-  "categories": ["portfolio", "developer", "ios"],
-  "lang": "en-US",
-  "dir": "ltr",
-  "scope": "/",
-  "prefer_related_applications": false
+  ]
 }

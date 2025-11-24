@@ -299,14 +299,18 @@
             .slice(1)
             .split("&")
             .map(function (s) {
+              // Prevent infinite loop - only replace ~and~ once
               return s.replace(/~and~/g, "&");
             })
             .join("?");
-          window.history.replaceState(
-            null,
-            null,
-            l.pathname.slice(0, -1) + decoded + l.hash
-          );
+
+          // Clean the URL
+          var cleanPath = l.pathname.slice(0, -1) + decoded + l.hash;
+
+          // Only replace if it's different to prevent infinite loops
+          if (l.pathname + l.search + l.hash !== cleanPath) {
+            window.history.replaceState(null, null, cleanPath);
+          }
         }
       })(window.location);
     </script>

@@ -6,10 +6,21 @@
     <script>
       // GitHub Pages SPA redirect workaround
       // This script redirects 404s to the root page with the path encoded in the query string
-      var segmentCount = 1; // Number of directory levels in the GitHub Pages URL
-      var l = window.location;
-      l.replace(
-        l.protocol +
+      (function () {
+        var l = window.location;
+
+        // Prevent infinite redirect loop - check if already redirected
+        if (l.search.indexOf("?/") === 0) {
+          return;
+        }
+
+        // For root domain with custom domain, use segmentCount = 0
+        // For GitHub Pages (username.github.io/repo), use segmentCount = 1
+        var segmentCount = 0;
+
+        // Build the redirect URL
+        var redirect =
+          l.protocol +
           "//" +
           l.hostname +
           (l.port ? ":" + l.port : "") +
@@ -25,8 +36,10 @@
             .join("/")
             .replace(/&/g, "~and~") +
           (l.search ? "&" + l.search.slice(1).replace(/&/g, "~and~") : "") +
-          l.hash
-      );
+          l.hash;
+
+        l.replace(redirect);
+      })();
     </script>
   </head>
   <body></body>

@@ -4,41 +4,19 @@
     <meta charset="utf-8" />
     <title>Rupak Portfolio</title>
     <script>
-      // GitHub Pages SPA redirect workaround
-      // This script redirects 404s to the root page with the path encoded in the query string
+      // Simplified redirect for SPA
+      // Redirect /path to /#path
       (function () {
-        var l = window.location;
+        var path = window.location.pathname;
 
-        // Prevent infinite redirect loop - check if already redirected
-        if (l.search.indexOf("?/") === 0) {
+        // Don't redirect if already at root
+        if (path === "/" || path === "/index.html") {
           return;
         }
 
-        // For root domain with custom domain, use segmentCount = 0
-        // For GitHub Pages (username.github.io/repo), use segmentCount = 1
-        var segmentCount = 0;
-
-        // Build the redirect URL
-        var redirect =
-          l.protocol +
-          "//" +
-          l.hostname +
-          (l.port ? ":" + l.port : "") +
-          l.pathname
-            .split("/")
-            .slice(0, 1 + segmentCount)
-            .join("/") +
-          "/?/" +
-          l.pathname
-            .slice(1)
-            .split("/")
-            .slice(segmentCount)
-            .join("/")
-            .replace(/&/g, "~and~") +
-          (l.search ? "&" + l.search.slice(1).replace(/&/g, "~and~") : "") +
-          l.hash;
-
-        l.replace(redirect);
+        // Remove leading slash and redirect to hash
+        var section = path.replace(/^\//, "");
+        window.location.replace("/#" + section);
       })();
     </script>
   </head>

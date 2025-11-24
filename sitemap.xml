@@ -15,47 +15,47 @@
   
   <!-- About Section - Senior iOS Developer Profile -->
   <url>
-    <loc>https://www.rupakbiswas.com/#about</loc>
+    <loc>https://www.rupakbiswas.com/about</loc>
     <lastmod>2025-01-07T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/#about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/about" />
   </url>
   
   <!-- Skills Section - iOS Development Expertise -->
   <url>
-    <loc>https://www.rupakbiswas.com/#skills</loc>
+    <loc>https://www.rupakbiswas.com/skills</loc>
     <lastmod>2025-01-07T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/#skills" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/skills" />
   </url>
   
   <!-- Experience Section - Work History & Education -->
   <url>
-    <loc>https://www.rupakbiswas.com/#experience</loc>
+    <loc>https://www.rupakbiswas.com/experience</loc>
     <lastmod>2025-01-07T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/#experience" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/experience" />
   </url>
   
   <!-- Projects Section - iOS Apps Portfolio -->
   <url>
-    <loc>https://www.rupakbiswas.com/#projects</loc>
+    <loc>https://www.rupakbiswas.com/projects</loc>
     <lastmod>2025-01-07T22:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/#projects" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/projects" />
   </url>
   
   <!-- Contact Section - Get in Touch -->
   <url>
-    <loc>https://www.rupakbiswas.com/#contact</loc>
+    <loc>https://www.rupakbiswas.com/contact</loc>
     <lastmod>2025-01-07T22:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/#contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/contact" />
   </url>
   
 </urlset>

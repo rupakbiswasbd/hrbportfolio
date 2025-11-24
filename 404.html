@@ -2,10 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Rupak Portfolio</title>
+    <title>Page Not Found - Rupak Portfolio</title>
     <script>
-      // Simplified redirect for SPA
-      // Redirect /path to /#path
+      // Redirect valid sections only
       (function () {
         var path = window.location.pathname;
 
@@ -14,9 +13,28 @@
           return;
         }
 
-        // Remove leading slash and redirect to hash
-        var section = path.replace(/^\//, "");
-        window.location.replace("/#" + section);
+        // List of valid sections
+        var validSections = [
+          "about",
+          "skills",
+          "projects",
+          "experience",
+          "contact",
+        ];
+
+        // Remove leading slash
+        var section = path.replace(/^\//, "").toLowerCase();
+
+        // Only redirect if it's a valid section
+        if (validSections.indexOf(section) !== -1) {
+          window.location.replace("/#" + section);
+        } else {
+          // Show 404 page for invalid sections
+          document.addEventListener("DOMContentLoaded", function () {
+            document.body.innerHTML =
+              '<div style="display: flex; align-items: center; justify-content: center; min-height: 100vh; background-color: #f3f4f6; font-family: system-ui, -apple-system, sans-serif;"><div style="text-align: center; padding: 2rem;"><h1 style="font-size: 4rem; font-weight: bold; margin-bottom: 1rem; color: #111827;">404</h1><p style="font-size: 1.5rem; color: #6b7280; margin-bottom: 1.5rem;">Oops! Page not found</p><a href="/" style="color: #3b82f6; text-decoration: underline;">Return to Home</a></div></div>';
+          });
+        }
       })();
     </script>
   </head>

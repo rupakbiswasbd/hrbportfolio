@@ -1,0 +1,1 @@
+import{j as a}from"./radix-ui-DozcCxV_.js";import{a as s,b as r}from"./index-Bvh8-9rt.js";function i({className:i,variant:t,...m}){return a.jsx("div",{className:s(r({variant:t}),i),...m})}export{i as B};

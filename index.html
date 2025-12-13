@@ -124,6 +124,15 @@
       crossorigin
     />
 
+    <!-- Preload critical hero/profile image for faster LCP -->
+    <link
+      rel="preload"
+      href="/avatar.webp"
+      as="image"
+      type="image/webp"
+      fetchpriority="high"
+    />
+
     <!-- Load remaining font weight (500) asynchronously -->
     <link
       rel="preload"
@@ -136,10 +145,15 @@
     <!-- Preconnect to external domains for better performance -->
     <link rel="preconnect" href="https://images.unsplash.com" />
     <link rel="preconnect" href="https://i.postimg.cc" crossorigin />
+    <!-- Google Analytics preconnect for faster loading -->
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
 
     <!-- DNS prefetch for additional performance -->
     <link rel="dns-prefetch" href="https://images.unsplash.com" />
     <link rel="dns-prefetch" href="https://i.postimg.cc" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="https://www.google-analytics.com" />
 
     <meta
       property="og:title"
@@ -351,14 +365,14 @@
         ]
       }
     </script>
-    <script type="module" crossorigin src="/assets/index-CcgebhWY.js"></script>
+    <script type="module" crossorigin src="/assets/index-CdfcM-LG.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/react-vendor-Dl9J4Fh9.js">
     <link rel="modulepreload" crossorigin href="/assets/router-Dvmdxxdz.js">
     <link rel="modulepreload" crossorigin href="/assets/radix-ui-DozcCxV_.js">
     <link rel="modulepreload" crossorigin href="/assets/ui-features-BFJFfM6O.js">
     <link rel="modulepreload" crossorigin href="/assets/services-Cs9aR9mI.js">
     <link rel="modulepreload" crossorigin href="/assets/ui-utils-CEnhY2mo.js">
-    <link rel="stylesheet" href="/assets/index-CQUnQtbi.css" media="print" onload="this.media='all'; this.onload=null;"><noscript><link rel="stylesheet" href="/assets/index-CQUnQtbi.css"></noscript>
+    <link rel="stylesheet" href="/assets/index-Cv2ZL5H6.css" media="print" onload="this.media='all'; this.onload=null;"><noscript><link rel="stylesheet" href="/assets/index-Cv2ZL5H6.css"></noscript>
   </head>
 
   <body>

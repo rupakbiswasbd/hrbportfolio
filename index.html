@@ -357,13 +357,13 @@
         ]
       }
     </script>
-    <script type="module" crossorigin src="/assets/index-ChbK9vAV.js"></script>
+    <script type="module" crossorigin src="/assets/index-Br76jrgO.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/react-vendor-Dl9J4Fh9.js">
     <link rel="modulepreload" crossorigin href="/assets/router-Dvmdxxdz.js">
     <link rel="modulepreload" crossorigin href="/assets/radix-ui-BFD3pqc7.js">
-    <link rel="modulepreload" crossorigin href="/assets/ui-utils-CEnhY2mo.js">
     <link rel="modulepreload" crossorigin href="/assets/ui-features-BFJFfM6O.js">
     <link rel="modulepreload" crossorigin href="/assets/services-Cs9aR9mI.js">
+    <link rel="modulepreload" crossorigin href="/assets/ui-utils-CEnhY2mo.js">
     <link rel="stylesheet" href="/assets/index-BZvWa2yE.css" media="print" onload="this.media='all'; this.onload=null;"><noscript><link rel="stylesheet" href="/assets/index-BZvWa2yE.css"></noscript>
   </head>
 
@@ -371,5 +371,23 @@
     <div id="root"></div>
     <!-- No redirect script needed - 404.html handles everything -->
     <!-- Defer script loading to break the critical chain -->
+
+    <!-- Google Analytics 4 - Loaded at end of body for better performance -->
+    <!-- Loads after main app for faster initial render -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-V9HW2QNZKN"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-V9HW2QNZKN", {
+        send_page_view: true,
+        anonymize_ip: true,
+      });
+    </script>
   </body>
 </html>

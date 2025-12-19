@@ -1,52 +1,90 @@
 # Cache headers for static assets
+
 # This file is for Netlify/Cloudflare Pages. For GitHub Pages, see CACHING_STRATEGY.md
 
+# Security Headers - Applied to all routes
+
+/\*
+
+# Prevent clickjacking attacks
+
+X-Frame-Options: DENY
+
+# Prevent MIME type sniffing
+
+X-Content-Type-Options: nosniff
+
+# Enable browser XSS protection
+
+X-XSS-Protection: 1; mode=block
+
+# Control referrer information
+
+Referrer-Policy: strict-origin-when-cross-origin
+
+# Disable unnecessary browser features
+
+Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()
+
+# Content Security Policy - Allow necessary resources
+
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com https://embed.tawk.to https://va.tawk.to; style-src 'self' 'unsafe-inline'; img-src 'self' data: https: blob:; font-src 'self' data:; connect-src 'self' https://www.google-analytics.com https://api.emailjs.com https://va.tawk.to wss://va.tawk.to; frame-src 'self' https://embed.tawk.to; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests;
+
+# Strict Transport Security (HTTPS only) - 1 year
+
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
 # HTML files - short cache with revalidation
-/*.html
-  Cache-Control: public, max-age=0, must-revalidate
+
+/\*.html
+Cache-Control: public, max-age=0, must-revalidate
 
 # JavaScript and CSS with hash - long cache
-/assets/*.js
-  Cache-Control: public, max-age=31536000, immutable
 
-/assets/*.css
-  Cache-Control: public, max-age=31536000, immutable
+/assets/\*.js
+Cache-Control: public, max-age=31536000, immutable
+
+/assets/\*.css
+Cache-Control: public, max-age=31536000, immutable
 
 # Images - long cache
-/assets/*.png
-  Cache-Control: public, max-age=31536000, immutable
 
-/assets/*.jpg
-  Cache-Control: public, max-age=31536000, immutable
+/assets/\*.png
+Cache-Control: public, max-age=31536000, immutable
 
-/assets/*.jpeg
-  Cache-Control: public, max-age=31536000, immutable
+/assets/\*.jpg
+Cache-Control: public, max-age=31536000, immutable
 
-/assets/*.svg
-  Cache-Control: public, max-age=31536000, immutable
+/assets/\*.jpeg
+Cache-Control: public, max-age=31536000, immutable
 
-/assets/*.webp
-  Cache-Control: public, max-age=31536000, immutable
+/assets/\*.svg
+Cache-Control: public, max-age=31536000, immutable
+
+/assets/\*.webp
+Cache-Control: public, max-age=31536000, immutable
 
 # Fonts - long cache
-/assets/*.woff
-  Cache-Control: public, max-age=31536000, immutable
 
-/assets/*.woff2
-  Cache-Control: public, max-age=31536000, immutable
+/assets/\*.woff
+Cache-Control: public, max-age=31536000, immutable
 
-/assets/*.ttf
-  Cache-Control: public, max-age=31536000, immutable
+/assets/\*.woff2
+Cache-Control: public, max-age=31536000, immutable
+
+/assets/\*.ttf
+Cache-Control: public, max-age=31536000, immutable
 
 # Manifest and other root files
+
 /manifest.json
-  Cache-Control: public, max-age=86400
+Cache-Control: public, max-age=86400
 
 /robots.txt
-  Cache-Control: public, max-age=86400
+Cache-Control: public, max-age=86400
 
 /sitemap.xml
-  Cache-Control: public, max-age=86400
+Cache-Control: public, max-age=86400
 
 /favicon.svg
-  Cache-Control: public, max-age=86400
+Cache-Control: public, max-age=86400

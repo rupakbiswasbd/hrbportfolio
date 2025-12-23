@@ -4,12 +4,23 @@
     <meta charset="utf-8" />
     <title>Page Not Found - Rupak Portfolio</title>
     <script>
-      // Redirect valid sections only
+      // Redirect valid sections and project URLs
       (function () {
         var path = window.location.pathname;
 
         // Don't redirect if already at root
         if (path === "/" || path === "/index.html") {
+          return;
+        }
+
+        // Check if it's a project URL (e.g., /projects/mybl)
+        var projectMatch = path.match(/^\/projects\/([a-z0-9-]+)$/i);
+        if (projectMatch) {
+          // Redirect to home with project slug in state
+          var projectSlug = projectMatch[1];
+          // Store the project slug in sessionStorage
+          sessionStorage.setItem("openProject", projectSlug);
+          window.location.replace("/#projects");
           return;
         }
 

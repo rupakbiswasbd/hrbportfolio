@@ -1,0 +1,1 @@
+import{j as a}from"./radix-ui-Bpr4UEME.js";import{a as s,j as r}from"./index-BlNa89JP.js";function i({className:i,variant:t,...m}){return a.jsx("div",{className:s(r({variant:t}),i),...m})}export{i as B};

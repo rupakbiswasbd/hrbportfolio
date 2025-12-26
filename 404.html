@@ -24,20 +24,30 @@
           return;
         }
 
-        // List of valid sections
+        // Special handling for separate pages (not hash sections)
+        var separatePages = ["tools"];
+        var page = path.replace(/^\//, "").toLowerCase();
+
+        // If it's a separate page route, redirect to index.html with the path
+        if (separatePages.indexOf(page) !== -1) {
+          sessionStorage.setItem("redirect", path);
+          window.location.replace("/index.html");
+          return;
+        }
+
+        // List of valid hash sections
         var validSections = [
           "about",
           "skills",
           "projects",
           "experience",
           "contact",
-          "tools",
         ];
 
         // Remove leading slash
         var section = path.replace(/^\//, "").toLowerCase();
 
-        // Only redirect if it's a valid section
+        // Only redirect if it's a valid hash section
         if (validSections.indexOf(section) !== -1) {
           window.location.replace("/#" + section);
         } else {

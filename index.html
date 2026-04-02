@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -42,6 +42,14 @@
         border-style: solid;
         border-color: #e5e7eb;
       }
+      /* Hide default cursor on mouse devices — replaced by custom cursor */
+      @media (pointer: fine) {
+        *,
+        *::before,
+        *::after {
+          cursor: none !important;
+        }
+      }
       ::before,
       ::after {
         --tw-content: "";
@@ -52,10 +60,22 @@
         -moz-tab-size: 4;
         -o-tab-size: 4;
            tab-size: 4;
-        font-family: Inter, ui-sans-serif, system-ui, -apple-system,
-          BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
-          "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
-          "Segoe UI Symbol", "Noto Color Emoji";
+        font-family:
+          Inter,
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          Roboto,
+          "Helvetica Neue",
+          Arial,
+          "Noto Sans",
+          sans-serif,
+          "Apple Color Emoji",
+          "Segoe UI Emoji",
+          "Segoe UI Symbol",
+          "Noto Color Emoji";
         font-feature-settings: normal;
         font-variation-settings: normal;
       }
@@ -76,9 +96,10 @@
         font-weight: 400;
         font-display: swap;
         src: url("/fonts/inter-400.woff2") format("woff2");
-        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
-          U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC,
-          U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191,
+          U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
       }
       @font-face {
         font-family: "Inter";
@@ -86,9 +107,10 @@
         font-weight: 600;
         font-display: swap;
         src: url("/fonts/inter-600.woff2") format("woff2");
-        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
-          U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC,
-          U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191,
+          U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
       }
       @font-face {
         font-family: "Inter";
@@ -96,9 +118,10 @@
         font-weight: 700;
         font-display: swap;
         src: url("/fonts/inter-700.woff2") format("woff2");
-        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
-          U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC,
-          U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191,
+          U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
       }
     </style>
 
@@ -139,7 +162,10 @@
       rel="preload"
       href="/fonts/inter.css"
       as="style"
-      onload="this.onload=null;this.rel='stylesheet'"
+      onload="
+        this.onload = null;
+        this.rel = 'stylesheet';
+      "
     />
     <noscript><link rel="stylesheet" href="/fonts/inter.css" /></noscript>
 
@@ -357,14 +383,14 @@
         ]
       }
     </script>
-    <script type="module" crossorigin src="/assets/index-CVhT4Tsf.js"></script>
+    <script type="module" crossorigin src="/assets/index-qv2BTPPG.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/react-vendor-Dl9J4Fh9.js">
     <link rel="modulepreload" crossorigin href="/assets/router-DOmi_i5t.js">
     <link rel="modulepreload" crossorigin href="/assets/radix-ui-Drh_mkm1.js">
     <link rel="modulepreload" crossorigin href="/assets/ui-features-B2Ucp6Xe.js">
     <link rel="modulepreload" crossorigin href="/assets/services-PzKA10V_.js">
     <link rel="modulepreload" crossorigin href="/assets/ui-utils-slYFZfYt.js">
-    <link rel="stylesheet" href="/assets/index-yBjcpeVi.css" media="print" onload="this.media='all'; this.onload=null;"><noscript><link rel="stylesheet" href="/assets/index-yBjcpeVi.css"></noscript>
+    <link rel="stylesheet" href="/assets/index-BKdfDp-m.css" media="print" onload="this.media='all'; this.onload=null;"><noscript><link rel="stylesheet" href="/assets/index-BKdfDp-m.css"></noscript>
   </head>
 
   <body>

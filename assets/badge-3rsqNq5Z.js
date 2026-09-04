@@ -1,1 +1,0 @@
-import{j as a}from"./react-vendor-C4aoITfK.js";import{c as r,o as s}from"./index-Dl0ZW15X.js";function o({className:o,variant:t,...e}){return a.jsx("div",{className:r(s({variant:t}),o),...e})}export{o as B};

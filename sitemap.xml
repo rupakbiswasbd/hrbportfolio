@@ -57,5 +57,14 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/contact" />
   </url>
-  
+
+  <!-- News Page - iOS & Mobile News Feed -->
+  <url>
+    <loc>https://www.rupakbiswas.com/news</loc>
+    <lastmod>2025-01-07T22:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.rupakbiswas.com/news" />
+  </url>
+
 </urlset>

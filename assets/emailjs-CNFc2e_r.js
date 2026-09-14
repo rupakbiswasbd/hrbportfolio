@@ -1,0 +1,1 @@
+var e={PUBLIC_KEY:`fZlqOZnQLYugSeyGz`,SERVICE_ID:`service_yp7aa6n`,TEMPLATE_ID:`template_fh2aaes`};export{e as t};

@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-17T07:06:57.967Z",
+  "updatedAt": "2026-09-18T06:59:55.297Z",
   "items": [
     {
-      "title": "The streamers are fighting over Halloween",
-      "link": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
-      "pubDate": "2026-09-16T23:00:00-04:00",
-      "description": "The Toronto International Film Festival is a place to go to see the future of film, but this year it also provided a glimpse at what is coming very soon in the realm of streaming. Four different strea",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/NUP_211117_00013_RF-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day",
+      "link": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
+      "pubDate": "Fri, 18 Sep 2026 03:11:06 +0000",
+      "description": "Apple Fifth Avenue in New York is ready for iPhone 18 Pro launch day. The store's iconic glass cube entrance has received a colorful makeover that matches the iPhone 18 Pro's new Burgundy and Glacier ",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Fifth-Avenue-iPhone-18-Pro.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
+      "link": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/",
+      "pubDate": "Fri, 18 Sep 2026 02:18:35 +0000",
+      "description": "Following the rollout of Apple’s 2027 system releases, the WebKit blog has now published an in-depth look at what’s new with Safari 27.0. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Waymo says Singapore will be its next international robotaxi city",
+      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "pubDate": "2026-09-17T22:00:00-04:00",
+      "description": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2291354590.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge"
-    },
-    {
-      "title": "Apple rolls out first Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
-      "link": "https://9to5mac.com/2026/09/16/apple-rolls-out-first-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "pubDate": "Thu, 17 Sep 2026 02:18:51 +0000",
-      "description": "After releasing macOS 27.2 beta 1 earlier today, Apple is now rolling out the first RCs of macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Photographer Tyler Stalman reviews the iPhone 18 Pro’s new camera with variable aperture",
-      "link": "https://9to5mac.com/2026/09/16/photographer-tyler-stalman-reviews-the-iphone-18-pros-new-camera-with-variable-aperture/",
-      "pubDate": "Thu, 17 Sep 2026 01:24:30 +0000",
-      "description": "Photographer Tyler Stalman is back with his annual iPhone camera review. Here’s what he had to say about the iPhone 18 Pro’s new variable aperture, photographic styles, Apple Reference Image, and more",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tyler-review.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
     }
   ]
 }

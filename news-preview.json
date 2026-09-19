@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-18T06:59:55.297Z",
+  "updatedAt": "2026-09-19T06:58:30.758Z",
   "items": [
     {
-      "title": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day",
-      "link": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
-      "pubDate": "Fri, 18 Sep 2026 03:11:06 +0000",
-      "description": "Apple Fifth Avenue in New York is ready for iPhone 18 Pro launch day. The store's iconic glass cube entrance has received a colorful makeover that matches the iPhone 18 Pro's new Burgundy and Glacier ",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Fifth-Avenue-iPhone-18-Pro.jpeg",
+      "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
+      "link": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
+      "pubDate": "Sat, 19 Sep 2026 04:51:11 +0000",
+      "description": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about Apple's upcoming iPhone Duo . The ‌iPhone Duo‌ uses a matte nano-texture display, which is",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg",
       "source": "MacRumors"
     },
     {
-      "title": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
-      "link": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/",
-      "pubDate": "Fri, 18 Sep 2026 02:18:35 +0000",
-      "description": "Following the rollout of Apple’s 2027 system releases, the WebKit blog has now published an in-depth look at what’s new with Safari 27.0. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&strip=all&w=1600",
+      "title": "Gemini app for macOS adding send and read iMessage integration",
+      "link": "https://9to5google.com/2026/09/18/gemini-macos-imessage/",
+      "pubDate": "Fri, 18 Sep 2026 23:57:57 +0000",
+      "description": "Google’s latest update to the Gemini app for macOS readies local iMessage integration. This follows the app coming to Windows last week. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Gemini-Mac-App-2.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
     {
-      "title": "Waymo says Singapore will be its next international robotaxi city",
-      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
-      "pubDate": "2026-09-17T22:00:00-04:00",
-      "description": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2291354590.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
+      "title": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping",
+      "link": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
+      "pubDate": "Fri, 18 Sep 2026 23:28:05 +0000",
+      "description": "The iPhone 18 Pro Max has a battery capacity over 20 watt-hours, which means there are additional shipping requirements. If an ‌iPhone 18 Pro‌ Max needs to be shipped somewhere, its maximum ",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-max-prepare.jpg",
+      "source": "MacRumors"
     }
   ]
 }

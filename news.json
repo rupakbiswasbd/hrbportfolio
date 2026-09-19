@@ -1,13 +1,413 @@
 {
-  "updatedAt": "2026-09-18T06:59:55.297Z",
+  "updatedAt": "2026-09-19T06:58:30.758Z",
   "items": [
     {
-      "title": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day",
-      "link": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
-      "pubDate": "Fri, 18 Sep 2026 03:11:06 +0000",
-      "description": "Apple Fifth Avenue in New York is ready for iPhone 18 Pro launch day. The store's iconic glass cube entrance has received a colorful makeover that matches the iPhone 18 Pro's new Burgundy and Glacier ",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Fifth-Avenue-iPhone-18-Pro.jpeg",
+      "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
+      "link": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
+      "pubDate": "Sat, 19 Sep 2026 04:51:11 +0000",
+      "description": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about Apple's upcoming iPhone Duo . The ‌iPhone Duo‌ uses a matte nano-texture display, which is",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg",
       "source": "MacRumors"
+    },
+    {
+      "title": "Gemini app for macOS adding send and read iMessage integration",
+      "link": "https://9to5google.com/2026/09/18/gemini-macos-imessage/",
+      "pubDate": "Fri, 18 Sep 2026 23:57:57 +0000",
+      "description": "Google’s latest update to the Gemini app for macOS readies local iMessage integration. This follows the app coming to Windows last week. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Gemini-Mac-App-2.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping",
+      "link": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
+      "pubDate": "Fri, 18 Sep 2026 23:28:05 +0000",
+      "description": "The iPhone 18 Pro Max has a battery capacity over 20 watt-hours, which means there are additional shipping requirements. If an ‌iPhone 18 Pro‌ Max needs to be shipped somewhere, its maximum ",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-max-prepare.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "The Quantified Scientist tests the Apple Watch Series 12’s new heart rate sensor",
+      "link": "https://9to5mac.com/2026/09/18/the-quantified-scientist-tests-the-apple-watch-series-12s-new-heart-rate-sensor/",
+      "pubDate": "Fri, 18 Sep 2026 23:08:18 +0000",
+      "description": "In a new video, The Quantified Scientist’s Rob ter Horst compares the new Apple Watch Series 12’s heart rate sensor against a Polar H10 ECG chest strap. Here’s what he found. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-heart.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Hands-On With the Apple Watch Series 12",
+      "link": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on/",
+      "pubDate": "Fri, 18 Sep 2026 21:26:09 +0000",
+      "description": "The Apple Watch Series 12 came out today, and we picked one up to get a look at the new feature set. There are no major external changes, but Apple updated the device's internals and health sensors. S",
+      "image": "https://images.macrumors.com/t/KLcRxmYa9fXCrhUO8lbhfabdJ3o=/2500x/article-new/2026/09/Apple-Watch-Series-12-First-Impressions-Thumb.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "pubDate": "2026-09-18T17:07:24-04:00",
+      "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would dam",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "iOS 27 and iPadOS 27 expand language support for Dictionary, QuickType Keyboard, more",
+      "link": "https://9to5mac.com/2026/09/18/ios-27-and-ipados-27-expand-language-support-for-dictionary-quicktype-keyboard-more/",
+      "pubDate": "Fri, 18 Sep 2026 20:31:30 +0000",
+      "description": "Apple today updated its iOS and iPadOS 27 Feature Availability page, confirming that more than 30 new languages and language variants are now supported across features such as Dictionary: Thesaurus, A",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-keyboard.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iPhone 18 Pro Max in U.S. Has Qualcomm's Snapdragon X80 Modem",
+      "link": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-us-qualcomm-x80/",
+      "pubDate": "Fri, 18 Sep 2026 20:18:07 +0000",
+      "description": "TechInsights has published an iPhone 18 Pro Max teardown that confirms the U.S. version of the device is equipped with Qualcomm's Snapdragon X80 modem. The device's modem firmware had already pointed ",
+      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Download the iPhone Duo’s official light and dark wallpapers here",
+      "link": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
+      "pubDate": "Fri, 18 Sep 2026 20:05:43 +0000",
+      "description": "Although Apple did not include the iPhone Duo’s wallpapers in iOS 27, the company did include them in the iPhone simulator in Xcode 27.1 beta, released earlier today, which means now you can download ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-wallpapers.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
+      "link": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks/",
+      "pubDate": "Fri, 18 Sep 2026 19:56:02 +0000",
+      "description": "The first GPU benchmark results for Apple's new M5 Ultra and M6 chips have surfaced, ahead of the new Mac Studio and Mac mini models launching on Tuesday. If you are interested in CPU results, we shar",
+      "image": "https://images.macrumors.com/article-new/2026/09/M6-M5-Ultra-Chips.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "link": "https://9to5mac.com/2026/09/18/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+      "pubDate": "Fri, 18 Sep 2026 19:45:30 +0000",
+      "description": "AirPods just got a variety of new features in iOS 27, several of which are exclusive to AirPods Pro 3. Here’s everything new. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list",
+      "link": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
+      "pubDate": "Fri, 18 Sep 2026 18:56:01 +0000",
+      "description": "iOS 27 is here, and many of its new features are powered by the next generation of Apple Intelligence. Here are 20+ new Apple Intelligence features in iOS 27. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
+      "link": "https://9to5mac.com/2026/09/18/homeys-new-device-updates-feature-shows-what-matter-was-supposed-to-be-all-along/",
+      "pubDate": "Fri, 18 Sep 2026 18:33:00 +0000",
+      "description": "Firmware updates have been the weakest link for a decade with smart homes. Every sensor, light bulb, and smart lock in your house runs software that should be updated regularly . This is on top of eve",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Homey-Pro-2026-—-Interior-5-2.jpg?quality=82&strip=all&w=1500",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "pubDate": "2026-09-18T14:29:17-04:00",
+      "description": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Disney’s first CTO is Character.AI’s former CEO",
+      "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+      "pubDate": "2026-09-18T14:27:04-04:00",
+      "description": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK080_VRG_Illo_N_Barclay_9_disney_.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Releases Xcode 27.1 Beta With iPhone Duo Support",
+      "link": "https://www.macrumors.com/2026/09/18/apple-releases-xcode-27-1-beta-iphone-duo-support/",
+      "pubDate": "Fri, 18 Sep 2026 18:06:21 +0000",
+      "description": "Apple today released the first Xcode 27.1 beta . The latest version of the tool adds support for iPhone Duo app development. Available on Apple silicon Macs running macOS 26.6 or later, Xcode 27.1 inc",
+      "image": "https://images.macrumors.com/article-new/2026/02/macOS-26-Xcode.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Watch Series 12 vs. Ultra 4 Buyer's Guide",
+      "link": "https://www.macrumors.com/guide/apple-watch-series-12-vs-ultra-4/",
+      "pubDate": "Fri, 18 Sep 2026 18:03:14 +0000",
+      "description": "The Apple Watch Series 12 and Apple Watch Ultra 4 bring new health sensors, a new chip, and more detailed recovery insights to Apple's smartwatch lineup, so how do they compare? Both models feature th",
+      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-series-12-vs-apple-watch-ultra-4.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
+      "link": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
+      "pubDate": "Fri, 18 Sep 2026 17:52:15 +0000",
+      "description": "Apple’s new Vice President of Hardware Engineering, Tom Marieb, sat down with TechRadar for an interview all about iPhone Duo. Here’s what he said about iPhone Duo’s durability, the hinge, display cre",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple releases Xcode 27.1 beta, enabling iPhone Duo app development",
+      "link": "https://9to5mac.com/2026/09/18/apple-releases-xcode-27-1-beta-enabling-iphone-duo-app-development/",
+      "pubDate": "Fri, 18 Sep 2026 17:50:45 +0000",
+      "description": "Apple has released Xcode 27.1 beta 1 for developers. This version specifically enables app development that targets the new foldable iPhone Duo. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/xcode.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "MacRumors Giveaway: Win an iPhone Duo From iMazing",
+      "link": "https://www.macrumors.com/2026/09/18/macrumors-giveaway-imazing-iphone-duo/",
+      "pubDate": "Fri, 18 Sep 2026 17:50:33 +0000",
+      "description": "For this week's giveaway we've teamed up with iMazing to offer MacRumors readers a chance to win an iPhone Duo and a copy of the iMazing software to go along with it. If you're unfamiliar with iMazing",
+      "image": "https://images.macrumors.com/article-new/2026/09/imazing-giveaway-iphone-duo.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Meta’s new Muse AI agent app overtakes ChatGPT as top iPhone app",
+      "link": "https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/",
+      "pubDate": "Fri, 18 Sep 2026 17:47:37 +0000",
+      "description": "Meta’s new Muse AI agent app has taken the top spot on the free iPhone charts for the U.S. App Store, displacing OpenAI’s ChatGPT from the first place. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "'Shop Different': Apple Retail Pioneer Ron Johnson Shares the Inside Story",
+      "link": "https://www.macrumors.com/2026/09/18/shop-different-ron-johnson-apple-retail-book/",
+      "pubDate": "Fri, 18 Sep 2026 17:37:28 +0000",
+      "description": "Back in 1999, unhappy at how Macs were being positioned in traditional computer retail stores, Steve Jobs decided that Apple needed to make its own push into retail. The man he brought on to lead the ",
+      "image": "https://images.macrumors.com/article-new/2026/09/shop-different-ron-johnson.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "The real story of the iPhone 18 Pro’s camera",
+      "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
+      "pubDate": "2026-09-18T13:06:37-04:00",
+      "description": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_091826_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "pubDate": "2026-09-18T13:04:51-04:00",
+      "description": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Fr",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292819671.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Teams Up With ROSÉ for iPhone 18 Pro Camera Ad",
+      "link": "https://www.macrumors.com/2026/09/18/apple-iphone-18-pro-camera-ad/",
+      "pubDate": "Fri, 18 Sep 2026 16:36:35 +0000",
+      "description": "Apple is promoting the iPhone 18 Pro with a new Shot on iPhone ad featuring Blackpink member ROSÉ's latest music video. The video for the song \"new trick\" was filmed using the ‌iPhone 18 Pro&zwnj",
+      "image": "https://images.macrumors.com/t/KJaSurkkz5Y8mXlVl03S8WAcBKg=/1600x/article-new/2026/09/apple-rose-shot-on-iphone.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "What Hollywood thinks about existential AI warnings",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "pubDate": "2026-09-18T12:35:19-04:00",
+      "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "9to5Mac Daily: September 18, 2026 – More on iOS 27, iPhone Duo",
+      "link": "https://9to5mac.com/2026/09/18/daily-september-18-2026/",
+      "pubDate": "Fri, 18 Sep 2026 16:34:51 +0000",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for O",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Best iPhone 18 Pro cases now available for purchase [Updated]",
+      "link": "https://9to5mac.com/2026/09/18/best-iphone-18-pro-cases-now-available/",
+      "pubDate": "Fri, 18 Sep 2026 16:24:00 +0000",
+      "description": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solutions",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "The MacRumors Show: Is the iPhone Duo Actually Worth It?",
+      "link": "https://www.macrumors.com/2026/09/18/the-macrumors-show-is-iphone-duo-worth-it/",
+      "pubDate": "Fri, 18 Sep 2026 16:15:51 +0000",
+      "description": "On this week's episode of The MacRumors Show , we revisit the iPhone Duo debate, early impressions of the AirPods 5 , and the merits of Apple's latest iPhone and Apple Watch upgrades. Subscribe to The",
+      "image": "https://images.macrumors.com/t/JRviWgNOIb7SQMeXCxm6jfIrJWw=/2500x/article-new/2026/09/TMRS-211-Duo-Debate-Thumb.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iOS 27’s Wallet app adds feature that will make you want to use Apple Cash",
+      "link": "https://9to5mac.com/2026/09/18/ios-27s-wallet-app-adds-feature-that-will-make-you-want-to-use-apple-cash/",
+      "pubDate": "Fri, 18 Sep 2026 16:14:17 +0000",
+      "description": "Apple Wallet is better than ever in iOS 27 thanks to a handful of new features , including a clever solution for splitting bills with friends and family via Apple Cash. Here’s how it works. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-wallet-ios-27-red-bg.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Designers Explain the Thinking Behind iPhone Duo",
+      "link": "https://www.macrumors.com/2026/09/18/apple-designers-explain-iphone-duo/",
+      "pubDate": "Fri, 18 Sep 2026 16:11:02 +0000",
+      "description": "Apple's design team reveals how notebooks helped inspire the iPhone Duo , along with interface principles and expectations for future features, in a new interview with GQ . The interview features Appl",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Duo-Open-large-scaled.png",
+      "source": "MacRumors"
+    },
+    {
+      "title": "I’ve now completely changed my mind about Apple Glasses",
+      "link": "https://9to5mac.com/2026/09/18/ive-now-completely-changed-my-mind-about-apple-glasses/",
+      "pubDate": "Fri, 18 Sep 2026 16:00:00 +0000",
+      "description": "The first smart glasses were Google Glass , launched way back in 2014. The product failed for a number of reasons, but the biggest of these was privacy concerns around video recording capabilities, le",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Are iPhone 17 Pro Cases Compatible With iPhone 18 Pro? Here's What Apple Says",
+      "link": "https://www.macrumors.com/2026/09/18/iphone-17-pro-vs-iphone-18-pro-case-compatibility/",
+      "pubDate": "Fri, 18 Sep 2026 15:54:48 +0000",
+      "description": "Can you use iPhone 17 Pro and iPhone 17 Pro Max cases with the iPhone 18 Pro and iPhone 18 Pro Max, and vice versa? Apple's official answer is no, according to Daring Fireball 's John Gruber . Apple s",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Case-3200x1800-1-scaled.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "pubDate": "2026-09-18T11:30:16-04:00",
+      "description": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Jou",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Deals: AirPods Pro 3, iPhone 18 Pro cases and chargers, M5 MacBook Pro $320 off, more",
+      "link": "https://9to5mac.com/2026/09/18/deals-airpods-pro-3-iphone-18-pro-cases-m5-macbook/",
+      "pubDate": "Fri, 18 Sep 2026 15:28:06 +0000",
+      "description": "Alongside the ongoing price drop on AirPods Pro 3 and AirPods 5, iPhone 18 Pro delivery day has arrived and we have collected plenty of M6 Mac mini, as well as the most affordable 24GB M5 MacBook Pro ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-iPhone-18-Pro-cases-AirPods-chargers-Mac-mini.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Launch Day Deals on iPhone 18 Pro, AirPods 5, Apple Watch Series 12, and More",
+      "link": "https://www.macrumors.com/2026/09/18/best-apple-deals-of-the-week-9-18-26/",
+      "pubDate": "Fri, 18 Sep 2026 15:15:18 +0000",
+      "description": "Apple's newest products launch today , including the iPhone 18 Pro, iPhone 18 Pro Max, AirPods 5, Apple Watch Series 12, and Apple Watch Ultra 4. Many of these devices have launch discounts available ",
+      "image": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Blue.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iPhone 18 Pro, Apple Watch Series 12 and Ultra 4, AirPods 5 now available in stores",
+      "link": "https://9to5mac.com/2026/09/18/iphone-18-pro-apple-watch-series-12-and-ultra-4-airpods-5-now-available-in-stores/",
+      "pubDate": "Fri, 18 Sep 2026 15:14:47 +0000",
+      "description": "Today is a big launch day for new Apple products, with iPhone 18 Pro and Pro Max, Apple Watch Series 12 and Ultra 4, and AirPods 5 all available in Apple Stores and from other retailers worldwide. mor",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-store-the-Exchange-TRX-launch.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
+      "link": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
+      "pubDate": "2026-09-18T11:12:41-04:00",
+      "description": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Sa",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2262365040.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Supplier Subsidiary Considering U.S. Flash Memory Factory",
+      "link": "https://www.macrumors.com/2026/09/18/apple-supplier-subsidiary-considering-us-factory/",
+      "pubDate": "Fri, 18 Sep 2026 15:01:37 +0000",
+      "description": "Apple supplier SK Hynix's subsidiary Solidigm is considering a U.S. NAND flash memory factory, with upstate New York emerging as a leading candidate, according to Reuters . The move would reduce Solid",
+      "image": "https://images.macrumors.com/article-new/2026/09/sk-hynix.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Intelligence now requires almost double the iPhone storage on latest models",
+      "link": "https://9to5mac.com/2026/09/18/apple-intelligence-now-requires-almost-double-the-iphone-storage-on-latest-models/",
+      "pubDate": "Fri, 18 Sep 2026 14:52:31 +0000",
+      "description": "iOS 27 launched this week with a major overhaul to Apple Intelligence. And while many iPhones have the same AI storage requirements as before, for certain models you’ll need nearly double the free sto",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-blue.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
+      "link": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
+      "pubDate": "2026-09-18T10:51:26-04:00",
+      "description": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch ma",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lenovodeals.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Here are all of Apple’s official accessories for iPhone 18 Pro, Apple Watch Series 12, more",
+      "link": "https://9to5mac.com/2026/09/18/here-are-all-of-apples-official-accessories-for-iphone-18-pro-apple-watch-series-12-more/",
+      "pubDate": "Fri, 18 Sep 2026 14:51:12 +0000",
+      "description": "Today is Apple launch day for a bunch of new Apple products: iPhone 18 Pro, iPhone 18 Pro Max, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5. Below, we’ve rounded up all of the official Ap",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-cases.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
+      "link": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
+      "pubDate": "2026-09-18T10:41:18-04:00",
+      "description": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/funny1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "iPhone 18 Pro Teardown Reveals How Apple Shrunk the Dynamic Island",
+      "link": "https://www.macrumors.com/2026/09/18/iphone-18-pro-teardown/",
+      "pubDate": "Fri, 18 Sep 2026 14:34:53 +0000",
+      "description": "YouTube channel REWA Technology today shared one of the first iPhone 18 Pro teardown videos , offering a look inside the new device. iPhone 18 Pro and iPhone 18 Pro Max feature a smaller Dynamic Islan",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Dynamic-Island-1.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Music in iOS 27: Five new features just added for iPhone",
+      "link": "https://9to5mac.com/2026/09/18/apple-music-in-ios-27-five-new-features-iphone/",
+      "pubDate": "Fri, 18 Sep 2026 14:08:44 +0000",
+      "description": "iOS 27 brings new features to apps like Apple Wallet , Calendar , Notes , Maps , and more. Apple Music adds a variety of improvements too, including five new features outlined below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-music-features-ios-27.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iPhone 18 Pro Demand Stronger Than Expected",
+      "link": "https://www.macrumors.com/2026/09/18/iphone-18-pro-demand-stronger-than-expected/",
+      "pubDate": "Fri, 18 Sep 2026 14:01:25 +0000",
+      "description": "Apple's latest iPhone upgrade cycle is showing stronger-than-expected demand, with buyers favoring more expensive models and storage configurations, according to an Evercore ISI consumer survey seen b",
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-and-iphone-18-pro-max.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iPhone Duo videos reveal split keyboard, app multitasking, more",
+      "link": "https://9to5mac.com/2026/09/18/iphone-duo-videos-reveal-split-keyboard-app-multitasking-more/",
+      "pubDate": "Fri, 18 Sep 2026 13:51:24 +0000",
+      "description": "Today is iPhone 18 Pro launch day, but ahead of iPhone Duo’s arrival in October, a variety of hands-on videos have surfaced online showing off the software keyboard, app multitasking, camera features,",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-official-front.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Fan Site Lets You 'Design the Next iPhone'",
+      "link": "https://www.macrumors.com/2026/09/18/fan-site-lets-you-design-the-next-iphone/",
+      "pubDate": "Fri, 18 Sep 2026 13:02:14 +0000",
+      "description": "\" Design the Next iPhone ,\" an interactive website from developer Neal Agarwal, gives users control over a virtual iPhone's look, including the option to combine conventional smartphone components wit",
+      "image": "https://images.macrumors.com/article-new/2026/09/design-the-next-iphone.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Stores Have a New 'Hello' Easter Egg, Here's Why",
+      "link": "https://www.macrumors.com/2026/09/18/apple-stores-have-new-hello-easter-egg/",
+      "pubDate": "Fri, 18 Sep 2026 12:42:21 +0000",
+      "description": "Starting today, many if not all Apple Stores around the world have received a new \"hello\" decoration somewhere in the store for the purposes of testing iPhone camera zoom. Like the iPhone 17 Pro model",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Store-Hello.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iPhone 18 Pro: The New Features You Should Try First",
+      "link": "https://www.macrumors.com/guide/iphone-18-pro-how-to-use-new-features/",
+      "pubDate": "Fri, 18 Sep 2026 12:11:44 +0000",
+      "description": "Apple's iPhone 18 Pro and iPhone 18 Pro Max launched today in markets around the world. Keep reading if you're the owner of one of Apple's latest models. Whether you're upgrading from an older iPhone ",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-16x9-1.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iOS 27: My favorite new iPhone features (other than AI)",
+      "link": "https://9to5mac.com/2026/09/18/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+      "pubDate": "Fri, 18 Sep 2026 11:40:01 +0000",
+      "description": "Apple released iOS 27 to everyone this week, and the headlining changes are Siri AI and the array of new Apple Intelligence features. However, the update also includes plenty of non-AI features. Here ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
     },
     {
       "title": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
@@ -16,14 +416,6 @@
       "description": "Following the rollout of Apple’s 2027 system releases, the WebKit blog has now published an in-depth look at what’s new with Safari 27.0. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Waymo says Singapore will be its next international robotaxi city",
-      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
-      "pubDate": "2026-09-17T22:00:00-04:00",
-      "description": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2291354590.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "WhatsApp starts rolling out new in-chat search button on iOS",
@@ -58,28 +450,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Reportedly Accepts Even Higher RAM and Storage Prices in 2027",
-      "link": "https://www.macrumors.com/2026/09/17/apple-higher-ram-storage-prices-2027-report/",
-      "pubDate": "Thu, 17 Sep 2026 22:46:18 +0000",
-      "description": "Apple has agreed to pay Samsung even higher prices for RAM and storage chips starting in the first quarter of 2027, according to a DigiTimes report this week citing an earlier report from Chinese publ",
-      "image": "https://images.macrumors.com/article-new/2024/04/apple-silicon-feature-joeblue.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Meta AI launches Muse personal agent, including apps for iPhone and Mac",
       "link": "https://9to5mac.com/2026/09/17/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
       "pubDate": "Thu, 17 Sep 2026 22:30:10 +0000",
       "description": "Update: Nine days later, Muse now includes a Mac app. You can download it here . Meta AI just launched a brand-new iPhone app called Muse from Meta. Similar to Grok Bot in presentation, Muse is a pers",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/muse-agent.webp?w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "First iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5 Orders Arriving to Customers",
-      "link": "https://www.macrumors.com/2026/09/17/iphone-18-pro-australia-nz/",
-      "pubDate": "Thu, 17 Sep 2026 21:59:31 +0000",
-      "description": "It's Friday, September 18 in Australia and New Zealand, which means customers who pre-ordered are beginning to receive their new devices. The iPhone 18 Pro , ‌iPhone 18 Pro‌ Max, Apple Watch",
-      "image": "https://images.macrumors.com/article-new/2026/09/First-iPhone-18-Pro-Apple-Watch-Series-12-Apple-Watch-Ultra-4-and-AirPods-5-Orders-Arriving-to-Customers-Feature.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "macOS 27: What’s new for the Photos app?",
@@ -106,44 +482,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "iPhone 18 Pro Unboxing: New Colors, Better Photos, and Smaller Dynamic Island",
-      "link": "https://www.macrumors.com/2026/09/17/iphone-18-pro-unboxing/",
-      "pubDate": "Thu, 17 Sep 2026 20:46:14 +0000",
-      "description": "The iPhone 18 Pro and ‌iPhone 18 Pro‌ Max are launching tomorrow, but we were able to get one early to share some initial impressions. Subscribe to the MacRumors YouTube channel for more vid",
-      "image": "https://images.macrumors.com/t/ucsLinA2wNBTGs3ibfLU2jaOVHk=/2000x/article-new/2026/09/iphone-18-pro-max-glacier.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "iPhone 18 Pro Launching Tomorrow With These 10 New Features",
-      "link": "https://www.macrumors.com/2026/09/17/iphone-18-pro-release-date-and-features/",
-      "pubDate": "Thu, 17 Sep 2026 20:45:00 +0000",
-      "description": "Apple last week unveiled the iPhone 18 Pro and iPhone 18 Pro Max . While the devices look very similar to the iPhone 17 Pro models, there are still quite a few new features and incremental changes com",
-      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "iPhone 18 Pro and Apple Watch Series 12 hands-on review, iOS 27 released",
       "link": "https://9to5mac.com/2026/09/17/happy-hour-608/",
       "pubDate": "Thu, 17 Sep 2026 20:44:56 +0000",
       "description": "Chance has been testing the iPhone 18 Pro and the new Apple Watches for the last week, and is here to give his hands-on reviews. Also, Apple has finally released its new operating systems out into the",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "How to Get the New 3-Month Trial of Apple One Premier ($120 Value)",
-      "link": "https://www.macrumors.com/2026/09/17/apple-one-three-month-trial/",
-      "pubDate": "Thu, 17 Sep 2026 20:23:20 +0000",
-      "description": "Starting today, new and qualifying returning subscribers can get a free three-month Apple One trial with the purchase of any new iPhone, iPad, or Mac capable of running the latest iOS, iPadOS, or macO",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-One-on-Gradient.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple Increases Battery Replacement Fee for iPhone 18 Pro and Pro Max",
-      "link": "https://www.macrumors.com/2026/09/17/apple-higher-iphone-18-pro-battery-fee/",
-      "pubDate": "Thu, 17 Sep 2026 20:05:44 +0000",
-      "description": "In the U.S., Apple is charging a higher $129 out-of-warranty fee to replace the battery in an iPhone 18 Pro or iPhone 18 Pro Max compared to previous models, according to its website . Apple has a",
-      "image": "https://images.macrumors.com/article-new/2026/09/deep-black-iphone-18-pro.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "iCloud+ subscribers just got new benefits in iOS 27",
@@ -160,30 +504,6 @@
       "description": "Readdle updated PDF Expert for iOS 27 and iPadOS 27 this week, adding several new features, including searchable handwriting in 29 languages. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/pdfexpert-ipados27.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "The AI Superintelligence Slowdown",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "pubDate": "2026-09-17T15:28:24-04:00",
-      "description": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researche",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK_414_5_D.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "New iPhone 18 Pro Models Will Have Day One Update",
-      "link": "https://www.macrumors.com/2026/09/17/iphone-18-pro-day-one-update/",
-      "pubDate": "Thu, 17 Sep 2026 19:25:14 +0000",
-      "description": "Customers receiving an iPhone 18 Pro , ‌iPhone 18 Pro‌ Max, an Apple Watch Series 12, or an Apple Watch Ultra 4 tomorrow will need to install a software update right away. The ‌iPhone 1",
-      "image": "https://images.macrumors.com/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "pubDate": "2026-09-17T14:58:05-04:00",
-      "description": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other too",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "macOS 27: Siri AI top features – Apple’s assistant finally comes to life [Video]",
@@ -210,28 +530,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Save $30 or more on a refurbished Apple TV 4K",
-      "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-      "pubDate": "2026-09-17T13:14:07-04:00",
-      "description": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying o",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Apple-TV-4K-roundup.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "9to5Mac Overtime 082: Origins of the Apple Store w/ special guest Ron Johnson",
       "link": "https://9to5mac.com/2026/09/17/9to5mac-overtime-082-origins-of-the-apple-store-w-special-guest-ron-johnson/",
       "pubDate": "Thu, 17 Sep 2026 17:10:53 +0000",
       "description": "Former Apple SVP of Retail Ron Johnson joins Overtime to discuss his new book, Shop Different: How Retail Revealed Apple’s Genius . Ron talks about the early days of the Apple Store, what it was like ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-082-Origins-of-the-Apple-Store-w-special-guest-Ron-Johnson.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "iPhone 15 Pro vs. iPhone 18 Pro Buyer's Guide: Should You Upgrade?",
-      "link": "https://www.macrumors.com/guide/iphone-15-pro-vs-18-pro/",
-      "pubDate": "Thu, 17 Sep 2026 16:28:13 +0000",
-      "description": "Apple announced the iPhone 18 Pro and ‌iPhone 18 Pro‌ Max earlier this month, arriving three years after the iPhone 15 Pro and iPhone 15 Pro Max. Three generations of changes make for a subs",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-15-pro-vs-iphone-18-pro.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Apple TV just dropped trailers for two upcoming premieres",
@@ -242,44 +546,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "50 New macOS Golden Gate Features and Changes Worth Checking Out",
-      "link": "https://www.macrumors.com/2026/09/17/new-features-changes-macos-27/",
-      "pubDate": "Thu, 17 Sep 2026 16:18:20 +0000",
-      "description": "Apple released macOS 27 Golden Gate this week, and despite the company's focus this year on refining its flagship operating system, improving performance, and nixing bugs, there are still plenty of ne",
-      "image": "https://images.macrumors.com/article-new/2026/09/50-New-macOS-Golden-Gate-Features-and-Changes-Worth-Checking-Out-Feature.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "iPhone 18 Pro Max Test Shows Much Faster Charging From 0% to 100%",
-      "link": "https://www.macrumors.com/2026/09/17/iphone-18-pro-max-charging-speed-test/",
-      "pubDate": "Thu, 17 Sep 2026 16:07:48 +0000",
-      "description": "Apple said the new iPhone 18 Pro models are capable of faster USB-C charging compared to the iPhone 17 Pro models, and a new video shared by the YouTube channel Xiaobai's Tech Reviews offers a closer ",
-      "image": "https://images.macrumors.com/article-new/2026/09/Black-iPhone-18-Pro.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
-      "link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
-      "pubDate": "2026-09-17T12:00:00-04:00",
-      "description": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox,",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25480192/247141_NOTEPAD_X_BOX_CVIRGINIA.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "9to5Mac Daily: September 17, 2026 – iOS 27.2 beta testing, more",
       "link": "https://9to5mac.com/2026/09/17/daily-september-17-2026/",
       "pubDate": "Thu, 17 Sep 2026 15:50:52 +0000",
       "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for O",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "iPhone 18 Pro Makes the Starting Lineup for Apple TV's Dodgers vs. Giants Broadcast",
-      "link": "https://www.macrumors.com/2026/09/17/iphone-18-pro-dodgers-vs-giants-broadcast/",
-      "pubDate": "Thu, 17 Sep 2026 15:43:28 +0000",
-      "description": "Apple TV's broadcast of the Los Angeles Dodgers vs. San Francisco Giants game this Friday will incorporate the brand new iPhone 18 Pro. More than a dozen iPhone 18 Pro devices will be placed throughou",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Burgundy.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "First iPhone 18 Pro pre-orders now say ‘shipped,’ here’s how to check yours",
@@ -298,30 +570,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Amazon Drops 13-Inch M5 MacBook Air Prices by $150",
-      "link": "https://www.macrumors.com/2026/09/17/amazon-150-m5-macbook-air-2/",
-      "pubDate": "Thu, 17 Sep 2026 15:33:07 +0000",
-      "description": "Amazon today is taking $150 off two models of the M5 MacBook Air , and this time the deals are focused on 13-inch models. These remain the best prices we've seen on the M5 MacBook Air in the wake ",
-      "image": "https://images.macrumors.com/article-new/2026/06/macbook-air-prime-day-2.jpeg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Camp Snap’s 110D gives slim retro film cameras a digital upgrade",
-      "link": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
-      "pubDate": "2026-09-17T11:00:00-04:00",
-      "description": "Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras i",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/campsnap2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Your robotaxi might be a narc",
-      "link": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
-      "pubDate": "2026-09-17T11:00:00-04:00",
-      "description": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected \"a violation of our terms of service involving a firearm,\" pull",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268756_Robotaxis_are_cops_now_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "iPhone 18 Pro will be used in this week’s Friday Night Baseball broadcast",
       "link": "https://9to5mac.com/2026/09/17/iphone-18-pro-will-be-used-in-this-weeks-friday-night-baseball-broadcast/",
       "pubDate": "Thu, 17 Sep 2026 14:46:24 +0000",
@@ -330,44 +578,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Watch Series 12 and Ultra 4 Reviews: Look Out, Oura Ring",
-      "link": "https://www.macrumors.com/review/apple-watch-series-12-ultra-4/",
-      "pubDate": "Thu, 17 Sep 2026 14:23:37 +0000",
-      "description": "The first reviews of the Apple Watch Series 12 and Apple Watch Ultra 4 are now available ahead of the devices launching this Friday, September 18. While both new Apple Watches look virtually identical",
-      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-s12-ultra-4.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "iPadOS 27.2 adds convenient new feature from the Mac",
       "link": "https://9to5mac.com/2026/09/17/ipados-27-2-adds-convenient-new-feature-from-the-mac/",
       "pubDate": "Thu, 17 Sep 2026 14:12:43 +0000",
       "description": "iPadOS 27.2 arrived in beta this week, and beyond adding the redesigned Health app , Apple has also brought over a recent Mac feature: a Siri popup when text is selected. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "pubDate": "2026-09-17T10:00:00-04:00",
-      "description": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.  It should",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD-Mustafa-Suleyman.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "AI is feared globally as the destroyer of jobs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-      "pubDate": "2026-09-17T10:00:00-04:00",
-      "description": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/pew-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
-      "link": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
-      "pubDate": "2026-09-17T10:00:00-04:00",
-      "description": "Lunacy, purveyor of fine VST plug-ins like Cube, a synth that you control by moving a ball around a 3D space, has just launched Nova, a platform where creators can build custom music tools using AI an",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-17-at-9.24.23-AM.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "Here’s everything new for Messages in iOS 27",
@@ -418,28 +634,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Which iOS 27 CarPlay Features Actually Work in Your Car?",
-      "link": "https://www.macrumors.com/2026/09/17/which-ios-27-carplay-features-actually-work/",
-      "pubDate": "Thu, 17 Sep 2026 11:17:46 +0000",
-      "description": "In iOS 27, available now, CarPlay gets its biggest update in years, but some features depend on what type of car you have rather than your iPhone model. Some of the biggest additions won't do anything",
-      "image": "https://images.macrumors.com/article-new/2026/03/ios-27-carplay-liquid-glass.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Tim Cook keeping John Ternus away from controversy by attending White House dinner",
       "link": "https://9to5mac.com/2026/09/17/tim-cook-keeping-john-ternus-away-from-controversy-by-attending-white-house-dinner/",
       "pubDate": "Thu, 17 Sep 2026 11:10:13 +0000",
       "description": "One of the trickier parts of Tim Cook’s job when he was Apple CEO was walking the tightrope of upholding the company’s values without provoking the ire of the White House over things like immigration ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-john-ternus.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "PSA: watchOS 27 Removes This Useful Feature From Your Apple Watch",
-      "link": "https://www.macrumors.com/2026/09/17/watchos-27-removes-useful-apple-watch-feature/",
-      "pubDate": "Thu, 17 Sep 2026 08:34:26 +0000",
-      "description": "Apple released watchOS 27 on September 14, bringing a new Audio Intelligence feature set to its latest Apple Watch models, but as a result, owners of previous models are set to lose out doubly in the ",
-      "image": "https://images.macrumors.com/article-new/2026/09/apple-watch-ultra-4-live-rewind.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Apple rolls out first Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
@@ -456,22 +656,6 @@
       "description": "Photographer Tyler Stalman is back with his annual iPhone camera review. Here’s what he had to say about the iPhone 18 Pro’s new variable aperture, photographic styles, Apple Reference Image, and more",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tyler-review.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Everything New in iOS 27.2 Beta 1",
-      "link": "https://www.macrumors.com/guide/ios-27-2-beta-features/",
-      "pubDate": "Wed, 16 Sep 2026 23:44:59 +0000",
-      "description": "Apple surprised us with the first beta of iOS 27.2 today instead of releasing an iOS 27.1 beta. Apple likely went straight to iOS 27.2 to keep iPhone Duo code under wraps for now, since we already kno",
-      "image": "https://images.macrumors.com/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Tim Cook to Attend White House State Dinner for Xi Jinping",
-      "link": "https://www.macrumors.com/2026/09/16/tim-cook-state-dinner-xi-jinping/",
-      "pubDate": "Wed, 16 Sep 2026 23:41:11 +0000",
-      "description": "Apple executive chairman Tim Cook is expected to attend a White House state dinner for Chinese President Xi Jinping, reports Bloomberg . Cook stepped down as Apple CEO and transitioned to executive ch",
-      "image": "https://images.macrumors.com/article-new/2026/09/Tim-Cook-Executive-Chair-16x9-1.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Snap announces Specs Intelligence app for iPhone and Mac, cellular variant of Specs",
@@ -522,28 +706,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Hands-On With the Redesigned Health App in the iOS 27.2 Beta",
-      "link": "https://www.macrumors.com/2026/09/16/ios-27-2-health-app-beta/",
-      "pubDate": "Wed, 16 Sep 2026 21:21:23 +0000",
-      "description": "With the iOS 27.2 beta, Apple is testing the new Health app that it previewed at its September iPhone event. The app has been entirely overhauled, with new Insights and Longevity tabs that give you mo",
-      "image": "https://images.macrumors.com/t/hSgFH4pRJjapJtA2R_VaMVwoR0Y=/2500x/article-new/2026/09/iOS-27.4%E2%80%A6uh-.2-Health-App-Thumb.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "iOS 27.2 will help users move data and settings from an old app to its replacement",
       "link": "https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
       "pubDate": "Wed, 16 Sep 2026 21:03:28 +0000",
       "description": "Starting with iOS 27.2, developers will be able to offer users a way to move their data and settings from an existing app to its designated replacement. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/app-migration.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "iOS 27.2 Could Save Your Marriage",
-      "link": "https://www.macrumors.com/2026/09/16/ios-27-2-could-save-your-marriage/",
-      "pubDate": "Wed, 16 Sep 2026 20:42:06 +0000",
-      "description": "The iOS 27.2 beta that Apple released today adds a feature that reminds you it's your anniversary when you call someone, as long as you've added the date in the Contacts app. On the date of your anniv",
-      "image": "https://images.macrumors.com/article-new/2026/09/ios272anniversary.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "This iOS 27 bug temporarily freezes your iPhone … and it’s going viral on social media",
@@ -887,174 +1055,6 @@
       "pubDate": "Tue, 15 Sep 2026 15:40:19 +0000",
       "description": "iOS 27 brings powerful upgrades to the iPhone’s Camera app, especially for users who have AI-compatible models or the iPhone 18 Pro. Here’s what’s new for Camera in iOS 27. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Deals: AirPods 5 $125, M5 MacBook Air $150 off, Apple Watch Series 12, 25W MagSafe car mount, more",
-      "link": "https://9to5mac.com/2026/09/15/deals-airpods-5-m5-macbook-air-apple-watch-series-12/",
-      "pubDate": "Tue, 15 Sep 2026 15:29:57 +0000",
-      "description": "Amazon is now offering the lowest price anywhere on the new AirPods 5 with ANC pre-orders down at $125 , just after launching its early fall Prime Day deals ( $50 off and AirTag 2 at $20 each, but tod",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-5-MacBook-Air.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Watch adds an all-new Readiness app, here’s how it works",
-      "link": "https://9to5mac.com/2026/09/15/apple-watch-adds-an-all-new-readiness-app-heres-how-it-works/",
-      "pubDate": "Tue, 15 Sep 2026 14:38:05 +0000",
-      "description": "Apple Watch is gaining an all-new health-related app called Readiness. Here’s what you need to know about Apple’s new fitness-focused Readiness app. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Watch-Readiness-Score-1.webp?w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Slow Horses is back tonight, and Apple just confirmed two more seasons",
-      "link": "https://9to5mac.com/2026/09/15/slow-horses-is-back-tonight-and-apple-just-confirmed-two-more-seasons/",
-      "pubDate": "Tue, 15 Sep 2026 14:35:47 +0000",
-      "description": "Apple TV has one of its best shows, Slow Horses, returning tonight for season 6 ( watch here ). And the streamer has just announced that seasons 7 and 8 are both already in the works. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Apple-Originals-score-nine-Golden-Globe-nominations.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Card has three new and improved features in iOS 27",
-      "link": "https://9to5mac.com/2026/09/15/apple-card-has-three-new-and-improved-features-in-ios-27/",
-      "pubDate": "Tue, 15 Sep 2026 14:00:41 +0000",
-      "description": "Apple Card gets even better in iOS 27, with new features like a recurring transactions section to help you stay on top of regular charges. Here’s what’s new. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Battery draining faster after updating to iOS 27? Don’t panic …",
-      "link": "https://9to5mac.com/2026/09/15/battery-draining-faster-after-updating-to-ios-27-dont-panic/",
-      "pubDate": "Tue, 15 Sep 2026 13:35:18 +0000",
-      "description": "If you’ve just updated your iPhone to iOS 27 , you may have felt concerned after seeing your battery draining faster than usual, as well as your device getting hot in normal use. If so, there’s no cau",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-trio-ios-27.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
-      "link": "https://9to5mac.com/2026/09/15/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
-      "pubDate": "Tue, 15 Sep 2026 13:34:09 +0000",
-      "description": "iOS 27 is packed with new features for apps like Notes , Wallet , Maps , Messages , and more. But one iOS 27 addition that’s especially impressed me is a new Phone feature : Call Context. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Spotify’s newest feature has been on my Apple Music wishlist for years",
-      "link": "https://9to5mac.com/2026/09/15/spotifys-newest-feature-has-been-on-my-apple-music-wishlist-for-years/",
-      "pubDate": "Tue, 15 Sep 2026 13:23:44 +0000",
-      "description": "Today Spotify announced a feature every parent has probably asked for: the ability to exclude kids and family music from their algorithm. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/spotify-toggle-childrens-family-music.jpg?quality=82&strip=all&w=1500",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Which new Apple products will launch this year – and which won’t?",
-      "link": "https://9to5mac.com/2026/09/15/which-new-apple-products-will-launch-this-year-and-which-wont/",
-      "pubDate": "Tue, 15 Sep 2026 13:01:20 +0000",
-      "description": "Apple may still be cleaning up after the end of the iPhone launch , but attention is already turning to an October event. There are still a lot of new products we’re expecting the company to unveil, w",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Which-new-Apple-products-will-launch-this-year-–-and-which-wont.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Fleet Device Management joins Anthropic’s Project Glasswing to research AI-powered endpoint security",
-      "link": "https://9to5mac.com/2026/09/15/fleet-device-management-joins-anthropics-project-glasswing-to-research-ai-powered-endpoint-security/",
-      "pubDate": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "description": "Fleet announced today that it has joined Project Glasswing, Anthropic’s controlled-access program for its Claude Mythos Preview. Fleet will use the access to evaluate how frontier AI can strengthen th",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Fleet.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "New Apple Watch features may require new legal precedent for privacy",
-      "link": "https://9to5mac.com/2026/09/15/new-apple-watch-features-may-require-new-legal-precedent-for-privacy/",
-      "pubDate": "Tue, 15 Sep 2026 12:17:07 +0000",
-      "description": "Two new Apple Watch features may see the device running up against privacy laws in multiple US states. That’s because the new Live Rewind and Siri Recap features audio-record conversations. The devil ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/New-Apple-Watch-features-may-require-new-legal-precedent-for-privacy.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Lukewarm orders for iPhone 18 Pro, says analyst – but it doesn’t mean much",
-      "link": "https://9to5mac.com/2026/09/15/lukewarm-orders-for-iphone-18-pro-says-analyst-but-it-doesnt-mean-much/",
-      "pubDate": "Tue, 15 Sep 2026 11:27:38 +0000",
-      "description": "A high-profile analyst has said that demand for the iPhone 18 Pro and Pro Max appears “lukewarm” based on pre-order wait times. Jeff Pu notes that most iPhone 18 Pro configurations are available for i",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple @ Work Podcast: Breaking down the improvements and benefits of Parallels Desktop 27",
-      "link": "https://9to5mac.com/2026/09/15/apple-work-podcast-breaking-down-the-improvements-and-benefits-of-parallels-desktop-27/",
-      "pubDate": "Tue, 15 Sep 2026 10:00:00 +0000",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "In select countries, iCloud+ now includes Apple TV and Apple Arcade at no extra charge",
-      "link": "https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/",
-      "pubDate": "Tue, 15 Sep 2026 07:37:46 +0000",
-      "description": "In more than 100 countries, Apple has launched a new initiative that bundles Apple TV and Apple Arcade subscriptions into iCloud+, at no extra charge. Rather than the pricier Apple One bundles, rollin",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-apple-arcade-icloud-plan.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Widow’s Bay sweeps 78th Primetime Emmy Awards as Apple TV scores 9 more wins",
-      "link": "https://9to5mac.com/2026/09/14/widows-bay-sweeps-78th-primetime-emmy-awards-as-apple-tv-scores-9-more-wins/",
-      "pubDate": "Tue, 15 Sep 2026 03:11:30 +0000",
-      "description": "After scoring 20 wins during the two-night Creative Arts Emmy Awards last week, Apple TV picked up another 9 wins tonight during the 78th Primetime Emmy Awards ceremony. Here’s the full list. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/widows-bay-matthew-rhys-rain.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Here’s what’s new with parental control features in iOS 27, iPadOS 27, and macOS 27",
-      "link": "https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/",
-      "pubDate": "Tue, 15 Sep 2026 02:43:51 +0000",
-      "description": "Included in today’s 2027 system updates from Apple are several new Screen Time and parental control features aimed at giving parents more control over how their kids use their devices. Here are the de",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/parental-controls-hero.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "9to5Mac Daily: September 14, 2026 – Apple retail changes, iPhone 18 Pro pre-orders",
-      "link": "https://9to5mac.com/2026/09/14/daily-september-14-2026/",
-      "pubDate": "Tue, 15 Sep 2026 00:53:36 +0000",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for O",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "New Apple CEO John Ternus attending Emmy Awards (and sporting iPhone Duo)",
-      "link": "https://9to5mac.com/2026/09/14/new-apple-ceo-john-ternus-attending-emmy-awards-and-sporting-iphone-duo/",
-      "pubDate": "Tue, 15 Sep 2026 00:23:33 +0000",
-      "description": "It’s Emmy Awards night, and John Ternus is in attendance. The new Apple CEO officially took over for Tim Cook two weeks ago, and he’s already doing iPhone Duo product demos for the stars and press. mo",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Gentler Streak and The Outsiders’ iOS 27 updates add Siri AI, onscreen awareness support, more",
-      "link": "https://9to5mac.com/2026/09/14/gentler-streak-and-the-outsiders-ios-27-updates-add-siri-ai-onscreen-awareness-support-more/",
-      "pubDate": "Mon, 14 Sep 2026 23:04:24 +0000",
-      "description": "The unstoppable team at Gentler Stories is out today with updates to both of its exercise-tracking apps, taking advantage of the new Siri AI and other capabilities introduced with iOS 27 . Here are th",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/gentler-ios27.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "XChat, X’s standalone messaging app, currently unavailable on App Store [U]",
-      "link": "https://9to5mac.com/2026/09/14/xchat-xs-standalone-messaging-app-currently-unavailable-on-app-store/",
-      "pubDate": "Mon, 14 Sep 2026 22:30:42 +0000",
-      "description": "XChat, X’s standalone messaging app for iPhone and iPad, is currently unavailable on the App Store. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/xchat.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "X and SpaceXAI move to drop Apple from antitrust lawsuit, keep claims against OpenAI",
-      "link": "https://9to5mac.com/2026/09/14/x-and-spacexai-move-to-drop-apple-from-antitrust-lawsuit-keep-claims-against-openai/",
-      "pubDate": "Mon, 14 Sep 2026 22:03:53 +0000",
-      "description": "X and SpaceXAI today filed a motion to voluntarily dismiss their claims against Apple in the antitrust lawsuit they brought against the company and OpenAI. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-logo-store.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Here’s every security fix included in iOS 27 and iPadOS 27",
-      "link": "https://9to5mac.com/2026/09/14/heres-every-security-fix-included-in-ios-27-and-ipados-27/",
-      "pubDate": "Mon, 14 Sep 2026 21:26:18 +0000",
-      "description": "In addition to publishing the security content for macOS 27, macOS 26.7, and macOS 15.8 , Apple has now detailed the fixes included in iOS 27 and iPadOS 27 , also released today. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-security-malware-virus-code-9to5mac.png?w=1600",
       "source": "9to5Mac"
     },
     {

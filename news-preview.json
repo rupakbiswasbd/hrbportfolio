@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-19T06:58:30.758Z",
+  "updatedAt": "2026-09-20T07:24:12.936Z",
   "items": [
     {
-      "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease",
-      "link": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
-      "pubDate": "Sat, 19 Sep 2026 04:51:11 +0000",
-      "description": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about Apple's upcoming iPhone Duo . The ‌iPhone Duo‌ uses a matte nano-texture display, which is",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Gemini app for macOS adding send and read iMessage integration",
-      "link": "https://9to5google.com/2026/09/18/gemini-macos-imessage/",
-      "pubDate": "Fri, 18 Sep 2026 23:57:57 +0000",
-      "description": "Google’s latest update to the Gemini app for macOS readies local iMessage integration. This follows the app coming to Windows last week. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Gemini-Mac-App-2.jpg?quality=82&strip=all&w=1600",
+      "title": "iOS 27 makes your iPhone faster in these 30+ ways",
+      "link": "https://9to5mac.com/2026/09/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
+      "pubDate": "Sun, 20 Sep 2026 00:16:46 +0000",
+      "description": "iOS 27 is now available to everyone, and one of the big changes is that it makes your iPhone a lot faster. In fact, Apple has outlined more than 30 ways in which your iPhone will be faster after you u",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
     {
-      "title": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping",
-      "link": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
-      "pubDate": "Fri, 18 Sep 2026 23:28:05 +0000",
-      "description": "The iPhone 18 Pro Max has a battery capacity over 20 watt-hours, which means there are additional shipping requirements. If an ‌iPhone 18 Pro‌ Max needs to be shipped somewhere, its maximum ",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-max-prepare.jpg",
-      "source": "MacRumors"
+      "title": "Apple Watch Series 12 and Ultra 4 missing one health-focused feature",
+      "link": "https://9to5mac.com/2026/09/19/apple-watch-series-12-ultra-4-missing-one-health-feature/",
+      "pubDate": "Sat, 19 Sep 2026 22:16:41 +0000",
+      "description": "Well, this is odd. The handwashing timer feature is currently absent from the new Apple Watch Series 12 and Ultra 4 hardware. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple is taking a little bit of a gamble with iPhone Duo software: Will it pay off?",
+      "link": "https://9to5mac.com/2026/09/19/apples-iphone-duo-software-gamble/",
+      "pubDate": "Sat, 19 Sep 2026 20:46:00 +0000",
+      "description": "With the new iPhone Duo, Apple is taking a little bit of a software gamble. All apps, in order to take advantage of the larger inner display of iPhone Duo, will need to be recompiled for iOS 27.0 at a",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-official-front.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
     }
   ]
 }

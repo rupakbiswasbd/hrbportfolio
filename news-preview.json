@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-21T07:34:37.554Z",
+  "updatedAt": "2026-09-22T07:14:19.989Z",
   "items": [
     {
-      "title": "iFixit Shares iPhone 18 Pro Teardown With Inside Look at New Features",
-      "link": "https://www.macrumors.com/2026/09/20/ifixit-iphone-18-pro-teardown/",
-      "pubDate": "Mon, 21 Sep 2026 03:44:59 +0000",
-      "description": "iFixit today published an iPhone 18 Pro and iPhone 18 Pro Max teardown in both article and video formats, providing a closer look inside the new devices. The teardown confirms the battery capacities f",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Battery.jpg",
-      "source": "MacRumors"
+      "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture",
+      "link": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
+      "pubDate": "Tue, 22 Sep 2026 02:07:14 +0000",
+      "description": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 2",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-b2.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
     },
     {
-      "title": "Apple Fitness+ Layoffs Reported Ahead of Potential 'Major' Changes",
-      "link": "https://www.macrumors.com/2026/09/20/apple-fitness-plus-layoffs-reported/",
-      "pubDate": "Mon, 21 Sep 2026 03:00:03 +0000",
-      "description": "Apple laid off a \"handful\" of Apple Fitness+ employees last week, according to Bloomberg 's Mark Gurman . \"This is widely seen within the Fitness+ organization as the beginning of more drastic cost-cu",
-      "image": "https://images.macrumors.com/article-new/2022/05/apple-fitness-plus-feature-magenta.jpg",
-      "source": "MacRumors"
+      "title": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
+      "link": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
+      "pubDate": "Tue, 22 Sep 2026 01:37:18 +0000",
+      "description": "Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used in the case, while also seeking documents related to parts of Op",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
     },
     {
-      "title": "A Shorter Apple Pencil Was Supposed to Launch Alongside iPhone Duo",
-      "link": "https://www.macrumors.com/2026/09/20/iphone-duo-lacks-shorter-apple-pencil/",
-      "pubDate": "Mon, 21 Sep 2026 02:47:43 +0000",
-      "description": "A shorter Apple Pencil for the iPhone Duo was in development, but Apple scrapped it due to \"technical problems ahead of mass production,\" according to Bloomberg 's Mark Gurman . Instead, Apple said th",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-hero.jpg",
-      "source": "MacRumors"
+      "title": "A cut cable disrupted hundreds of flights across the US",
+      "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+      "pubDate": "2026-09-21T19:48:56-04:00",
+      "description": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2242804026.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
     }
   ]
 }

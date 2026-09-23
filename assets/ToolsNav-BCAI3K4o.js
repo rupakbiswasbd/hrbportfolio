@@ -1,1 +1,0 @@
-import{at as e}from"./radix-ui-CMHyzIHt.js";import{n as t,t as n}from"./LanguageSwitcher-2Y2y9QqW.js";var r=e(),i=()=>(0,r.jsxs)(`div`,{className:`hidden lg:flex fixed top-6 right-6 z-50 gap-3`,children:[(0,r.jsx)(n,{}),(0,r.jsx)(t,{})]});export{i as default};

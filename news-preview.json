@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-09-23T07:16:19.240Z",
+  "updatedAt": "2026-09-24T07:06:36.850Z",
   "items": [
     {
-      "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD",
-      "link": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
-      "pubDate": "Wed, 23 Sep 2026 03:23:19 +0000",
-      "description": "As confirmed by the website \"Expand Mac mini,\" NAND storage in the new Mac mini models with the M6 and M5 Pro chips is soldered to the logic board, whereas the previous models with the M4 and M4 Pro c",
-      "image": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg",
+      "title": "Apple says software update to fix iPhone 18 Pro rebooting bug is coming next week",
+      "link": "https://9to5mac.com/2026/09/23/apple-iphone-18-pro-rebooting-bug-software-update-fix/",
+      "pubDate": "Thu, 24 Sep 2026 06:43:49 +0000",
+      "description": "On Monday, we reported on an issue where iPhone 18 Pro and iPhone 18 Pro Max users were seeing their phone freeze and reboot following a failed Face ID attempt. To us, it appeared to be a software gli",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mayo.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iPhone Handoff in iOS 27: How It Works, Pricing, and Carrier Support",
+      "link": "https://www.macrumors.com/guide/iphone-handoff-how-it-works-carrier-support-cost/",
+      "pubDate": "Thu, 24 Sep 2026 06:25:03 +0000",
+      "description": "Apple in iOS 27 introduced iPhone Handoff, a new eSIM feature that allows you to use the same number on two iPhones and seamlessly swap between them. The number is only active on one iPhone at a time,",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
       "source": "MacRumors"
     },
     {
-      "title": "Apple Card Savings Account's Interest Rate Just Went Up",
-      "link": "https://www.macrumors.com/2026/09/22/apple-card-savings-interest-rate-increase/",
-      "pubDate": "Wed, 23 Sep 2026 02:47:01 +0000",
-      "description": "The annual percentage yield (APY) for the Apple Card's savings account increased from 3.4% to 3.5% today. If you deposited $1,000 and made no withdrawals for one year, you would earn $35 in in",
-      "image": "https://images.macrumors.com/article-new/2024/12/apple-card-savings-account-feature-1.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "‘Brothers,’ starring Matthew McConaughey and Woody Harrelson, premieres on Apple TV",
-      "link": "https://9to5mac.com/2026/09/22/brothers-starring-matthew-mcconaughey-and-woody-harrelson-premieres-on-apple-tv/",
-      "pubDate": "Wed, 23 Sep 2026 01:01:41 +0000",
-      "description": "The first two episodes of “ Brothers ,” Apple TV’s new comedy series starring Woody Harrelson ( Natural Born Killers ) and Matthew McConaughey ( Interstellar ), are now available to subscribers. Watch",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/brothers-matthew-mcconaughey-woody-harrelson-hug.jpg?quality=82&strip=all&w=1600",
+      "title": "Meta announces camera-free glasses, dedicated Muse AI gadget, more",
+      "link": "https://9to5mac.com/2026/09/23/meta-announces-camera-free-glasses-dedicated-muse-ai-gadget-more/",
+      "pubDate": "Thu, 24 Sep 2026 01:24:44 +0000",
+      "description": "Meta announced today a series of AI-powered devices, including the Muse Charm, a palm-sized gadget designed specifically for its new Muse AI assistant. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/meta-muse.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     }
   ]

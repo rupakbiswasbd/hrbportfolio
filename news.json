@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-09-27T07:32:06.628Z",
+  "updatedAt": "2026-09-28T08:09:54.687Z",
   "items": [
+    {
+      "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+      "link": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+      "pubDate": "2026-09-28T04:00:36-04:00",
+      "description": "Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on]",
+      "link": "https://9to5mac.com/2026/09/27/anker-magsafe-travel-sized-3-in-1-charger-qi2/",
+      "pubDate": "Mon, 28 Sep 2026 00:16:20 +0000",
+      "description": "If you’re rocking an iPhone 16 or newer, you might be interested in a Qi2.2 charger to take full advantage of the 25W MagSafe charging speeds that your phone can support. Anker’s new 25W Prime MagSafe",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/IMG_1339.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iOS 27 makes a great change to Apple Pay on iPhone",
+      "link": "https://9to5mac.com/2026/09/27/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/",
+      "pubDate": "Sun, 27 Sep 2026 23:46:10 +0000",
+      "description": "Apple has redesigned the Apple Pay checkout flow in iOS 27 for apps and websites. The changes make it easier to switch between different payment cards and see key details about the order you’re placin",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-pay-ios-27.jpeg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Here’s what I’d like to see Apple do right in a screenless fitness tracker",
+      "link": "https://9to5mac.com/2026/09/27/apple-rumored-screenless-fitness-tracker-whoop-competitor/",
+      "pubDate": "Sun, 27 Sep 2026 23:01:18 +0000",
+      "description": "Last week, Bloomberg reported that Apple is working on a screenless fitness tracker, akin to a WHOOP or Fitbit Air. As someone who’s used the WHOOP for the past 6 months, I do think its a great concep",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/AW-vs-WHOOP-6.jpg?quality=82&strip=all&w=1500",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+      "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+      "pubDate": "2026-09-27T17:59:57-04:00",
+      "description": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing va",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "This is my top feature request for the upcoming A20 Pro iPad mini",
+      "link": "https://9to5mac.com/2026/09/27/apple-next-ipad-mini-feature-request/",
+      "pubDate": "Sun, 27 Sep 2026 21:38:44 +0000",
+      "description": "For the past year, we’ve been looking forward to a new iPad mini refresh, and it’s sounding like its just around the corner. A new leak last week from Aaron Perris unveiled that the product should fea",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/iPad-mini-7-1.jpg?quality=82&strip=all&w=1500",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "pubDate": "2026-09-27T16:46:36-04:00",
+      "description": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate com",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "pubDate": "2026-09-27T13:21:07-04:00",
+      "description": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro",
+      "link": "https://www.macrumors.com/2026/09/27/2026-macbook-pro-900-off/",
+      "pubDate": "Sun, 27 Sep 2026 15:30:35 +0000",
+      "description": "Amazon has introduced a major discount on the 16-inch MacBook Pro with the M5 Max chip, 32-Core GPU, 36GB RAM, and 2TB SSD, now available for $3,499.00 , down from $4,399.00. This is a massive",
+      "image": "https://images.macrumors.com/article-new/2026/03/m5-pro-macbook-pro-launch-day.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Report: Apple working on new Vision Pro, with different form factors on the table",
+      "link": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/",
+      "pubDate": "Sun, 27 Sep 2026 14:47:05 +0000",
+      "description": "After the release of Vision Pro, everyone wanted to know how long it would be before the company could release a lighter version that isn’t so bulky on your face. For the longest time, we had been loo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/vision-pro-m50001.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple hit with $5.7 billion verdict over Taptic Engine patent infringement",
+      "link": "https://9to5mac.com/2026/09/27/apple-hit-with-5-7-billion-verdict-over-taptic-engine-patent-infringement/",
+      "pubDate": "Sun, 27 Sep 2026 12:49:53 +0000",
+      "description": "Apple must pay $5.7 billion for infringing on patents held by Taction Technology, a US jury ruled on Friday. The patents relate to Apple’s Taptic Engine, which is the hardware Apple uses to provide ha",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Why OLPC’s $100 laptop never stood a chance",
+      "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+      "pubDate": "2026-09-27T08:25:00-04:00",
+      "description": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix every",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VRH_Site_2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Googlebooks might be the real deal",
+      "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+      "pubDate": "2026-09-27T08:00:00-04:00",
+      "description": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "The smart home graveyard is getting crowded",
+      "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+      "pubDate": "2026-09-27T08:00:00-04:00",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_190131_3100_0022.webp?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
+      "link": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available/",
+      "pubDate": "Sun, 27 Sep 2026 08:24:00 +0000",
+      "description": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solutions",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
     {
       "title": "These are the best MacBook deals right now: September 2026 Buyer’s Guide",
       "link": "https://9to5mac.com/2026/09/26/these-are-the-best-macbook-deals/",
@@ -50,28 +170,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "pubDate": "2026-09-26T12:34:59-04:00",
-      "description": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The de",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "These are my favorite iPhone 18 Pro & Pro Max cases so far [Video]",
       "link": "https://9to5mac.com/2026/09/26/these-are-my-favorite-iphone-18-pro-pro-max-cases-so-far-video/",
       "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
       "description": "The new iPhone 18 Pro and 18 Pro Max have been out for a week, and they have been amazing devices to use and test. While the actual footprint and visual design remain unchanged, Apple spiced things up",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Cases.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "pubDate": "2026-09-26T10:00:00-04:00",
-      "description": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "Top Stories: Apple Leaks, Siri AI Settlement, and More",
@@ -90,14 +194,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Control Resonant is a great game — it’s even better when you read everything",
-      "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
-      "pubDate": "2026-09-26T09:00:00-04:00",
-      "description": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading every",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Story_04.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Weekend Apple deals: Beats 360, AirPods Pro 3, Mac Studio, MacBook Air, more",
       "link": "https://9to5mac.com/2026/09/26/apple-deals-this-week-best/",
       "pubDate": "Sat, 26 Sep 2026 12:42:34 +0000",
@@ -106,28 +202,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Pokémon card resellers have turned collecting into an online blood sport",
-      "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
-      "pubDate": "2026-09-26T08:00:00-04:00",
-      "description": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush show",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268781_Pokemon_PARKIN_v3.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "watchOS 27: 12 New Things To Check Out on Your Apple Watch",
       "link": "https://www.macrumors.com/guide/watchos-27-new-things-apple-watch/",
       "pubDate": "Sat, 26 Sep 2026 07:30:06 +0000",
       "description": "Apple released watchOS 27 on September 14. The features and changes aren't limited to owners of new Apple Watch Series 12 and Apple Watch Ultra 4 models. If you have an Apple Watch model that supports",
       "image": "https://images.macrumors.com/article-new/2026/06/watchOS-27-Hands-On-Thumb.jpg",
       "source": "MacRumors"
-    },
-    {
-      "title": "Can ‘eSUV’ e-bikes really go from trail to town?",
-      "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-      "pubDate": "2026-09-26T03:00:00-04:00",
-      "description": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes cla",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4650.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "OpenAI accuses Apple of improperly adding new evidence to trade secrets case",
@@ -234,14 +314,6 @@
       "source": "MacRumors"
     },
     {
-      "title": "Roku’s first OLED TVs are up to $400 off, starting at $699",
-      "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
-      "pubDate": "2026-09-25T14:18:57-04:00",
-      "description": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and s",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roku-Pro-Series-2026-oled-roundup.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Apple Code Confirms iPad 12 Specs: A19, 8GB RAM, N1, C1X Modem",
       "link": "https://www.macrumors.com/2026/09/25/ipad-12-feature-leak/",
       "pubDate": "Fri, 25 Sep 2026 18:01:23 +0000",
@@ -256,14 +328,6 @@
       "description": "For this week's giveaway, we've teamed up with Lululook to offer MacRumors readers a chance to win a new Apple Watch Ultra 4 . Lululook makes all kinds of accessories for Apple devices, including the ",
       "image": "https://images.macrumors.com/article-new/2026/09/lululook-apple-watch-titanium.jpg",
       "source": "MacRumors"
-    },
-    {
-      "title": "Phones don’t have lights",
-      "link": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
-      "pubDate": "2026-09-25T13:42:59-04:00",
-      "description": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noti",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VST_0925_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "tvOS 27 to add screensaver sound effects on Apple TV 4K, per leak",
@@ -504,14 +568,6 @@
       "description": "iOS 27 is packed with a wide array of new features for iPhone, including in Apple Maps. Here are the two tentpole iOS 27 features for Apple Maps, plus some miscellaneous improvements. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Music to Host Free Head Trip Festival Livestream",
-      "link": "https://www.macrumors.com/2026/09/24/apple-music-head-trip-livestream/",
-      "pubDate": "Thu, 24 Sep 2026 19:48:43 +0000",
-      "description": "Apple Music is teaming up with Goldenvoice to livestream the Head Trip music festival that's taking place in Indio, California, on October 10 and 11. Head Trip will feature Calvin Harris, Fisher with ",
-      "image": "https://images.macrumors.com/article-new/2024/08/apple-music.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "macOS 27 Top Features: much more than just Siri AI [Video]",
@@ -999,62 +1055,6 @@
       "pubDate": "Tue, 22 Sep 2026 15:19:03 +0000",
       "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for O",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Brazil court tells Apple to add age checks for casino app purchases",
-      "link": "https://9to5mac.com/2026/09/22/brazil-court-tells-apple-to-add-age-checks-for-casino-app-purchases/",
-      "pubDate": "Tue, 22 Sep 2026 15:09:20 +0000",
-      "description": "A Brazilian court has ordered Apple to tighten age controls around a casino-style app on the App Store, including requiring age verification before making in-app purchases. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/brazil-app-store.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Watch Series 12: My three favorite new features so far",
-      "link": "https://9to5mac.com/2026/09/22/apple-watch-series-12-my-three-favorite-new-features-so-far/",
-      "pubDate": "Tue, 22 Sep 2026 14:48:44 +0000",
-      "description": "I upgraded to an Apple Watch Series 12 last week, and so far after a few days of testing there are three standout features for me. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-rc-close.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Wallet driver’s licenses coming to three new states soon",
-      "link": "https://9to5mac.com/2026/09/22/apple-wallet-drivers-licenses-coming-to-three-new-states-soon/",
-      "pubDate": "Tue, 22 Sep 2026 14:03:53 +0000",
-      "description": "Apple Wallet driver’s licenses recently launched in Virginia and Oklahoma , but three more states are expected to follow soon, bringing us close to 20 US states on board. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/apple-wallet-ios-26.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Review: Beats 360 are the closest Apple headphones to AirPods Max, with one caveat",
-      "link": "https://9to5mac.com/2026/09/22/apple-beats-360-review-close-to-airpods-max/",
-      "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
-      "description": "The highly anticipated Beats 360 are now available for purchase. After being teased prior to the World Cup, Apple’s latest pair of Beats headphones are now on the market. I got an early hands-on with ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC02772.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Three weeks into the John Ternus era, Apple crosses its highest valuation ever",
-      "link": "https://9to5mac.com/2026/09/22/three-weeks-into-the-john-ternus-era-apple-crosses-its-highest-valuation-ever/",
-      "pubDate": "Tue, 22 Sep 2026 13:54:26 +0000",
-      "description": "Apple shares briefly reached $345.34 moments after the market opened today, surpassing July’s intraday record of $344.57. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Security Bite: The last 24 hours at Meta were “not-a-musing”",
-      "link": "https://9to5mac.com/2026/09/22/security-bite-the-last-24-hours-at-meta-were-not-a-musing/",
-      "pubDate": "Tue, 22 Sep 2026 13:34:30 +0000",
-      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to man",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "PITAKA’s iPhone 18 Pro cases bring stunning designs and protection from $59.99 [Save 10%]",
-      "link": "https://9to5mac.com/2026/09/22/pitaka-iphone-18-cases/",
-      "pubDate": "Tue, 22 Sep 2026 13:25:39 +0000",
-      "description": "PITAKA’s iPhone 18 Pro cases bring new colors, updated materials, and three different approaches to protecting your next iPhone. Whether you prefer a barely-there shell or a case with reinforced corne",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/pitaka-iphone-18-pro-hero.webp?w=1600",
       "source": "9to5Mac"
     },
     {

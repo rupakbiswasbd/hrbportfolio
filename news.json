@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-10-03T07:32:10.256Z",
+  "updatedAt": "2026-10-04T07:43:06.091Z",
   "items": [
+    {
+      "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+      "link": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+      "pubDate": "Sat, 03 Oct 2026 21:26:32 +0000",
+      "description": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/gemini-logo.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Watch F1 on Apple TV tonight, free for everyone in the US",
+      "link": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/",
+      "pubDate": "Sat, 03 Oct 2026 19:44:04 +0000",
+      "description": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusingly, the location of the Bahrain Grand Prix is actually in Sepang, Malaysia. Usually, F1 ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-bahrain-grand-prix.jpg?quality=82&strip=all&w=1428",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
+      "link": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
+      "pubDate": "Sat, 03 Oct 2026 19:30:00 +0000",
+      "description": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Ever",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HEVCut.png?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
+      "link": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
+      "pubDate": "Sat, 03 Oct 2026 18:48:22 +0000",
+      "description": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10 I owned prior was only purchased this January, despite initially coming out in September ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-ai.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "pubDate": "2026-10-03T12:49:10-04:00",
+      "description": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a present",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
+      "link": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
+      "pubDate": "Sat, 03 Oct 2026 16:36:23 +0000",
+      "description": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Apple Intelligence. Rumors had swirled for q",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/Apple-iPad-10th-gen-hero-221018_Full-Bleed-Image.jpg.xlarge_2x.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "The best early October Prime Day deals happening now",
+      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "pubDate": "2026-10-03T12:22:40-04:00",
+      "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, whic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "pubDate": "2026-10-03T11:00:00-04:00",
+      "description": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "pubDate": "2026-10-03T10:31:56-04:00",
+      "description": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple @ Work: The numbers on AI trust for IT are not great, and one company is trying to fix it",
+      "link": "https://9to5mac.com/2026/10/03/macpaw-leebry/",
+      "pubDate": "Sat, 03 Oct 2026 13:45:00 +0000",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Top Stories: Apple Smart Home Launch on October 13, iPhone Duo Production Issues, and More",
+      "link": "https://www.macrumors.com/2026/10/03/top-stories-apple-smart-home-launch-october-13/",
+      "pubDate": "Sat, 03 Oct 2026 13:00:12 +0000",
+      "description": "Things are getting crazy in the Apple rumor world, as even though the iPhone 18 Pro and several other products have only just launched and the iPhone Duo is right around the corner, there's even more ",
+      "image": "https://images.macrumors.com/article-new/2026/10/top-stories-2026-10-03.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple weekend deals: MacBook Pro $500 off, AirTag 2, Prime Day HomeKit discounts, MagSafe chargers, more",
+      "link": "https://9to5mac.com/2026/10/03/apple-weekend-deals-macbook-discounts/",
+      "pubDate": "Sat, 03 Oct 2026 12:21:42 +0000",
+      "description": "While we are still awaiting some of the big fall Prime Day deals on some Apple products, there are already notable discounts up for grabs right now like the $500 price drop on this 2TB M5 Pro MacBook ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-weekend-deals-October-2026.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "3D movies are finally worth watching",
+      "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+      "pubDate": "2026-10-03T08:00:00-04:00",
+      "description": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
     {
       "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced",
       "link": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
@@ -138,14 +242,6 @@
       "source": "The Verge"
     },
     {
-      "title": "Breaking up (with Elon Musk) is hard to do",
-      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "pubDate": "2026-10-02T13:37:36-04:00",
-      "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Al",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STPK222_SHIVON_ZILIS2.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Apple’s new ‘homeOS’ will launch this month, here’s what’s coming",
       "link": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/",
       "pubDate": "Fri, 02 Oct 2026 17:22:19 +0000",
@@ -154,36 +250,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
-      "link": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
-      "pubDate": "2026-10-02T13:15:03-04:00",
-      "description": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,7",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0019.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Beehiiv creators are buzzing about a new price increase",
-      "link": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
-      "pubDate": "2026-10-02T12:51:49-04:00",
-      "description": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder and",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/beehiiv-logo.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Apple now sells Aqara Adaptive Temperature thermostat and seven more accessories",
       "link": "https://9to5mac.com/2026/10/02/apple-now-sells-aqara-adaptive-temperature-thermostat-and-seven-more-accessories/",
       "pubDate": "Fri, 02 Oct 2026 16:43:34 +0000",
       "description": "This week Apple refreshed its third-party accessories lineup to include eight additional products. This includes the Aqara Thermostat Hub W200 and more. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-store.webp?w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
-      "link": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-      "pubDate": "2026-10-02T12:35:13-04:00",
-      "description": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping butt",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "AT&T on iPhone 18 Pro Max Issues: 'We Are Working With Apple'",
@@ -208,14 +280,6 @@
       "description": "Alongside using the iPhone 18 Pro , I’ve also been carrying out a little experiment as we await the launch of the iPhone Duo . To get a sense of what it might be like to use the large screen of the up",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Using-an-iPad-mini-to-preview-the-iPhone-Duo-experience.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Dots get up in Muse’s business",
-      "link": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
-      "pubDate": "2026-10-02T11:47:05-04:00",
-      "description": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_100227_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "iOS 27.2 gives Apple Podcasts the big fix I’ve wanted for years",
@@ -568,14 +632,6 @@
       "description": "Cybersecurity company Jamf has discovered a fake Mac installer for the videoconferencing app Zoom that uses a sneaky way to bypass Apple’s Gatekeeper protection against malware . The malware does actu",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/This-fake-Mac-Zoom-installer-has-a-sneaky-way-to-bypass-Gatekeeper.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "iPhone 18 Pro Sales Jump in China Ahead of iPhone Duo Launch",
-      "link": "https://www.macrumors.com/2026/10/01/strong-iphone-18-pro-launch-sales-china/",
-      "pubDate": "Thu, 01 Oct 2026 11:37:34 +0000",
-      "description": "Sales of iPhone 18 Pro models in China were 12% higher in the three days after launching than sales of iPhone 17 Pro models were during their entire first week last year, according to Counterpoint Res",
-      "image": "https://images.macrumors.com/article-new/2026/09/iphone-18-pro-and-iphone-18-pro-max.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Reddit is making two changes some long-time users won’t like",
@@ -990,62 +1046,6 @@
       "link": "https://9to5mac.com/2026/09/29/feature-request-one-change-for-the-most-important-use-of-notify-me/",
       "pubDate": "Tue, 29 Sep 2026 11:54:35 +0000",
       "description": "A key new feature in macOS 27 is Safari’s Notify Me function . This has the Apple Intelligence automatically monitor a web page for updates and send a notification when it occurs. This feature can be ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/safari-notify-me-alert.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Craig Federighi on how Apple helps developers make the most of the iPhone Duo [Video]",
-      "link": "https://9to5mac.com/2026/09/29/craig-federighi-on-how-apple-helps-developers-make-the-most-of-the-iphone-duo-video/",
-      "pubDate": "Tue, 29 Sep 2026 11:31:01 +0000",
-      "description": "Apple software chief Craig Federighi said in an interview that he is excited to see what developers will do with the hinge mechanism in the iPhone Duo . He said an API lets developers read the angle o",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&strip=all&w=1500",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Duo-Man turns your 2026 iPhone Duo into a 1980s Sony Walkman",
-      "link": "https://9to5mac.com/2026/09/29/duo-man-turns-your-2026-iphone-duo-into-a-1980s-sony-walkman/",
-      "pubDate": "Tue, 29 Sep 2026 10:58:56 +0000",
-      "description": "Long before the iPod , the Sony Walkman was the device of choice for those who wanted to add a soundtrack to their life. Now a Duo-Man app recreates the experience for those of us old enough to have o",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Duo-Man-turns-your-2026-iPhone-Duo-into-a-1980s-Sony-Walkman.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple @ Work Podcast: Solving the patch management problem for Apple admins",
-      "link": "https://9to5mac.com/2026/09/29/apple-work-podcast-solving-the-patch-management-problem-for-apple-admins/",
-      "pubDate": "Tue, 29 Sep 2026 10:00:00 +0000",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
-      "link": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/",
-      "pubDate": "Tue, 29 Sep 2026 01:44:04 +0000",
-      "description": "Deadline reports that Apple TV recently recorded its biggest week ever for viewership, fueled by its 29 Emmy wins and recent releases such as Ted Lasso and Mayday. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-intro-vibrant.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple and Amazon face renewed UK antitrust lawsuit",
-      "link": "https://9to5mac.com/2026/09/28/apple-and-amazon-face-renewed-uk-antitrust-lawsuit/",
-      "pubDate": "Tue, 29 Sep 2026 01:21:23 +0000",
-      "description": "A UK tribunal has allowed part of a renewed antitrust lawsuit against Apple and Amazon to move forward, over allegations that the companies restricted competition for Apple and Beats products sold on ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/amazon-apple.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "This website lets you explore nearly 30 years of Apple product colors",
-      "link": "https://9to5mac.com/2026/09/28/this-website-lets-you-explore-nearly-30-years-of-apple-product-colors/",
-      "pubDate": "Tue, 29 Sep 2026 01:01:54 +0000",
-      "description": "The folks at sheets.works are back at it again, this time with an interactive archive of 341 Apple product colors spanning nearly three decades. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-in-colour.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "macOS 27: How to use the new ‘Notify Me’ feature in Safari",
-      "link": "https://9to5mac.com/2026/09/28/macos-27-how-to-use-the-new-notify-me-feature-in-safari/",
-      "pubDate": "Mon, 28 Sep 2026 22:53:05 +0000",
-      "description": "9to5Mac is brought to you by CleanMyMac by MacPaw . With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day o",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/safari-notify-me-alert.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },

@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-04T07:43:06.091Z",
+  "updatedAt": "2026-10-05T08:13:55.100Z",
   "items": [
     {
-      "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
-      "link": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
-      "pubDate": "Sat, 03 Oct 2026 21:26:32 +0000",
-      "description": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/gemini-logo.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
+      "title": "Introducing RocketTrace: Using Xcode Instruments with AI Agents",
+      "link": "https://www.avanderlee.com/ai-development/introducing-rockettrace-using-xcode-instruments-with-ai-agents/",
+      "pubDate": "Mon, 05 Oct 2026 07:58:25 +0000",
+      "description": "I’m super excited to introduce you to RocketTrace: a Mac app that analyzes your Xcode Instruments recordings and turns them into ranked findings that your AI agent can act on. Instead of asking ",
+      "image": "https://swiftlee-banners.herokuapp.com/imagegenerator.php?title=Introducing+RocketTrace%3A+Using+Xcode+Instruments+with+AI+Agents",
+      "source": "Antoine van der Lee"
     },
     {
-      "title": "Watch F1 on Apple TV tonight, free for everyone in the US",
-      "link": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/",
-      "pubDate": "Sat, 03 Oct 2026 19:44:04 +0000",
-      "description": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusingly, the location of the Bahrain Grand Prix is actually in Sepang, Malaysia. Usually, F1 ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-bahrain-grand-prix.jpg?quality=82&strip=all&w=1428",
-      "source": "9to5Mac"
+      "title": "Apple's New CEO John Ternus is Making Product Design a 'Major Priority'",
+      "link": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/",
+      "pubDate": "Mon, 05 Oct 2026 02:35:01 +0000",
+      "description": "Since becoming Apple's CEO last month, John Ternus has made product design a \"major priority,\" according to Bloomberg 's Mark Gurman. \"Ternus already had some involvement with the design studio as App",
+      "image": "https://images.macrumors.com/article-new/2026/10/John-Ternus-iPhone-Duo.jpg",
+      "source": "MacRumors"
     },
     {
-      "title": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
-      "link": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
-      "pubDate": "Sat, 03 Oct 2026 19:30:00 +0000",
-      "description": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Ever",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HEVCut.png?w=1600",
-      "source": "9to5Mac"
+      "title": "Apple Hiring 'iCup' Specialist",
+      "link": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing/",
+      "pubDate": "Mon, 05 Oct 2026 02:11:42 +0000",
+      "description": "Apple recently posted a job listing for an \"iCup Supply Specialist\" who would be responsible for ensuring that \"all Apple employees have access to freshly brewed coffee in their break room.\" MacRumors",
+      "image": "https://images.macrumors.com/article-new/2026/01/wwdc-sans-text-feature.jpg",
+      "source": "MacRumors"
     }
   ]
 }

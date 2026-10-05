@@ -1,6 +1,190 @@
 {
-  "updatedAt": "2026-10-04T07:43:06.091Z",
+  "updatedAt": "2026-10-05T08:13:55.100Z",
   "items": [
+    {
+      "title": "Introducing RocketTrace: Using Xcode Instruments with AI Agents",
+      "link": "https://www.avanderlee.com/ai-development/introducing-rockettrace-using-xcode-instruments-with-ai-agents/",
+      "pubDate": "Mon, 05 Oct 2026 07:58:25 +0000",
+      "description": "I’m super excited to introduce you to RocketTrace: a Mac app that analyzes your Xcode Instruments recordings and turns them into ranked findings that your AI agent can act on. Instead of asking ",
+      "image": "https://swiftlee-banners.herokuapp.com/imagegenerator.php?title=Introducing+RocketTrace%3A+Using+Xcode+Instruments+with+AI+Agents",
+      "source": "Antoine van der Lee"
+    },
+    {
+      "title": "Apple's New CEO John Ternus is Making Product Design a 'Major Priority'",
+      "link": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/",
+      "pubDate": "Mon, 05 Oct 2026 02:35:01 +0000",
+      "description": "Since becoming Apple's CEO last month, John Ternus has made product design a \"major priority,\" according to Bloomberg 's Mark Gurman. \"Ternus already had some involvement with the design studio as App",
+      "image": "https://images.macrumors.com/article-new/2026/10/John-Ternus-iPhone-Duo.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Hiring 'iCup' Specialist",
+      "link": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing/",
+      "pubDate": "Mon, 05 Oct 2026 02:11:42 +0000",
+      "description": "Apple recently posted a job listing for an \"iCup Supply Specialist\" who would be responsible for ensuring that \"all Apple employees have access to freshly brewed coffee in their break room.\" MacRumors",
+      "image": "https://images.macrumors.com/article-new/2026/01/wwdc-sans-text-feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "MacBook Pro With OLED Display Rumored to Be 'Significantly Lighter'",
+      "link": "https://www.macrumors.com/2026/10/04/oled-macbook-pro-significantly-lighter-rumor/",
+      "pubDate": "Mon, 05 Oct 2026 01:22:06 +0000",
+      "description": "Bloomberg 's Mark Gurman today said the new MacBook Pro models with OLED displays will be \"significantly lighter\" than the existing MacBook Pro models. \"Apple has reengineered the machine's interior, ",
+      "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Event Reportedly Planned for October 13",
+      "link": "https://www.macrumors.com/2026/10/04/apple-event-reportedly-planned-for-october-13/",
+      "pubDate": "Mon, 05 Oct 2026 00:07:38 +0000",
+      "description": "Last week, Bloomberg 's Mark Gurman reported that Apple plans to unveil an all-new smart home hub, a new HomePod mini, and a new Apple TV 4K on Tuesday, October 13 . In his Power On newsletter today ,",
+      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iPhone Duo shows what the future of smartphones could look like",
+      "link": "https://9to5mac.com/2026/10/04/iphone-duo-shows-what-the-future-of-smartphones-could-look-like/",
+      "pubDate": "Sun, 04 Oct 2026 21:32:00 +0000",
+      "description": "Since the unveiling of iPhone Duo , the idea of all major interface navigation elements being accessible from your thumb has been really interesting. Apple re-invented the idea of smartphone navigatio",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "The new Fitbit Edge leaks",
+      "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+      "pubDate": "2026-10-04T17:02:09-04:00",
+      "description": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, y",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24438538/Fitbit_STK151_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+      "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+      "pubDate": "2026-10-04T16:00:00-04:00",
+      "description": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Prick.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "This is my biggest AirPods complaint, and it’s not necessarily about the hardware",
+      "link": "https://9to5mac.com/2026/10/04/this-is-my-biggest-airpods-complaint/",
+      "pubDate": "Sun, 04 Oct 2026 19:09:34 +0000",
+      "description": "AirPods are one of Apple’s most interesting products. The demand for them was largely invented by the fact that the company removed the headphone jack 10 years ago, and now most of us carry this almos",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "The best early October Prime Day deals happening now",
+      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "pubDate": "2026-10-04T13:18:00-04:00",
+      "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, whic",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+      "pubDate": "2026-10-04T12:16:04-04:00",
+      "description": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-form",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Amazon Launches Early Prime Day Discounts on AirPods, iPad, MacBook Air, and More",
+      "link": "https://www.macrumors.com/2026/10/04/amazon-early-prime-day-apple/",
+      "pubDate": "Sun, 04 Oct 2026 16:15:23 +0000",
+      "description": "Earlier this week, we began tracking early Prime Day deals on Apple-related accessories , and today Amazon has introduced major early deals on Apple products as well. This includes AirPods, iPads, Mac",
+      "image": "https://images.macrumors.com/article-new/2025/10/Prime-Big-Deal-Days-25-Red-and-Green.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "AirPods Pro 3 Hit Record Low $179 Price During Early Prime Day Sale",
+      "link": "https://www.macrumors.com/2026/10/04/airpods-pro-3-179-prime-day/",
+      "pubDate": "Sun, 04 Oct 2026 15:33:10 +0000",
+      "description": "Amazon has the AirPods Pro 3 available for $179.00 this week, down from $249.00. This is a match of the all-time low price on the AirPods Pro 3, which we haven't tracked since around June. Not",
+      "image": "https://images.macrumors.com/article-new/2026/10/airpods-pro-3-prime-day-october.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple weekend deals: AirPods Pro 3 $179, MacBook Air $200 off, AirTag 2, Prime Day HomeKit discounts, more",
+      "link": "https://9to5mac.com/2026/10/04/apple-weekend-deals-macbook-discounts/",
+      "pubDate": "Sun, 04 Oct 2026 15:26:14 +0000",
+      "description": "Update 10/4: Amazon just dropped AirPods Pro 3 down to $179, delivering one of the lowest prices ever. Amazon is also now delivering almost all M5 MacBook Air models at $200 off the list price. You’ll",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-weekend-deals-October-2026.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "pubDate": "2026-10-04T11:21:59-04:00",
+      "description": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "John Ternus is taking a more ‘hands-on’ role in Apple’s design teams as CEO: report",
+      "link": "https://9to5mac.com/2026/10/04/john-ternus-is-taking-a-more-hands-on-role-in-apples-design-teams-as-ceo-report/",
+      "pubDate": "Sun, 04 Oct 2026 15:15:15 +0000",
+      "description": "Since Jony Ive’s departure from Apple in 2019, the company hasn’t had much of a true design lead. For a while, former COO Jeff Williams was in charge of design , until his departure last year. Since t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-event.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+      "link": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+      "pubDate": "2026-10-04T11:00:00-04:00",
+      "description": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Redesigned MacBook Pro with OLED to feature ‘significantly lighter’ design: report",
+      "link": "https://9to5mac.com/2026/10/04/apple-macbook-pro-redesign-to-be-much-lighter-report/",
+      "pubDate": "Sun, 04 Oct 2026 14:11:01 +0000",
+      "description": "Apple’s major MacBook Pro overhaul is just around the corner, and should debut within a month or so. It’ll be the first touchscreen MacBook, as well as the first with Tandem OLED. Beyond that, though,",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/macbook-pro-glow-colorful.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "The AirPods Pro 3 are a fantastic deal at $179",
+      "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "pubDate": "2026-10-04T09:00:00-04:00",
+      "description": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "The MacBook Air M5 is $200 off for the first time in months",
+      "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "pubDate": "2026-10-04T08:34:01-04:00",
+      "description": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "The iPad Mini is slightly cheaper again during Prime Day",
+      "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "pubDate": "2026-10-04T08:31:50-04:00",
+      "description": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "The forgotten Chromebook that started it all",
+      "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+      "pubDate": "2026-10-04T08:00:00-04:00",
+      "description": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal t",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Chromebook_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "AirPods Pro 3 hit low $179 price just weeks after adding new features",
+      "link": "https://9to5mac.com/2026/10/04/airpods-pro-3-prime-day-deal/",
+      "pubDate": "Sun, 04 Oct 2026 10:24:01 +0000",
+      "description": "We are touching down to let folks know the Amazon fall Prime Day sale is getting a head start today – AirPods Pro 3 have now dropped down to one of the lowest prices to date at $179 shipped. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
     {
       "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
       "link": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
@@ -34,44 +218,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "pubDate": "2026-10-03T12:49:10-04:00",
-      "description": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a present",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
       "link": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
       "pubDate": "Sat, 03 Oct 2026 16:36:23 +0000",
       "description": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Apple Intelligence. Rumors had swirled for q",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/Apple-iPad-10th-gen-hero-221018_Full-Bleed-Image.jpg.xlarge_2x.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "The best early October Prime Day deals happening now",
-      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-      "pubDate": "2026-10-03T12:22:40-04:00",
-      "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, whic",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268775_October_Prime_Day_art_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-      "pubDate": "2026-10-03T11:00:00-04:00",
-      "description": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "An OpenAI safety employee has quit and is sounding the alarm",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "pubDate": "2026-10-03T10:31:56-04:00",
-      "description": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "Apple @ Work: The numbers on AI trust for IT are not great, and one company is trying to fix it",
@@ -90,36 +242,12 @@
       "source": "MacRumors"
     },
     {
-      "title": "Apple weekend deals: MacBook Pro $500 off, AirTag 2, Prime Day HomeKit discounts, MagSafe chargers, more",
-      "link": "https://9to5mac.com/2026/10/03/apple-weekend-deals-macbook-discounts/",
-      "pubDate": "Sat, 03 Oct 2026 12:21:42 +0000",
-      "description": "While we are still awaiting some of the big fall Prime Day deals on some Apple products, there are already notable discounts up for grabs right now like the $500 price drop on this 2TB M5 Pro MacBook ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-weekend-deals-October-2026.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "3D movies are finally worth watching",
-      "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
-      "pubDate": "2026-10-03T08:00:00-04:00",
-      "description": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced",
       "link": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
       "pubDate": "Sat, 03 Oct 2026 03:21:12 +0000",
       "description": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have experienced an issue that causes the device to lose cellular service, thereby preventing phone calls, te",
       "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg",
       "source": "MacRumors"
-    },
-    {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "pubDate": "2026-10-02T17:08:37-04:00",
-      "description": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display t",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "Apple TV releases ‘The Sisters Grimm’ season 2 in full",
@@ -146,36 +274,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Netflix is pivoting away from prestige",
-      "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
-      "pubDate": "2026-10-02T16:30:26-04:00",
-      "description": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK072_VRG_Illo_N_Barclay_7_netflix.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "pubDate": "2026-10-02T16:08:40-04:00",
-      "description": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
       "link": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
       "pubDate": "Fri, 02 Oct 2026 20:04:15 +0000",
       "description": "In a post on its developer news website today, Apple announced that it will be introducing \"additional controls\" for the \"Full Disk Access\" setting on macOS due to new risks posed by AI agents. This a",
       "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
       "source": "MacRumors"
-    },
-    {
-      "title": "Sling TV drops its one-day cable passes",
-      "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
-      "pubDate": "2026-10-02T16:00:20-04:00",
-      "description": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB311_SLING_TV_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience",
@@ -232,14 +336,6 @@
       "description": "Update, October 2: Many of you have asked for a full vehicle compatibility list for the Twelve South Airfly Drive. Our friends over at 9to5Toys have just published exactly that. Take a look! Complete ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "pubDate": "2026-10-02T14:00:00-04:00",
-      "description": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like us",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "Apple’s new ‘homeOS’ will launch this month, here’s what’s coming",
@@ -514,22 +610,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Early Prime Big Deal Days: Best Discounts on Accessories, TVs, and More at Amazon",
-      "link": "https://www.macrumors.com/2026/10/01/best-early-prime-day-deals-on-accessories/",
-      "pubDate": "Thu, 01 Oct 2026 16:02:35 +0000",
-      "description": "Amazon is hosting another Prime Day event this year, called Prime Big Deal Days and offering shoppers the first chance to save on holiday shopping from a major retailer. Similar to last year's fall Pr",
-      "image": "https://images.macrumors.com/article-new/2025/10/Prime-Big-Deal-Days-25-Blue.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "iPhone 18 Pro Colors Buyer's Guide: Which Should You Choose?",
-      "link": "https://www.macrumors.com/guide/iphone-18-pro-colors/",
-      "pubDate": "Thu, 01 Oct 2026 16:01:16 +0000",
-      "description": "Apple's iPhone 18 Pro and ‌iPhone 18 Pro‌ Max models come in four distinct color options, so which should you choose? The ‌iPhone 18 Pro‌ models come in Black, Silver, Glacier, and",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-iPhone-18-Pro-color-lineup-16x9-1.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "HP’s MacBook Neo competitor is $699 with an OLED display and plenty of catches",
       "link": "https://9to5google.com/2026/10/01/hp-omnibook-5-macbook-neo-competitor-699-oled-display-plenty-of-catches/",
       "pubDate": "Thu, 01 Oct 2026 15:40:02 +0000",
@@ -570,22 +650,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "MacBook Pro With OLED Touch Screen Rumored to Launch in October or November",
-      "link": "https://www.macrumors.com/2026/10/01/oled-macbook-pro-release-date/",
-      "pubDate": "Thu, 01 Oct 2026 14:24:07 +0000",
-      "description": "On his first-ever Power On podcast today, Bloomberg 's Mark Gurman said that he believes Apple will introduce its long-rumored 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays i",
-      "image": "https://images.macrumors.com/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple's All-New Home Hub Rumored to Launch in These Four Colors",
-      "link": "https://www.macrumors.com/2026/10/01/apple-home-hub-four-colors-rumored/",
-      "pubDate": "Thu, 01 Oct 2026 13:48:42 +0000",
-      "description": "Apple reportedly plans to unveil its long-rumored smart home hub on Tuesday, October 13 , and a proven leaker known as \"pdfu\" has revealed that the device may be available in up to four finishes: Silv",
-      "image": "https://images.macrumors.com/article-new/2026/02/iOS-26-Home-Feature.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "‘HomePad’ could launch in these four colors, per leaker",
       "link": "https://9to5mac.com/2026/10/01/homepad-could-launch-in-these-four-colors-per-leaker/",
       "pubDate": "Thu, 01 Oct 2026 13:20:29 +0000",
@@ -602,28 +666,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "iPhone 18 Pro Aperture Control Goes Fully Manual in Halide 3.2",
-      "link": "https://www.macrumors.com/2026/10/01/iphone-18-pro-aperture-control-fully-manual-halide/",
-      "pubDate": "Thu, 01 Oct 2026 12:39:41 +0000",
-      "description": "Award-winning camera app Halide Mark III has been updated to version 3.2, bringing dedicated support for iPhone 18 Pro by broadening user control over the device's new variable aperture camera system.",
-      "image": "https://images.macrumors.com/article-new/2026/10/halide-v3-2.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "The iPhone 18 Pro is selling well in China for three reasons",
       "link": "https://9to5mac.com/2026/10/01/the-iphone-18-pro-is-selling-well-in-china-for-three-reasons/",
       "pubDate": "Thu, 01 Oct 2026 12:10:57 +0000",
       "description": "A new market intelligence report says that the iPhone 18 Pro and Pro Max are selling well in China , making Apple the best-selling brand in the country during the launch week. Counterpoint Research ha",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-official.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Stores Receive 'Do Not Open' Boxes Ahead of Smart Home Products Launch",
-      "link": "https://www.macrumors.com/2026/10/01/apple-stores-receive-do-not-open-boxes/",
-      "pubDate": "Thu, 01 Oct 2026 11:59:27 +0000",
-      "description": "Apple Stores around the world are preparing to install new product presentations starting on Thursday, October 8. Apple retail stores received confidential boxes earlier this week featuring \"Do Not Op",
-      "image": "https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "This fake Mac Zoom installer has a sneaky way to bypass Gatekeeper",
@@ -1010,46 +1058,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Instagram partner schools can now post content only their students can view",
-      "link": "https://9to5mac.com/2026/09/29/instagram-partner-schools-can-now-post-content-only-their-students-can-view/",
-      "pubDate": "Tue, 29 Sep 2026 13:47:31 +0000",
-      "description": "Meta last year launched a school partnership program for Instagram , in which it promised to prioritize student reports of cyberbullying. The company has now expanded the program to allow schools to p",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Instagram-partner-schools-can-now-post-content-only-their-students-can-view.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Google has fixed an issue that caused thousands of iPhone apps to crash overnight",
-      "link": "https://9to5google.com/2026/09/29/google-firebase-iphone-app-crash-fixed/",
-      "pubDate": "Tue, 29 Sep 2026 13:19:10 +0000",
-      "description": "An issue with Google’s Firebase left thousands of iPhone apps crashing overnight, but a fix has already been applied. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-18-Pro-homescreen.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iOS 27 brings three key new features to Find My",
-      "link": "https://9to5mac.com/2026/09/29/ios-27-find-my-adds-new-ways-to-hide-your-location-more/",
-      "pubDate": "Tue, 29 Sep 2026 13:05:49 +0000",
-      "description": "iOS 27 brings new features to almost all of Apple’s apps, including Messages , Apple Music , Wallet , and more. Apple’s Find My app has its own share of changes in iOS 27. Here’s everything new. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iPhone video stabilization continues to wow me in the iPhone 18 Pro",
-      "link": "https://9to5mac.com/2026/09/29/iphone-video-stabilization-continues-to-wow-me-in-the-iphone-18-pro/",
-      "pubDate": "Tue, 29 Sep 2026 12:39:52 +0000",
-      "description": "I first talked about how much iPhone video stabilization impressed me when I tested it on the iPhone 13 Pro back in 2021. It’s been improved significantly since then, with both the iPhone 17 Pro and i",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Thumb.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Feature Request: One change for the most important use of Notify Me",
-      "link": "https://9to5mac.com/2026/09/29/feature-request-one-change-for-the-most-important-use-of-notify-me/",
-      "pubDate": "Tue, 29 Sep 2026 11:54:35 +0000",
-      "description": "A key new feature in macOS 27 is Safari’s Notify Me function . This has the Apple Intelligence automatically monitor a web page for updates and send a notification when it occurs. This feature can be ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/safari-notify-me-alert.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
       "title": "How to reduce token usage in Claude Code, Codex, and Cursor",
       "link": "https://www.avanderlee.com/ai-development/reduce-token-usage-claude-code-codex-cursor/",
       "pubDate": "Mon, 28 Sep 2026 12:48:10 +0000",
@@ -1248,14 +1256,6 @@
       "description": "",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/12/GettyImages-869824586-1152x648.jpg",
       "source": "Ars Technica"
-    },
-    {
-      "title": "How to free up Xcode disk space safely with an AI Agent",
-      "link": "https://www.avanderlee.com/ai-development/how-to-free-up-xcode-disk-space-safely-with-an-ai-agent/",
-      "pubDate": "Mon, 27 Jul 2026 08:34:16 +0000",
-      "description": "Xcode disk space can grow rapidly without you noticing. Especially these days, with multiple agents turning multiple worktrees into silent disk space occupiers. Where I used to only focus on deleting ",
-      "image": "https://swiftlee-banners.herokuapp.com/imagegenerator.php?title=How+to+free+up+Xcode+disk+space+safely+with+an+AI+Agent",
-      "source": "Antoine van der Lee"
     },
     {
       "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",

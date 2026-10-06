@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-05T08:13:55.100Z",
+  "updatedAt": "2026-10-06T08:30:20.833Z",
   "items": [
     {
-      "title": "Introducing RocketTrace: Using Xcode Instruments with AI Agents",
-      "link": "https://www.avanderlee.com/ai-development/introducing-rockettrace-using-xcode-instruments-with-ai-agents/",
-      "pubDate": "Mon, 05 Oct 2026 07:58:25 +0000",
-      "description": "I’m super excited to introduce you to RocketTrace: a Mac app that analyzes your Xcode Instruments recordings and turns them into ranked findings that your AI agent can act on. Instead of asking ",
-      "image": "https://swiftlee-banners.herokuapp.com/imagegenerator.php?title=Introducing+RocketTrace%3A+Using+Xcode+Instruments+with+AI+Agents",
-      "source": "Antoine van der Lee"
+      "title": "This remote-controlled wagon is silly but so very useful",
+      "link": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
+      "pubDate": "2026-10-06T04:00:00-04:00",
+      "description": "Confession: When BougeRV told me about its remote-controlled wagon with animated lighting, I called it in for a laugh, expecting to eviscerate it in a review. It's ridiculous, to be sure. But the Dune",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5043.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
     },
     {
-      "title": "Apple's New CEO John Ternus is Making Product Design a 'Major Priority'",
-      "link": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority/",
-      "pubDate": "Mon, 05 Oct 2026 02:35:01 +0000",
-      "description": "Since becoming Apple's CEO last month, John Ternus has made product design a \"major priority,\" according to Bloomberg 's Mark Gurman. \"Ternus already had some involvement with the design studio as App",
-      "image": "https://images.macrumors.com/article-new/2026/10/John-Ternus-iPhone-Duo.jpg",
-      "source": "MacRumors"
+      "title": "Apple reportedly planning second wave of product announcements later this month",
+      "link": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/",
+      "pubDate": "Tue, 06 Oct 2026 03:25:14 +0000",
+      "description": "MacRumors reports that in addition to Apple’s expected event on October 13, the company is planning to unveil another batch of new products in the final week of the month. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
     },
     {
-      "title": "Apple Hiring 'iCup' Specialist",
-      "link": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing/",
-      "pubDate": "Mon, 05 Oct 2026 02:11:42 +0000",
-      "description": "Apple recently posted a job listing for an \"iCup Supply Specialist\" who would be responsible for ensuring that \"all Apple employees have access to freshly brewed coffee in their break room.\" MacRumors",
-      "image": "https://images.macrumors.com/article-new/2026/01/wwdc-sans-text-feature.jpg",
+      "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+      "link": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions/",
+      "pubDate": "Tue, 06 Oct 2026 03:20:06 +0000",
+      "description": "Apple today announced that apps optimized for the iPhone Duo can now be submitted for App Store approval, ahead of the foldable device launching on Friday, October 23. While existing App Store apps wi",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Slack.jpg",
       "source": "MacRumors"
     }
   ]

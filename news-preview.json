@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-08T08:22:06.534Z",
+  "updatedAt": "2026-10-09T08:25:27.094Z",
   "items": [
     {
-      "title": "Microsoft Launches $2,599 Surface Laptop Ultra to Take on MacBook Pro",
-      "link": "https://www.macrumors.com/2026/10/07/microsoft-surface-laptop-ultra/",
-      "pubDate": "Thu, 08 Oct 2026 00:45:43 +0000",
-      "description": "Microsoft today announced launch timing and pricing for the Surface Laptop Ultra that it unveiled earlier this year. The 15-inch Surface Laptop Ultra is priced starting at $2,599, undercutting App",
-      "image": "https://images.macrumors.com/article-new/2026/10/surface-laptop-ultra.jpg",
-      "source": "MacRumors"
+      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+      "pubDate": "2026-10-09T03:14:32-04:00",
+      "description": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsof",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
     },
     {
-      "title": "All of the best fall Prime Day deals: AirPods, Mac mini, MacBook, chargers, cases, more",
-      "link": "https://9to5mac.com/2026/10/07/best-fall-prime-day-apple-deals-live/",
-      "pubDate": "Thu, 08 Oct 2026 00:00:00 +0000",
-      "description": "Update: Amazon’s 2026 fall Prime Day sale is set to close up shop for good at midnight PT, get in there before the deals are gone for good. The 2026 fall Prime Day sale is now soaring with millions of",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Prime-Big-Deal-Day-2026-Apple-deals.png?w=1600",
+      "title": "OLED MacBook Pro to help boost premium display shipments, per report",
+      "link": "https://9to5mac.com/2026/10/08/oled-macbook-pro-to-help-boost-premium-display-shipments-per-report/",
+      "pubDate": "Fri, 09 Oct 2026 02:21:43 +0000",
+      "description": "A new Counterpoint Research report says Apple’s next-generation MacBook Pro will help drive a 50% increase in OLED notebook display shipments in 2026 alone. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold-glow.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
     {
-      "title": "Google's SynthID AI Detector is Now Available to Everyone",
-      "link": "https://www.macrumors.com/2026/10/07/google-synthid-detector/",
-      "pubDate": "Wed, 07 Oct 2026 23:42:44 +0000",
-      "description": "Google today said it is making its SynthID Detector available to everyone for identifying content created using AI. SynthID Detector first rolled out to members of the media last year, and it is now a",
-      "image": "https://images.macrumors.com/article-new/2026/10/google-synthid.jpg",
-      "source": "MacRumors"
+      "title": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
+      "link": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/",
+      "pubDate": "Fri, 09 Oct 2026 02:11:17 +0000",
+      "description": "After releasing a carrier settings update last week to address cellular issues affecting some iPhone 18 Pro Max users on AT&T, Apple is now rolling out a different carrier bundle update for device",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
     }
   ]
 }

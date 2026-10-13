@@ -89,13 +89,14 @@
     />
     <!-- inter-700 loaded async via inter.css — not needed for LCP -->
 
-    <!-- Preload critical hero/profile image for faster LCP -->
+    <!-- Avatar lives in the sidebar, which is only open by default at >=1024px (see classic Layout) — skip the preload on narrow screens -->
     <link
       rel="preload"
       href="/avatar.webp"
       as="image"
       type="image/webp"
       fetchpriority="high"
+      media="(min-width: 1024px)"
     />
 
     <!-- Load remaining font weight (500) asynchronously -->
@@ -338,7 +339,7 @@
         ]
       }
     </script>
-    <script type="module" crossorigin src="/assets/index-CVVT_7CC.js"></script>
+    <script type="module" crossorigin src="/assets/index-Cf4dvZd3.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime-Dd_uD5pT.js">
     <link rel="modulepreload" crossorigin href="/assets/radix-core-4dFes8bu.js">
     <link rel="modulepreload" crossorigin href="/assets/react-vendor-DoxXtbGo.js">

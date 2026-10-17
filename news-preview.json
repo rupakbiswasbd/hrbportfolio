@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-10-16T06:41:51.742Z",
+  "updatedAt": "2026-10-17T06:30:20.586Z",
   "items": [
     {
-      "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-      "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-      "pubDate": "2026-10-15T21:28:27-04:00",
-      "description": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, bri",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Roadster_94.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "Verizon confirms $10 monthly fee for new iPhone Handoff feature",
+      "link": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
+      "pubDate": "Sat, 17 Oct 2026 00:01:38 +0000",
+      "description": "Following T-Mobile and Deutsche Telekom, Verizon has now confirmed how much it will charge customers to use Apple’s new iPhone Handoff feature. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-hand-off.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Verizon Will Charge $10 a Month for iPhone Handoff",
+      "link": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
+      "pubDate": "Fri, 16 Oct 2026 23:37:48 +0000",
+      "description": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in iOS 27 . iPhone Handoff allows one phone number to be shared across two separate iPhones. Pricing",
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "All the news about the iPhone Duo",
+      "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "pubDate": "2026-10-16T19:36:26-04:00",
+      "description": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge"
-    },
-    {
-      "title": "‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe",
-      "link": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/",
-      "pubDate": "Fri, 16 Oct 2026 01:00:14 +0000",
-      "description": "The newest Apple Original Films feature, “ Tenzing ,” is now available to Apple TV subscribers. Watch the trailer below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/tenzing-leads.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple lists unreleased iPad mini accessory ahead of rumored launch",
-      "link": "https://9to5mac.com/2026/10/15/apple-lists-unreleased-ipad-mini-accessory-ahead-of-rumored-launch/",
-      "pubDate": "Fri, 16 Oct 2026 00:49:10 +0000",
-      "description": "While Apple is rumored to be gearing up to introduce an OLED iPad mini later this month, an oversight on the company’s French site might have just confirmed the product’s existence. Here are the detai",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
     }
   ]
 }

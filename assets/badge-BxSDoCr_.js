@@ -1,1 +1,0 @@
-import"./rolldown-runtime-Dd_uD5pT.js";import{_ as e,h as t}from"./radix-core-4dFes8bu.js";import{i as n,n as r}from"./index-Cf4dvZd3.js";e();var i=t();function a({className:e,variant:t,...a}){return(0,i.jsx)(`div`,{className:n(r({variant:t}),e),...a})}export{a as t};

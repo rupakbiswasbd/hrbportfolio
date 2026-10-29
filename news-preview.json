@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-28T07:52:32.575Z",
+  "updatedAt": "2026-10-29T07:57:32.700Z",
   "items": [
     {
-      "title": "New M6 Macs buck Apple’s second wave of price hikes",
-      "link": "https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes/",
-      "pubDate": "Wed, 28 Oct 2026 02:09:46 +0000",
-      "description": "In addition to the spec bumps, today’s M6-powered iMac and 14-inch MacBook Pro announcements came with an extra piece of good news: prices remained unchanged from the previous generations, unlike seve",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro.jpg?quality=82&strip=all&w=1600",
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "pubDate": "2026-10-28T22:22:46-04:00",
+      "description": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Russia now requires Apple to store user communications and hand them over if requested",
+      "link": "https://9to5mac.com/2026/10/28/russia-now-requires-apple-to-store-user-communications-and-hand-them-over-if-requested/",
+      "pubDate": "Thu, 29 Oct 2026 01:24:17 +0000",
+      "description": "As Bloomberg reported today, Apple and Microsoft are now subject to Russian regulations requiring companies to store users’ communications and provide them to security agencies if requested. Here are ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/Trump-says-Apple-will-invest-a-further-100B-in-US-production.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Shares tvOS 27.2 Release Notes With List of New Features",
-      "link": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
-      "pubDate": "Wed, 28 Oct 2026 01:40:09 +0000",
-      "description": "tvOS 27.2 was released on Monday for the Apple TV 4K (2nd generation) and newer, but the Apple TV does not show release notes for software updates in the Settings app. Instead, Apple periodically upda",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
-      "link": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
-      "pubDate": "Wed, 28 Oct 2026 00:54:43 +0000",
-      "description": "Apple has scored another win in its trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-01.jpg?quality=82&strip=all&w=1600",
+      "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+      "link": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
+      "pubDate": "Thu, 29 Oct 2026 00:17:48 +0000",
+      "description": "Judge Edward Davila today formally established the schedule for Apple’s trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products, including a trial date. Here are t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-02.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     }
   ]

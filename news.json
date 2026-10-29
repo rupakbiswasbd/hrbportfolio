@@ -1,6 +1,478 @@
 {
-  "updatedAt": "2026-10-28T07:52:32.575Z",
+  "updatedAt": "2026-10-29T07:57:32.700Z",
   "items": [
+    {
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "pubDate": "2026-10-28T22:22:46-04:00",
+      "description": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Russia now requires Apple to store user communications and hand them over if requested",
+      "link": "https://9to5mac.com/2026/10/28/russia-now-requires-apple-to-store-user-communications-and-hand-them-over-if-requested/",
+      "pubDate": "Thu, 29 Oct 2026 01:24:17 +0000",
+      "description": "As Bloomberg reported today, Apple and Microsoft are now subject to Russian regulations requiring companies to store users’ communications and provide them to security agencies if requested. Here are ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/Trump-says-Apple-will-invest-a-further-100B-in-US-production.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+      "link": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
+      "pubDate": "Thu, 29 Oct 2026 00:17:48 +0000",
+      "description": "Judge Edward Davila today formally established the schedule for Apple’s trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products, including a trial date. Here are t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-02.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "pubDate": "2026-10-28T19:05:39-04:00",
+      "description": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Best Buy Opens Pre-Orders for PROLED XDR MacBook Pro With $100 Bonus Gift Cards",
+      "link": "https://www.macrumors.com/2026/10/28/best-buy-proled-xdr-macbook-pro-gift-cards/",
+      "pubDate": "Wed, 28 Oct 2026 23:04:16 +0000",
+      "description": "Similar to the iPad mini 8 and M6 MacBook Pro, the just-announced MacBook Pro models with PROLED XDR displays have become available for pre-order at Best Buy with a bonus gift card offer. All configur",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Here's Everything Apple Announced This Week",
+      "link": "https://www.macrumors.com/2026/10/28/apple-announcements-october-2026/",
+      "pubDate": "Wed, 28 Oct 2026 22:45:11 +0000",
+      "description": "It's been a busy October for Apple, and just this week, we got a new OLED iPad mini , an ‌OLED‌ MacBook Pro with a touch display, a new M6 ‌MacBook Pro‌, and an M6 iMac . Subscribe",
+      "image": "https://images.macrumors.com/t/2TeOOMgpIeQkotxQNoF1nwsoYu0=/1920x/article-new/2026/10/MacBook-Pro-with-PROLED-XDR-Display-Thumb.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iPhone Duo could capture nearly 30% of foldable market in 2027, per report",
+      "link": "https://9to5mac.com/2026/10/28/iphone-duo-could-capture-nearly-30-of-foldable-market-in-2027-per-report/",
+      "pubDate": "Wed, 28 Oct 2026 22:40:45 +0000",
+      "description": "In a report released today, TrendForce says that with strong demand for the iPhone Duo out of the gate, Apple is poised to capture nearly 30% of the global foldable smartphone market by 2027. Here are",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&strip=all&w=1500",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Here's a Real-World Look at the New MacBook Pro's Glowing Apple Logo",
+      "link": "https://www.macrumors.com/2026/10/28/macbook-pro-glowing-apple-logo/",
+      "pubDate": "Wed, 28 Oct 2026 22:24:25 +0000",
+      "description": "Surprise! The new 14-inch and 16-inch MacBook Pro models with OLED displays have a glowing Apple logo , a beloved feature that was phased out a decade ago. In a hands-on video shared on his YouTube ch",
+      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "New MacBook Pro, iPad mini, and more now available for pre-order on Amazon",
+      "link": "https://9to5mac.com/2026/10/28/new-macbook-pro-ipad-mini-and-more-now-available-for-pre-order-on-amazon/",
+      "pubDate": "Wed, 28 Oct 2026 22:12:39 +0000",
+      "description": "Apple this week unveiled a range of new products, including a new iPad mini, M6 updates for the iMac and MacBook Pro, and the first-ever MacBook Pro with a touchscreen. Those products are now availabl",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-macbook-pro-proled-xdr-glow-logo-apple-glow.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "How Accurate Were Rumors About Apple's OLED Touchscreen MacBook Pro?",
+      "link": "https://www.macrumors.com/2026/10/28/macbook-pro-touchscreen-rumors/",
+      "pubDate": "Wed, 28 Oct 2026 22:04:52 +0000",
+      "description": "Rumors about Apple's work on a touchscreen OLED MacBook Pro started in 2023, when Bloomberg 's Mark Gurman said there would be a MacBook Pro with an ‌OLED‌ display and a touchscreen, but &zw",
+      "image": "https://images.macrumors.com/article-new/2026/10/oled-macbook-pro-display.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "A hacker stole more than 40,000 DHS employee records",
+      "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "pubDate": "2026-10-28T17:57:45-04:00",
+      "description": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more th",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Has 8 New Products Available for Pre-Order",
+      "link": "https://www.macrumors.com/2026/10/28/apple-8-new-products-available-for-pre-order/",
+      "pubDate": "Wed, 28 Oct 2026 21:51:19 +0000",
+      "description": "Apple at 10:10 a.m. Pacific Time today started accepting pre-orders for five new products that will all be released on Friday, November 6. Here are the pre-order pages: iPad mini with OLED display iMa",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple fined $15.5 million as South Korea orders changes to App Store rules",
+      "link": "https://9to5mac.com/2026/10/28/apple-fined-15-5-million-as-south-korea-orders-changes-to-app-store-rules/",
+      "pubDate": "Wed, 28 Oct 2026 21:44:56 +0000",
+      "description": "Apple and Google were fined today in South Korea over their app payment practices, with regulators also ordering both companies to change several policies. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "pubDate": "2026-10-28T17:34:04-04:00",
+      "description": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+      "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+      "pubDate": "2026-10-28T17:16:18-04:00",
+      "description": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what y",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "The new MacBook Pro has everything I wanted, minus one thing",
+      "link": "https://9to5mac.com/2026/10/28/the-new-macbook-pro-has-everything-i-wanted-minus-one-thing/",
+      "pubDate": "Wed, 28 Oct 2026 20:59:42 +0000",
+      "description": "Apple’s new MacBook Pro with PROLED XDR is an exciting upgrade that delivers nearly every feature I was hoping for, with just one exception. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-glow.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Ternus addresses Apple breaking touchscreen Mac taboo: ‘Who knew?’",
+      "link": "https://9to5mac.com/2026/10/28/ternus-addresses-apple-breaking-touchscreen-mac-taboo-who-knew/",
+      "pubDate": "Wed, 28 Oct 2026 20:33:05 +0000",
+      "description": "In an interview with WIRED , Apple executives including CEO John Ternus, hardware chief Johny Srouji, and marketing chief Greg “Joz” Joswiak discussed the company’s decision to bring touch to the Mac ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-clique-interview.jpg?quality=82&strip=all&w=1500",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iPhone Duo: Turn the Hinge Into an App Launcher",
+      "link": "https://www.macrumors.com/how-to/iphone-duo-app-launch-on-open/",
+      "pubDate": "Wed, 28 Oct 2026 20:27:24 +0000",
+      "description": "If you're eager to change your screen time habits – like staying off Instagram or reading more books – the iPhone Duo may offer a solution. It's the first iPhone with two screens, and there's a trick ",
+      "image": "https://images.macrumors.com/article-new/2026/10/kindle-iphone-duo-scaled.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Google says its investments in AI are driving more searches",
+      "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "pubDate": "2026-10-28T16:22:26-04:00",
+      "description": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Sear",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+      "pubDate": "2026-10-28T16:20:00-04:00",
+      "description": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, an",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
+      "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
+      "pubDate": "2026-10-28T16:12:44-04:00",
+      "description": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base mo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "OLED MacBook Pro vs. Mini-LED MacBook Pro: Size and Weight Compared",
+      "link": "https://www.macrumors.com/2026/10/28/oled-macbook-pro-size-weight/",
+      "pubDate": "Wed, 28 Oct 2026 20:11:01 +0000",
+      "description": "The OLED MacBook Pro models look a lot like the prior mini-LED MacBook Pros, but Apple did make some design updates. The new machines are slightly thinner and lighter, and the 16-inch model has a larg",
+      "image": "https://images.macrumors.com/article-new/2026/10/macbook-pro-oled-weight.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Best Buy Offering Up to $100 Gift Cards With iPad Mini 8 and M6 MacBook Pro Pre-Orders",
+      "link": "https://www.macrumors.com/2026/10/28/best-buy-gift-cards-ipad-macbook/",
+      "pubDate": "Wed, 28 Oct 2026 20:05:50 +0000",
+      "description": "Best Buy has the first pre-order offers on Apple's new iPad mini 8 and M6 MacBook Pro, with up to $100 in Best Buy gift card credit when purchasing these devices. You don't need to have a My Best ",
+      "image": "https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-2.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "pubDate": "2026-10-28T16:03:00-04:00",
+      "description": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's to",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple introduces new power adapters for Mac, plus extension cable, travel kit",
+      "link": "https://9to5mac.com/2026/10/28/apple-introduces-new-power-adapters-for-mac-plus-extension-cable-travel-kit/",
+      "pubDate": "Wed, 28 Oct 2026 19:50:59 +0000",
+      "description": "Today alongside the launch of the MacBook Pro with PROLED XDR, Apple has introduced four new accessories for Mac: two updated power adapters, a power extension cable, and a travel adapter kit. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-power-adapter-extension-cable.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+      "link": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+      "pubDate": "2026-10-28T15:37:31-04:00",
+      "description": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans bec",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Releases Redesigned Mac Chargers and 'World Travel Adapter Kit'",
+      "link": "https://www.macrumors.com/2026/10/28/apple-new-world-travel-adapter-kit/",
+      "pubDate": "Wed, 28 Oct 2026 19:30:02 +0000",
+      "description": "Apple today began selling updated versions of its 70W Power Adapter , 140W Power Adapter , and Power Adapter Extension Cable , all with a new \"AC Connector 2.\" The updated power adapters and extension",
+      "image": "https://images.macrumors.com/article-new/2026/10/World-Travel-Adapter-Kit-Feature-with-Charger.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple releases touchscreen Mac developer videos, with live sessions coming in November",
+      "link": "https://9to5mac.com/2026/10/28/apple-releases-touchscreen-mac-developer-videos-with-live-sessions-coming-in-november/",
+      "pubDate": "Wed, 28 Oct 2026 19:27:35 +0000",
+      "description": "Apple has announced a series of videos and upcoming live sessions to help developers optimize their apps for touchscreen Macs. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/touch-mac-apps.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+      "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+      "pubDate": "Wed, 28 Oct 2026 19:10:29 +0000",
+      "description": "",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "All-new MacBook Pro brings back beloved design feature from the past",
+      "link": "https://9to5mac.com/2026/10/28/all-new-macbook-pro-brings-back-beloved-design-feature-from-the-past/",
+      "pubDate": "Wed, 28 Oct 2026 19:06:55 +0000",
+      "description": "Apple unveiled its MacBook Pro with PROLED XDR today, and the all-new model features the return of a beloved design feature: a glowing Apple logo on the lid. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-macbook-pro-proled-xdr-glow-logo-apple-glow.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Download the new MacBook Pro with PROLED XDR Display wallpaper",
+      "link": "https://9to5mac.com/2026/10/28/download-the-new-macbook-pro-with-proled-xdr-display-wallpaper/",
+      "pubDate": "Wed, 28 Oct 2026 18:56:34 +0000",
+      "description": "If you’re a fan of the default wallpaper for the new MacBook Pro with PROLED XDR Display , Basic Apple Guy has got your back. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-wallpaper.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Adding Touch Didn't Cost the MacBook Pro Any Battery Life",
+      "link": "https://www.macrumors.com/2026/10/28/macbook-pro-touch-battery-life/",
+      "pubDate": "Wed, 28 Oct 2026 18:55:00 +0000",
+      "description": "The PROLED MacBook Pro models continue to offer up to 24 hours of battery life despite the switch to a new OLED display and touch capabilities. Both the PROLED and the mini-LED 14-inch and 16-inch &zw",
+      "image": "https://images.macrumors.com/article-new/2026/10/macbook-pro-proled-touch.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Executives Explain Why the MacBook Pro Finally Has a Touch Screen",
+      "link": "https://www.macrumors.com/2026/10/28/apple-executives-touch-screen-explanation/",
+      "pubDate": "Wed, 28 Oct 2026 18:25:22 +0000",
+      "description": "Apple CEO John Ternus explained Apple's thinking on the MacBook Pro 's new touch capabilities in an interview with Wired . Despite the addition of a touch display, Apple still sees the ‌MacBook P",
+      "image": "https://images.macrumors.com/article-new/2026/10/oled-macbook-pro-touch.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "OpenAI expanding ChatGPT dot access to iMessage and RCS",
+      "link": "https://9to5mac.com/2026/10/28/openai-expanding-chatgpt-dot-access-to-imessage-and-rcs/",
+      "pubDate": "Wed, 28 Oct 2026 18:15:27 +0000",
+      "description": "Well this is pretty cool. OpenAI is expanding ChatGPT dot access to iMessage and RCS. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/chatgpt-app-icon-dark-openai.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple updates Design Resources portal with assets for the new touchscreen MacBook Pro",
+      "link": "https://9to5mac.com/2026/10/28/apple-updates-design-resources-portal-with-assets-for-the-new-touchscreen-macbook-pro/",
+      "pubDate": "Wed, 28 Oct 2026 18:14:45 +0000",
+      "description": "If you’re a designer who relies on Apple’s official design resources, the company has already added the new MacBook Pro with PROLED XDR Display to its collection of product bezels. Here are the detail",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-asset.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "MacBook Pro with PROLED XDR vs MacBook Pro: Here’s every difference",
+      "link": "https://9to5mac.com/2026/10/28/macbook-pro-with-proled-xdr-vs-macbook-pro-heres-every-difference/",
+      "pubDate": "Wed, 28 Oct 2026 18:06:03 +0000",
+      "description": "Apple just unveiled its new MacBook Pro with PROLED XDR Display, which joins the lineup alongside the existing MacBook Pro using the same M5 Pro and Max chips. Here’s an in-depth comparison of the two",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-vs-comparison-standard.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "New MacBook Pro Features Deeper Bass and Improved Closed-Lid Audio",
+      "link": "https://www.macrumors.com/2026/10/28/new-macbook-pro-improved-audio/",
+      "pubDate": "Wed, 28 Oct 2026 18:03:42 +0000",
+      "description": "Apple's new 14-inch and 16-inch MacBook Pro models feature an upgraded six-speaker sound system, with redesigned woofers and tweeters, along with dedicated audio tuning for use with the lid closed. Ap",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-audio-system-scaled.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "New MacBook Pro Offers Up to 16TB of Storage, Double Previous Limit",
+      "link": "https://www.macrumors.com/2026/10/28/new-macbook-pro-offers-up-to-16tb/",
+      "pubDate": "Wed, 28 Oct 2026 17:52:44 +0000",
+      "description": "Apple's new touchscreen MacBook Pro models offer up to 16TB of internal storage, doubling the previous generation's 8TB maximum. The extra capacity comes at a substantial cost . Upgrading the highest-",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-connectivity-scaled.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple's New Touchscreen MacBook Pro Costs Up to $14,549",
+      "link": "https://www.macrumors.com/2026/10/28/new-macbook-pro-maxed-out-cost/",
+      "pubDate": "Wed, 28 Oct 2026 17:46:38 +0000",
+      "description": "Apple's new touchscreen MacBook Pro models start at $2,899 for the 14-inch version and $3,399 for the 16-inch version, but configuring the machines with every hardware upgrade pushes their pri",
+      "image": "https://images.macrumors.com/article-new/2026/10/macbook-pro-14-inch-and-16-inch.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple reveals pricing for Mac Studio with 512GB of RAM",
+      "link": "https://9to5mac.com/2026/10/28/apple-reveals-pricing-for-mac-studio-with-512gb-of-ram/",
+      "pubDate": "Wed, 28 Oct 2026 17:40:07 +0000",
+      "description": "When Apple announced the new M5 Max and M5 Ultra configurations of the Mac Studio in August, it said a configuration with 512GB of RAM would be available in October. Today, the company officially reve",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/mac-studio-displays-fi.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Brings Dynamic Island to Mac for the First Time",
+      "link": "https://www.macrumors.com/2026/10/28/apple-brings-dynamic-island-to-mac/",
+      "pubDate": "Wed, 28 Oct 2026 17:28:03 +0000",
+      "description": "Apple today introduced the Dynamic Island to the Mac for the first time with its new 14-inch and 16-inch MacBook Pro models , bringing Live Activities, Spotlight, and Siri AI together in an interactiv",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-Dynamic-Island-Apple-Music-scaled.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Watch Apple’s promo video for the new MacBook Pro with PROLED XDR Display",
+      "link": "https://9to5mac.com/2026/10/28/watch-apples-promo-video-for-the-new-macbook-pro-with-proled-xdr-display/",
+      "pubDate": "Wed, 28 Oct 2026 17:27:46 +0000",
+      "description": "Following today’s announcement of the new MacBook Pro with PROLED XDR Display, Apple’s YouTube channel has now published a promotional video highlighting the new model’s features. Watch it below. more",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-display.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Mac Studio With M5 Ultra Now Available With 512GB RAM for $22,299",
+      "link": "https://www.macrumors.com/2026/10/28/mac-studio-m5-ultra-512gb-ram/",
+      "pubDate": "Wed, 28 Oct 2026 17:26:32 +0000",
+      "description": "Starting today, the Mac Studio with the M5 Ultra chip can be configured with 512GB of RAM on Apple's online store, but it is an expensive upgrade. You first have to configure the Mac Studio with the M",
+      "image": "https://images.macrumors.com/article-new/2025/06/Mac-Studio-Feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple announces touchscreen MacBook Pro with OLED display",
+      "link": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+      "pubDate": "Wed, 28 Oct 2026 17:25:04 +0000",
+      "description": "",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Illuminated Apple Logo Returns to MacBook Pro After 10 Years",
+      "link": "https://www.macrumors.com/2026/10/28/illuminated-logo-returns-to-macbook-pro/",
+      "pubDate": "Wed, 28 Oct 2026 17:12:40 +0000",
+      "description": "The iconic glowing rear Apple logo is returning to the MacBook Pro with the latest model , Apple today announced . Apple removed the illuminated logo from the ‌MacBook Pro‌ with its 2016 red",
+      "image": "https://images.macrumors.com/article-new/2026/10/macbook-pro-logo-glowing.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Announces OLED MacBook Pro With Touch Display",
+      "link": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/",
+      "pubDate": "Wed, 28 Oct 2026 17:11:44 +0000",
+      "description": "Apple today announced a new high-end MacBook Pro , which is available in 14-inch and 16-inch sizes. The new device has a PROLED XDR display that supports touch gestures, and a glowing rear Apple logo.",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-family-lineup-feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple announces all-new MacBook Pro with PROLED XDR display, its first touchscreen Mac",
+      "link": "https://9to5mac.com/2026/10/28/apple-announces-redesigned-macbook-pro-its-first-touchscreen-mac/",
+      "pubDate": "Wed, 28 Oct 2026 17:06:48 +0000",
+      "description": "Apple has officially announced the all-new MacBook Pro with PROLED XDR display , its first touchscreen laptop. The new machine was first hinted at by Apple on October 19 with the company’s “Pro and te",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Store Down Ahead of 'Pro and Tell' Launch Today",
+      "link": "https://www.macrumors.com/2026/10/28/apple-store-down-ahead-of-pro-and-tell/",
+      "pubDate": "Wed, 28 Oct 2026 16:46:58 +0000",
+      "description": "Update: Apple has announced new 14-inch and 16-inch MacBook Pro models with a touch-enabled PROLED XDR Display . Apple has taken its online store down just minutes before its \"Pro and Tell\" experience",
+      "image": "https://images.macrumors.com/article-new/2021/04/apple-store-down-feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Perplexity upgrades Mac app with ChatGPT-powered voice mode",
+      "link": "https://9to5mac.com/2026/10/28/perplexity-upgrades-mac-app-with-chatgpt-powered-voice-mode/",
+      "pubDate": "Wed, 28 Oct 2026 16:28:15 +0000",
+      "description": "Earlier this year, OpenAI unveiled its gpt-live-1 voice model. This includes the ability for the model to listen to you while it speaks. Starting today, Perplexity has upgraded its Mac app voice mode ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "South Korea Rules Against Apple Over App Store Payment Rules",
+      "link": "https://www.macrumors.com/2026/10/28/south-korea-rules-against-apple/",
+      "pubDate": "Wed, 28 Oct 2026 16:00:55 +0000",
+      "description": "South Korea has fined Apple 20.8 billion won ($15.5 million) and ordered it to let developers link to external payment options from their apps, The Associated Press reports. The Korea Media and Co",
+      "image": "https://images.macrumors.com/article-new/2021/08/General-App-Store-South-Korea-Feature-Feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Deals: AirPods Pro 3, Apple’s iPhone Duo charger, MacBook Air $200 off, Beats 360 first discount, more",
+      "link": "https://9to5mac.com/2026/10/28/deals-airpods-iphone-duo-charger-macbook-beats-360/",
+      "pubDate": "Wed, 28 Oct 2026 15:34:08 +0000",
+      "description": "Amazon deal pricing on AirPods Pro 3 has now dropped a touch lower at a solid $50 off and it is still offering the pre-order discount on the new Apple TV 4K, however we are also tracking some deals on",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-AirPods-Beats-360-Macbook-Apple-TV.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iOS 27.2 just upgraded Apple Photos in two ways, here’s what’s new",
+      "link": "https://9to5mac.com/2026/10/28/ios-27-2-just-upgraded-apple-photos-in-two-ways-heres-whats-new/",
+      "pubDate": "Wed, 28 Oct 2026 14:40:17 +0000",
+      "description": "Apple Photos got a lot of new features in iOS 27 last month, but this week’s release of iOS 27.2 brought even more improvements. Here’s what’s new. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-photos-app-icon-ios-27-colors.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Watch Series 12 and Ultra 4 adding two new features soon",
+      "link": "https://9to5mac.com/2026/10/28/apple-watch-series-12-ultra-4-adding-two-new-features-soon/",
+      "pubDate": "Wed, 28 Oct 2026 14:08:34 +0000",
+      "description": "Apple Watch Series 12 and Apple Watch Ultra 4 are here, and later this year they’ll get even more powerful with two new features: Siri Recap and Live Rewind. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-fi-hero.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Shrinking season 4 just got exciting release timing update",
+      "link": "https://9to5mac.com/2026/10/28/shrinking-season-4-just-got-exciting-release-timing-update/",
+      "pubDate": "Wed, 28 Oct 2026 13:52:54 +0000",
+      "description": "Shrinking just aired season 3 earlier this year, but all signs point to a refreshingly quick return, as one of the show’s stars just confirmed season 4 is officially done filming. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/shrinking-s3-cast.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "John Ternus posts teaser video ahead of MacBook Pro redesign unveiling",
+      "link": "https://9to5mac.com/2026/10/28/john-ternus-posts-teaser-video-ahead-of-macbook-pro-redesign-unveiling/",
+      "pubDate": "Wed, 28 Oct 2026 13:03:42 +0000",
+      "description": "Today at 10:00 a.m. PT, Apple is expected to unveil its long-awaited MacBook Pro redesign with a touchscreen, OLED, and more. Ahead of the reveal, CEO John Ternus just posted a teaser video. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpeg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Amazon announced five new Alexa devices, including 16-inch Echo Show",
+      "link": "https://9to5mac.com/2026/10/28/amazon-announced-five-new-alexa-devices-including-16-inch-echo-show/",
+      "pubDate": "Wed, 28 Oct 2026 12:48:35 +0000",
+      "description": "Apple recently launched new HomePod mini speakers and its HomeView smart display , and today it’s Amazon’s turn with five new Alexa devices. This includes a new Echo speaker with visual intelligence a",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Amazon-announced-five-new-Alexa-devices-including-16-inch-Echo-Show.jpeg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "On the day of the touchscreen Mac launch, Dynamic Island elements found in macOS 27",
+      "link": "https://9to5mac.com/2026/10/28/on-the-day-of-the-touchscreen-mac-launch-dynamic-island-elements-found-in-macos-27/",
+      "pubDate": "Wed, 28 Oct 2026 12:03:53 +0000",
+      "description": "We’re just hours away now from Apple unveiling the latest MacBook Pro with OLED and touchscreen. We’re expecting the display to replace the notch with a Dynamic Island, and a leaker has now found elem",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/macbook-pro-touchscreen-mockup.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Kickstarter project offers touchscreen mouse instead of a touchscreen Mac",
+      "link": "https://9to5mac.com/2026/10/28/kickstarter-project-offers-touchscreen-mouse-instead-of-a-touchscreen-mac/",
+      "pubDate": "Wed, 28 Oct 2026 11:24:54 +0000",
+      "description": "On the day Apple is set to unveil its first ever touchscreen Mac , a startup is trying to persuade us that we instead need a touchscreen mouse, compatible with both Mac and PC. The mouse has a 3.1in t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Kickstarter-project-offers-touchscreen-mouse-instead-of-a-touchscreen-Mac.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple memory supplier expects price increases through at least 2030",
+      "link": "https://9to5mac.com/2026/10/28/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
+      "pubDate": "Wed, 28 Oct 2026 10:57:20 +0000",
+      "description": "Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-memory-supplier-expects-price-increases-through-at-least-2030.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
     {
       "title": "New M6 Macs buck Apple’s second wave of price hikes",
       "link": "https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes/",
@@ -8,14 +480,6 @@
       "description": "In addition to the spec bumps, today’s M6-powered iMac and 14-inch MacBook Pro announcements came with an extra piece of good news: prices remained unchanged from the previous generations, unlike seve",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Shares tvOS 27.2 Release Notes With List of New Features",
-      "link": "https://www.macrumors.com/2026/10/27/apple-tv-tvos-27-2-release-notes/",
-      "pubDate": "Wed, 28 Oct 2026 01:40:09 +0000",
-      "description": "tvOS 27.2 was released on Monday for the Apple TV 4K (2nd generation) and newer, but the Apple TV does not show release notes for software updates in the Settings app. Instead, Apple periodically upda",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
@@ -42,22 +506,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Shares New Apple Watch Survival Stories",
-      "link": "https://www.macrumors.com/2026/10/27/apple-watch-survival-stories/",
-      "pubDate": "Tue, 27 Oct 2026 23:20:22 +0000",
-      "description": "Apple today continued with its \"True Apple Watch Story\" series, featuring two more people who credit the Apple Watch with saving their lives. In the first video, Morgan tells the story of how her Appl",
-      "image": "https://images.macrumors.com/t/7efhcTCWoIt1Xxz1E17QT7xAhgI=/1600x/article-new/2026/10/apple-watch-survival-video.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-      "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-      "pubDate": "2026-10-27T18:55:05-04:00",
-      "description": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Last-minute leak reveals new touchscreen MacBook Pro details: pricing, new cooling system, more",
       "link": "https://9to5mac.com/2026/10/27/last-minute-leak-reveals-new-touchscreen-macbook-pro-details-pricing-new-cooling-system-more/",
       "pubDate": "Tue, 27 Oct 2026 22:50:54 +0000",
@@ -74,28 +522,12 @@
       "source": "Ars Technica"
     },
     {
-      "title": "OLED Touchscreen MacBook Pro Could Start at $2,899",
-      "link": "https://www.macrumors.com/2026/10/27/oled-macbook-pro-pricing/",
-      "pubDate": "Tue, 27 Oct 2026 22:29:50 +0000",
-      "description": "Apple's 14-inch OLED MacBook Pro with an M5 Pro chip could be $400 more expensive than the current model, reports Bloomberg . Apple has \"discussed\" charging $2,899 for the upcoming M5 Pro mode",
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Firefox’s AI-powered Smart Window gets form autofill and website monitoring",
       "link": "https://9to5mac.com/2026/10/27/firefoxs-ai-powered-smart-window-gets-form-autofill-and-website-monitoring/",
       "pubDate": "Tue, 27 Oct 2026 21:43:14 +0000",
       "description": "Mozilla today announced two new features for Smart Window, its opt-in AI-powered browsing experience in Firefox. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/firefox-smart-window.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "M6 iMac Sticks With Its Five-Year-Old Color Lineup",
-      "link": "https://www.macrumors.com/2026/10/27/imac-m6-color-options/",
-      "pubDate": "Tue, 27 Oct 2026 21:07:38 +0000",
-      "description": "The new M6 iMac models come in the same color options as the 2024 model, despite reports suggesting we could see new shades. You can buy the M6 iMac in green, yellow, orange, pink, purple, blue, and s",
-      "image": "https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Apple’s European government affairs chief to speak at Web Summit 2026",
@@ -114,14 +546,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "pubDate": "2026-10-27T16:48:58-04:00",
-      "description": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "iOS 27.2 now available: Here’s everything new for iPhone",
       "link": "https://9to5mac.com/2026/10/27/ios-27-2-new-features-release-date/",
       "pubDate": "Tue, 27 Oct 2026 20:45:46 +0000",
@@ -136,14 +560,6 @@
       "description": "Apple TV today released the trailer for “ Way of the Warrior Kid ,” which premieres globally on the platform on November 25. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-02.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "ChatGPT Can Now Access Your iCloud Mail and Calendar",
-      "link": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
-      "pubDate": "Tue, 27 Oct 2026 19:51:25 +0000",
-      "description": "OpenAI today said it added iCloud Mail and Calendar plugins to ChatGPT. With the ‌iCloud‌ Calendar integration, ChatGPT can read, schedule, and update events that show up on your iPhone's Ca",
-      "image": "https://images.macrumors.com/article-new/2023/06/General-macOS-Mail-Feature.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Report: iPhone 18 Pro sales down 4% in the US, but China drives 3.1% global growth",
@@ -162,14 +578,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
-      "link": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
-      "pubDate": "2026-10-27T15:24:06-04:00",
-      "description": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Copilot Money gets even better with new AI-powered Money Assistant",
       "link": "https://9to5mac.com/2026/10/27/copilot-money-gets-even-better-with-new-ai-powered-money-assistant/",
       "pubDate": "Tue, 27 Oct 2026 19:00:35 +0000",
@@ -184,14 +592,6 @@
       "description": "Astropad is out today with Workbench 1.4, the latest update to its remote desktop app for Mac. The release adds a built-in terminal, native iPhone Duo support, and a new way to transfer files between ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/astropad-workbench-update-duo.webp?w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Trump is making it easier for fossil fuel companies to leak methane",
-      "link": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
-      "pubDate": "2026-10-27T14:25:13-04:00",
-      "description": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a po",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK466_ELECTION_2024_CVirginia_F.webp?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
@@ -210,62 +610,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Reportedly Plans to Release MacBook Neo 2 in First Half of 2027",
-      "link": "https://www.macrumors.com/2026/10/27/macbook-neo-2-first-half-2027-report/",
-      "pubDate": "Tue, 27 Oct 2026 17:32:56 +0000",
-      "description": "Bloomberg 's Mark Gurman today reported that Apple plans to release a second-generation MacBook Neo in the first half of 2027. He previously mentioned that the new model will feature an A19 Pro chip, ",
-      "image": "https://images.macrumors.com/article-new/2026/06/MacBook-Neo-on-Yellow-Feature.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "pubDate": "2026-10-27T13:30:00-04:00",
-      "description": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live toge",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Best Buy Details Black Friday Plans With Early Deals Available on Halloween",
-      "link": "https://www.macrumors.com/2026/10/27/best-buy-black-friday-plans-26/",
-      "pubDate": "Tue, 27 Oct 2026 17:28:11 +0000",
-      "description": "With Halloween just around the corner, Best Buy this week is detailing its sale plans for the holiday, as well as the rest of the year. This includes a special event on Friday, October 30, and the usu",
-      "image": "https://images.macrumors.com/article-new/2025/10/best-buy-halloween.jpeg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "New iMac Available With 2.5 Gigabit Ethernet Port on Power Adapter",
-      "link": "https://www.macrumors.com/2026/10/27/new-imac-2-5-gigabit-ethernet/",
-      "pubDate": "Tue, 27 Oct 2026 17:16:26 +0000",
-      "description": "The new iMac with the M6 chip can be configured with a 2.5 Gigabit Ethernet port, which is built into the power adapter rather than the computer. The port is a $30 upgrade option for the lower-end",
-      "image": "https://images.macrumors.com/article-new/2026/10/iMac-2-5-Gigabit-Ethernet-Port-on-Power-Adapter.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-      "pubDate": "2026-10-27T13:00:00-04:00",
-      "description": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting be",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/supermouse1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "pubDate": "2026-10-27T12:51:22-04:00",
-      "description": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely a",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Meta’s $25 billion legal loss just put blood in the water",
-      "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-      "pubDate": "2026-10-27T12:44:40-04:00",
-      "description": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Twelve South launches new Airfly View dongle with built-in screen",
       "link": "https://9to5mac.com/2026/10/27/twelve-south-launches-new-airfly-view-dongle-with-built-in-screen/",
       "pubDate": "Tue, 27 Oct 2026 16:34:43 +0000",
@@ -282,52 +626,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "pubDate": "2026-10-27T12:14:18-04:00",
-      "description": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Wind",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/firefox-fill.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Major League Baseball is looking for a new kind of fan",
-      "link": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
-      "pubDate": "2026-10-27T12:02:43-04:00",
-      "description": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301861042.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple Expected to Announce MacBook Pro With Touchscreen Tomorrow",
-      "link": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/",
-      "pubDate": "Tue, 27 Oct 2026 15:57:14 +0000",
-      "description": "Apple on Wednesday will announce 14-inch and 16-inch MacBook Pro models featuring touch-enabled OLED displays with thinner bezels, a Dynamic Island instead of a notch, M5 Pro and M5 Max chips, and a l",
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "M5 vs. M6 MacBook Pro Buyer's Guide: All Differences Compared",
-      "link": "https://www.macrumors.com/guide/m5-vs-m6-macbook-pro/",
-      "pubDate": "Tue, 27 Oct 2026 15:42:54 +0000",
-      "description": "Apple today replaced the entry-level 14-inch MacBook Pro with a new M6 model, bringing more CPU and GPU cores, upgraded wireless connectivity, and more. How much has changed, and is it worth upgrading",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-scaled.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Deals: AirPods Pro 3 20% off, Apple Pencil (USB-C), most affordable M5 MacBook Air $200 off, AirTag 2, more",
       "link": "https://9to5mac.com/2026/10/27/deals-airpods-apple-pencil-usb-c-macbook-air-airtag-2/",
       "pubDate": "Tue, 27 Oct 2026 15:30:46 +0000",
       "description": "Alongside the ongoing pre-order discount on the new Apple TV 4K, Amazon has now brought back the 20% price drop on AirPods Pro 3 and is still offering Apple Pencil (USB-C) down at $69 (or even less ).",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-Pencil-Apple-TV-4K-AirPods-Macbook.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "M4 vs. M6 iMac Buyer's Guide: Should You Upgrade?",
-      "link": "https://www.macrumors.com/guide/m4-vs-m6-imac/",
-      "pubDate": "Tue, 27 Oct 2026 15:30:15 +0000",
-      "description": "Apple's latest iMac skips the M5 chip and moves directly to the M6, bringing faster performance, improved connectivity, and faster storage. So how much has changed since the M4 model arrived in 2024, ",
-      "image": "https://images.macrumors.com/article-new/2026/10/M6-iMac-Feature-2.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "iOS 27.2 introduces new age verification feature using selfie",
@@ -362,14 +666,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Banktivity Offers 30% Off First Year Subscriptions for MacRumors Readers",
-      "link": "https://www.macrumors.com/2026/10/27/banktivity-30-off-first-year/",
-      "pubDate": "Tue, 27 Oct 2026 14:25:46 +0000",
-      "description": "MacRumors has partnered with the personal finance app Banktivity to offer our readers a 30 percent discount on their first year of the service, plus a 30-day free trial. This deal is available to new ",
-      "image": "https://images.macrumors.com/article-new/2026/10/banktivity-new-app.jpeg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
       "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
       "pubDate": "Tue, 27 Oct 2026 14:20:26 +0000",
@@ -384,22 +680,6 @@
       "description": "",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg",
       "source": "Ars Technica"
-    },
-    {
-      "title": "M6 MacBook Pro's 170GB/s Memory Bandwidth Skips Base 16GB Model",
-      "link": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-memory-bandwidth-split/",
-      "pubDate": "Tue, 27 Oct 2026 13:55:55 +0000",
-      "description": "The just-announced 14-inch MacBook Pro with M6 chip features memory bandwidth of up to 170GB/s, up from 153GB/s in the M5 model, but notably the performance increase doesn't stretch to the base 16GB c",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-scaled.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "M6 iMac Pre-Orders and Release Date Announced",
-      "link": "https://www.macrumors.com/2026/10/27/m6-imac-pre-orders-release-date/",
-      "pubDate": "Tue, 27 Oct 2026 13:44:03 +0000",
-      "description": "Apple has announced the first iMac update in two years, bringing its M6 chip to the all-in-one desktop. The new model features a 24-inch 4.5K Retina display, up to a 12-core CPU and 12-core GPU, and W",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-iMac-with-M6-hero-261027-scaled.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "M6 MacBook Pro vs M5 MacBook Pro: What’s actually changed?",
@@ -418,14 +698,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Updates Creator Studio With New Tools and AI Features",
-      "link": "https://www.macrumors.com/2026/10/27/apple-updates-creator-studio-ai-features/",
-      "pubDate": "Tue, 27 Oct 2026 13:36:26 +0000",
-      "description": "Apple today announced a new update to its Creator Studio suite of apps, adding a number of additional features and tools across Mac, iPad, and iPhone. Amongst the new features, Final Cut Pro for Mac n",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Creator-Studio-Final-Cut-Pro-MotionVFX-261027-scaled.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Apple Creator Studio gets powerful new AI features using OpenAI models",
       "link": "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
       "pubDate": "Tue, 27 Oct 2026 13:26:38 +0000",
@@ -434,18 +706,10 @@
       "source": "9to5Mac"
     },
     {
-      "title": "M6 14-Inch MacBook Pro: Pre-Orders and Release Date Announced",
-      "link": "https://www.macrumors.com/2026/10/27/m6-14-inch-macbook-pro-pre-orders-release-date/",
-      "pubDate": "Tue, 27 Oct 2026 13:21:07 +0000",
-      "description": "Apple today announced the new 14-inch MacBook Pro with M6, featuring a 12-core CPU and 12-core GPU, Wi-Fi 7, and up to 24 hours of battery life. Pre-orders for the new model open Wednesday, October 28",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-MacBook-Pro-14-in-with-M6-Pixelmator-Pro-261027-scaled.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Apple unveils new 14-inch MacBook Pro powered by M6",
       "link": "https://9to5mac.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-powered-by-m6/",
       "pubDate": "Tue, 27 Oct 2026 13:07:41 +0000",
-      "description": "Alongside a new M6 iMac , Apple has also unveiled a new 14-inch MacBook Pro powered by M6. The new M6 MacBook Pro starts at $1,999 and will be available to pre-order tomorrow, October 28. more…",
+      "description": "Update 10/28: Pre-orders for the new M6 MacBook Pro are now live 14-inch M6 MacBook Pro 16GB/1TB $1,999 14-inch M6 MacBook Pro 32GB/1TB $2,399 Silver or Space Black Alongside a new M6 iMac , Apple has",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
@@ -458,14 +722,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Announces New 14-Inch MacBook Pro With M6 Chip",
-      "link": "https://www.macrumors.com/2026/10/27/14-inch-macbook-pro-with-m6-chip/",
-      "pubDate": "Tue, 27 Oct 2026 13:01:00 +0000",
-      "description": "Apple today announced a refreshed 14-inch MacBook Pro featuring the M6 chip, upgraded connectivity specifications, and more. The M6 chip in the ‌MacBook Pro‌ features a 12-core CPU with 2 su",
-      "image": "https://images.macrumors.com/t/PpAQE16x5Vr4Z1yCIGsj0S8qPdg=/3840x/article-new/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Opera One now lets Mac users run Apple’s foundation model directly in the browser",
       "link": "https://9to5mac.com/2026/10/27/opera-one-now-lets-mac-users-run-apples-foundation-model-directly-in-the-browser/",
       "pubDate": "Tue, 27 Oct 2026 13:00:18 +0000",
@@ -474,28 +730,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Announces New iMac With M6 Chip and More",
-      "link": "https://www.macrumors.com/2026/10/27/apple-announces-new-imac-with-m6-chip-and-more/",
-      "pubDate": "Tue, 27 Oct 2026 13:00:17 +0000",
-      "description": "Apple today announced a new 24-inch iMac with the M6 chip for faster performance, an N1 chip with Wi-Fi 7 and Bluetooth 6 support, faster SSD speeds, and more. The new iMac has the same design as the ",
-      "image": "https://images.macrumors.com/article-new/2026/10/M6-iMac-Feature-scaled.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "US government acting illegally over electronic surveillance of its own citizens, say senators",
       "link": "https://9to5mac.com/2026/10/27/us-government-acting-illegally-over-electronic-surveillance-of-its-own-citizens-say-senators/",
       "pubDate": "Tue, 27 Oct 2026 12:29:01 +0000",
       "description": "Two senators with notable expertise in intelligence matters say that the US government is acting illegally over electronic surveillance of its own citizens. They say the Foreign Intelligence Surveilla",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/US-government-acting-illegally-over-electronic-surveillance-of-its-own-citizens-say-senators.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Fixes Possibly Exploited CoreGraphics Flaw on Older iPhones",
-      "link": "https://www.macrumors.com/2026/10/27/apple-fixes-coregraphics-flaw-older-iphones/",
-      "pubDate": "Tue, 27 Oct 2026 12:16:22 +0000",
-      "description": "Among the flurry of iOS 27.2 releases on Monday , Apple also pushed a wave of software updates for its older operating systems, including a fix for a CoreGraphics vulnerability that Apple says may hav",
-      "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "This super cute app turns your iPhone Duo into tiny vintage Macs",
@@ -512,14 +752,6 @@
       "description": "Apple yesterday officially launched what it describes as “ the biggest update ever ” to the iPad mini , featuring an OLED screen and a thinner, lighter design. However, while there are a significant n",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/2026-iPad-mini.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple's MacBook Pro Touch Bar Was Announced 10 Years Ago Today",
-      "link": "https://www.macrumors.com/2026/10/27/macbook-pro-touch-bar-announced-10-years-ago/",
-      "pubDate": "Tue, 27 Oct 2026 10:45:37 +0000",
-      "description": "Apple introduced the Touch Bar 10 years ago today. At its \"Hello again\" event on October 27, 2016, Apple pitched the OLED Multi-Touch strip as \"revolutionary.\" It replaced the MacBook Pro's function k",
-      "image": "https://images.macrumors.com/article-new/2021/01/touch-bar-close-up.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Apple @ Work Podcast: JNUC recap, Golden Gate, Rosetta, and more",
@@ -757,7 +989,7 @@
       "title": "Apple unveils all-new iPad mini: OLED, thinner design, more",
       "link": "https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/",
       "pubDate": "Mon, 26 Oct 2026 13:04:24 +0000",
-      "description": "Apple has officially unveiled a new iPad mini. The company calls it the “biggest update ever” for the iPad mini, adding an OLED display and a thinner, lighter design. The new iPad mini is powered by t",
+      "description": "Update 10/28: The new OLED iPad mini is now available for pre-order . OLED iPad mini 128GB $699 OLED iPad mini 256GB $799 OLED iPad mini 512GB $999 Apple has officially unveiled a new iPad mini . The ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-iPad-mini-hero-261026_big.jpg.large_2x.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
@@ -871,222 +1103,6 @@
       "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
       "description": "It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US. Apple has built some really use",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/16_9_Incogni_partnerships_generic_v3.png?w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
-      "link": "https://9to5mac.com/2026/10/24/apple-work-the-browser-is-the-biggest-gap-in-your-ai-governance-strategy/",
-      "pubDate": "Sat, 24 Oct 2026 13:00:00 +0000",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
-      "link": "https://9to5mac.com/2026/10/24/apple-weekend-deals-apple-tv-4k-macbook-pencil-airpods/",
-      "pubDate": "Sat, 24 Oct 2026 12:15:32 +0000",
-      "description": "Update 10/25: Amazon has now dropped the single AirTag 2 listing down to $23 the all-time low . The early discount on the new Apple Pencil (USB-C) for your new Duo, not to mention an ongoing all-time ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-Apple-weekend-deals-Apple-TV-4K-AirPods.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
-      "link": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
-      "pubDate": "Fri, 23 Oct 2026 23:50:49 +0000",
-      "description": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple’s official DIY repair guides for the iPhone Duo now available",
-      "link": "https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/",
-      "pubDate": "Fri, 23 Oct 2026 23:12:21 +0000",
-      "description": "Following today’s launch of the iPhone Duo , Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today",
-      "link": "https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today/",
-      "pubDate": "Fri, 23 Oct 2026 20:23:43 +0000",
-      "description": "Apple TV subscribers in the US can now watch Formula 1 live in Dolby Atmos, starting with this weekend’s United States Grand Prix. Here’s the schedule. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/f1-austin.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "9to5Mac Daily: October 23, 2026 – MacBook Pro rumors, iPhone Duo apps",
-      "link": "https://9to5mac.com/2026/10/23/daily-october-23-2026/",
-      "pubDate": "Fri, 23 Oct 2026 20:14:02 +0000",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for O",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "9to5Mac Overtime 087: Happy iPhone Duo day",
-      "link": "https://9to5mac.com/2026/10/23/9to5mac-overtime-087-happy-iphone-duo-day/",
-      "pubDate": "Fri, 23 Oct 2026 20:00:00 +0000",
-      "description": "Jeff interviews Fernando about his first 24 hours with the iPhone Duo, covering everything from initial impressions to how it works as a phone versus a tablet, how it compares to the iPad mini, and, o",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/OT-087.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3",
-      "link": "https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/",
-      "pubDate": "Fri, 23 Oct 2026 19:50:23 +0000",
-      "description": "Rising memory prices continue to weigh on the global smartphone market, with shipments in China alone falling 10% year over year in Q3. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-official.webp?w=1500",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iPhone Duo has hidden trick that solves a common complaint",
-      "link": "https://9to5mac.com/2026/10/23/iphone-duo-has-hidden-trick-that-solves-a-common-complaint/",
-      "pubDate": "Fri, 23 Oct 2026 19:43:08 +0000",
-      "description": "iPhone Duo is officially out in the wild, and users keep discovering new details about the device. The latest: there’s a hidden trick that makes opening Control Center significantly easier. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-front-home-screen-chm.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "watchOS 27.2 gets new RC ahead of next week’s launch",
-      "link": "https://9to5mac.com/2026/10/23/watchos-27-2-gets-new-rc-ahead-of-next-weeks-launch/",
-      "pubDate": "Fri, 23 Oct 2026 19:19:09 +0000",
-      "description": "Apple has just released a second RC (release candidate) build of watchOS 27.2 for testing. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/watchOS-27.2-rc.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Next week’s MacBook Pro could be huge upgrade, but with one problem",
-      "link": "https://9to5mac.com/2026/10/23/next-weeks-macbook-pro-could-be-huge-upgrade-but-with-one-problem/",
-      "pubDate": "Fri, 23 Oct 2026 19:10:15 +0000",
-      "description": "Apple has a fully redesigned MacBook Pro launching next week that promises to be a major upgrade, except in one key area. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-2020-13-inch-model.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Download the iPhone Duo’s official light and dark wallpapers here",
-      "link": "https://9to5mac.com/2026/10/23/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
-      "pubDate": "Fri, 23 Oct 2026 19:06:48 +0000",
-      "description": "Even if you’re not planning on getting an iPhone Duo, you can now download its light and dark wallpapers for any of your devices. Get them below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-wallpapers.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "HomeKit Weekly: SwitchBot’s new light bars bring 12-zone color to Apple Home",
-      "link": "https://9to5mac.com/2026/10/23/switchbots-new-light-bars-bring-12-zone-color-to-apple-home/",
-      "pubDate": "Fri, 23 Oct 2026 18:07:00 +0000",
-      "description": "Lighting effects can make or break your TV room, gaming setup, etc. SwitchBot’s RGBICWW Light Bars take a different approach from most products, with dedicated cool-white and warm-white LEDs alongside",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Switchbot-2.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple publishes iPhone Duo support documents covering hinge, Touch ID, cases, more",
-      "link": "https://9to5mac.com/2026/10/23/apple-publishes-iphone-duo-support-documents-covering-hinge-touch-id-cases-more/",
-      "pubDate": "Fri, 23 Oct 2026 17:34:43 +0000",
-      "description": "Apple is publishing a slew of support documents today corresponding with the launch of iPhone Duo, as it does for every iPhone launch. The support documents cover Touch on iPhone Duo, troubleshooting ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-02.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
-      "link": "https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
-      "pubDate": "Fri, 23 Oct 2026 17:16:26 +0000",
-      "description": "iPhone Duo has arrived, and if you managed to snag Apple’s new foldable on launch day, here are our top recommendations for accessories. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Here’s everything new Apple TV has coming in November",
-      "link": "https://9to5mac.com/2026/10/23/heres-everything-new-apple-tv-has-coming-in-november-2/",
-      "pubDate": "Fri, 23 Oct 2026 16:11:42 +0000",
-      "description": "Apple TV’s November lineup includes the return of a beloved comedy , a heist thriller with big stars, the follow-up film to its Oscar winner, and a lot more. Here’s everything new coming to Apple TV i",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-fall-foliage-logo.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "My experience suggests Apple Glasses will only sell to existing eyeglasses wearers",
-      "link": "https://9to5mac.com/2026/10/23/my-experience-suggests-apple-glasses-will-only-be-for-existing-eyeglass-wearers/",
-      "pubDate": "Fri, 23 Oct 2026 16:00:00 +0000",
-      "description": "No, I haven’t managed to get my hands on a prototype pair of Apple Glasses , but I now have experience of the rough equivalents of what we’re expecting from both a 1st- and 2nd-gen product. In both ca",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Deals: iPhone Duo cases, Apple Pencil, AirPods Pro 3, Apple TV 4K, power banks, more",
-      "link": "https://9to5mac.com/2026/10/23/deals-duo-cases-apple-pencil-airpods-apple-tv-4k/",
-      "pubDate": "Fri, 23 Oct 2026 15:33:26 +0000",
-      "description": "We are still tracking a solid Apple Pencil USB-C as low as $61 (more details here ), some exclusive discounts on some of our favorite new leather cases as well as other models from just $14 , and this",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4K-AirPods-iPhone-Duo-cases.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple’s website has fun new easter egg: a fully interactive iPod",
-      "link": "https://9to5mac.com/2026/10/23/apples-website-has-fun-new-easter-egg-a-fully-interactive-ipod/",
-      "pubDate": "Fri, 23 Oct 2026 14:50:53 +0000",
-      "description": "Today is the 25th anniversary of Apple unveiling the first iPod. And as discovered by Kian on X , the company’s website now has a fun new iPod easter egg. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ipod-easter-egg-apple-25th-anniversary.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iOS 27.1 is exclusive to iPhone Duo, here’s why",
-      "link": "https://9to5mac.com/2026/10/23/ios-27-1-is-exclusive-to-iphone-duo-heres-why/",
-      "pubDate": "Fri, 23 Oct 2026 14:28:56 +0000",
-      "description": "iOS 27.1 has officially launched, but you wouldn’t know it by checking your iPhone’s Settings app. That’s because the latest iPhone update is exclusive to iPhone Duo. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27.1-01.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Here’s how to get fastest iPhone Duo charging",
-      "link": "https://9to5mac.com/2026/10/23/heres-how-to-get-fastest-iphone-duo-charging/",
-      "pubDate": "Fri, 23 Oct 2026 13:56:33 +0000",
-      "description": "iPhone Duo supports fast charging in both wired and wireless setups, but only with the right accessories. Here’s what Apple says you’ll need. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple overtakes Nvidia as most valuable company in the world on iPhone Duo launch day",
-      "link": "https://9to5mac.com/2026/10/23/apple-overtakes-nvidia-as-most-valuable-company-in-the-world-on-iphone-duo-launch-day/",
-      "pubDate": "Fri, 23 Oct 2026 13:41:59 +0000",
-      "description": "It’s iPhone Duo launch day around the world, and Wall Street is pleased. Apple reclaimed the title of most valuable company in the world on Friday as it reached new trading highs. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iPhone Duo launch day: Lines form at Apple Stores, walk-in availability limited",
-      "link": "https://9to5mac.com/2026/10/23/iphone-duo-launch-day-lines-form-at-apple-stores-walk-in-availability-limited/",
-      "pubDate": "Fri, 23 Oct 2026 13:39:41 +0000",
-      "description": "Today is iPhone Duo launch day, and it’s a worldwide party at Apple Stores. In a press release published this morning, Apple is sharing pictures from the iPhone Duo launch around the world. 9to5Mac re",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Jingan-Shanghai-store-queue-261023.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iOS 27.2: Three new features coming to your iPhone next week",
-      "link": "https://9to5mac.com/2026/10/23/ios-27-2-three-new-features-coming-soon-to-your-iphone/",
-      "pubDate": "Fri, 23 Oct 2026 13:30:11 +0000",
-      "description": "iOS 27.2 is about to launch, arriving as the next big iPhone update—iOS 27.1 is iPhone Duo-only. Here are three new features coming next week with iOS 27.2. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "New iPhone Duo cases available for purchase: Fabric, leather, aramid fiber, metal, more [Updated]",
-      "link": "https://9to5mac.com/2026/10/23/best-iphone-duo-cases-now-available-purchase/",
-      "pubDate": "Fri, 23 Oct 2026 12:17:00 +0000",
-      "description": "Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take orders for their latest full-grai",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
-      "link": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
-      "pubDate": "Fri, 23 Oct 2026 03:15:09 +0000",
-      "description": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple Store and get one after a messy pre-order launch . In a new interview with TechRadar , Apple market",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple is finally catching up with Siri, but the goalposts are moving again",
-      "link": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
-      "pubDate": "Fri, 23 Oct 2026 01:42:38 +0000",
-      "description": "9to5Mac is brought to you by Memoket : Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks ago",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
     {
@@ -1242,28 +1258,12 @@
       "source": "Ars Technica"
     },
     {
-      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-      "pubDate": "Mon, 14 Sep 2026 19:28:42 +0000",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg",
-      "source": "Ars Technica"
-    },
-    {
       "title": "SwiftUI Agent Skill: Install and use with AI coding tools",
       "link": "https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/",
       "pubDate": "Mon, 14 Sep 2026 11:49:33 +0000",
       "description": "A SwiftUI Agent Skill that helps you build better views or refactor existing ones. It’s the reality we’re in today, and I honestly can’t live without it anymore myself. Several skill",
       "image": "https://swiftlee-banners.herokuapp.com/imagegenerator.php?title=SwiftUI+Agent+Skill%3A+Install+and+use+with+AI+coding+tools",
       "source": "Antoine van der Lee"
-    },
-    {
-      "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-      "link": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
-      "pubDate": "Wed, 09 Sep 2026 19:42:00 +0000",
-      "description": "",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909-1152x648.jpg",
-      "source": "Ars Technica"
     },
     {
       "title": "The iOS Simulator Inside Cursor, Claude Code, and Codex",

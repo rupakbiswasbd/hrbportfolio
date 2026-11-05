@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-04T08:33:10.248Z",
+  "updatedAt": "2026-11-05T08:54:30.535Z",
   "items": [
     {
-      "title": "macOS 27.3 includes cool-looking ‘Pro’ screensaver from new touchscreen MacBook Pro",
-      "link": "https://9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro/",
-      "pubDate": "Wed, 04 Nov 2026 02:43:07 +0000",
-      "description": "Included in today’s macOS 27.3 beta 1 is a great-looking screensaver featuring an animated version of the new MacBook Pro with PROLED XDR Display wallpaper. Watch it below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-touch.jpg?quality=82&strip=all&w=1600",
+      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+      "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+      "pubDate": "2026-11-05T00:00:00-05:00",
+      "description": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Livestream: Watch Labrinth create a song from scratch tonight using Apple’s new MacBook Pro",
+      "link": "https://9to5mac.com/2026/11/04/livestream-watch-labrinth-create-a-song-from-scratch-tonight-using-apples-new-macbook-pro/",
+      "pubDate": "Thu, 05 Nov 2026 02:00:00 +0000",
+      "description": "To promote the new MacBook Pro with PROLED XDR Display , Apple is hosting a livestream in which singer-songwriter Labrinth will create a song from scratch overnight at the company’s Tower Theatre stor",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/labirinth.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
     {
-      "title": "‘Stick’ season 2 premieres on Apple TV",
-      "link": "https://9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv/",
-      "pubDate": "Wed, 04 Nov 2026 02:01:01 +0000",
-      "description": "Apple TV subscribers can now watch the first two episodes of the new season of “ Stick ,” starring Owen Wilson ( Midnight In Paris ), Rhea Seehorn ( Pluribus ), and Timothy Olyphant ( Justified ), amo",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
-      "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-      "pubDate": "2026-11-03T20:15:34-05:00",
-      "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "title": "X says its updated web app is way faster",
+      "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "pubDate": "2026-11-04T19:25:12-05:00",
+      "description": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com ov",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0,0,100,100",
       "source": "The Verge"
     }
   ]

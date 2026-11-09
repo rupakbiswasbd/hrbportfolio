@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-08T08:31:16.938Z",
+  "updatedAt": "2026-11-09T09:01:47.055Z",
   "items": [
     {
-      "title": "Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More",
-      "link": "https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/",
-      "pubDate": "Sat, 07 Nov 2026 20:50:00 +0000",
-      "description": "Black Friday is now just a few weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like",
-      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-9.jpg",
+      "title": "Agentic engineering: why I built the AI Fundamentals course",
+      "link": "https://www.avanderlee.com/ai-development/agentic-engineering-ai-fundamentals-course/",
+      "pubDate": "Mon, 09 Nov 2026 08:54:50 +0000",
+      "description": "Agentic engineering changed how I build software, and today I’m launching the course I wrote about it: AI Fundamentals. I use agentic engineering and agentic coding for the same shift: you write",
+      "image": "https://swiftlee-banners.herokuapp.com/imagegenerator.php?title=Agentic+engineering%3A+why+I+built+the+AI+Fundamentals+course",
+      "source": "Antoine van der Lee"
+    },
+    {
+      "title": "Apple Store Subscription Sign-Up Controversy Exposed",
+      "link": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
+      "pubDate": "Mon, 09 Nov 2026 03:28:09 +0000",
+      "description": "In a series of YouTube videos shared over the past two weeks, electronics technician and consumer rights advocate Louis Rossmann has exposed a controversy in which some Apple Store employees have alle",
+      "image": "https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg",
       "source": "MacRumors"
     },
     {
-      "title": "'Backglow' Lets You Customize New MacBook Pro's Glowing Apple Logo",
-      "link": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/",
-      "pubDate": "Sat, 07 Nov 2026 20:44:15 +0000",
-      "description": "A new \"Backglow\" app created by designer Juan Buis lets you customize the illuminated Apple logo on the lid of the new MacBook Pro models. The free version of the app allows you to manually adjust the",
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
-      "link": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
-      "pubDate": "Sat, 07 Nov 2026 20:30:00 +0000",
-      "description": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If y",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CueFlip.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "pubDate": "2026-11-08T17:54:50-05:00",
+      "description": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Di",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
     }
   ]
 }

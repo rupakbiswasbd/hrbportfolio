@@ -1,6 +1,374 @@
 {
-  "updatedAt": "2026-11-13T09:01:44.632Z",
+  "updatedAt": "2026-11-14T08:30:52.015Z",
   "items": [
+    {
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "pubDate": "2026-11-13T20:53:04-05:00",
+      "description": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than fo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "pubDate": "2026-11-13T18:49:11-05:00",
+      "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "HomeView Tidbits: Mirror, Sleep Timer, and Other Details",
+      "link": "https://www.macrumors.com/2026/11/13/homeview-tidbits-2/",
+      "pubDate": "Fri, 13 Nov 2026 22:04:47 +0000",
+      "description": "Apple's HomeView is out today, and we're finally learning all the little details about the new hub. We've rounded up a list of tidbits for those setting up a HomeView or thinking about getting one. Su",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview-lifestyle.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
+      "link": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
+      "pubDate": "Fri, 13 Nov 2026 21:59:21 +0000",
+      "description": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and rep",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-hand-touch.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "9to5Mac Overtime 090: iPhone Duo honeymoon",
+      "link": "https://9to5mac.com/2026/11/13/9to5mac-overtime-090-iphone-duo-honeymoon/",
+      "pubDate": "Fri, 13 Nov 2026 21:00:00 +0000",
+      "description": "The Overtime crew revisits the iPhone Duo after prolonged usage. Is it still worth it without a telephoto lens or Face ID? We dig into its multitasking chops, standout FaceTime features, and how it st",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5Mac-Overtime-90.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "pubDate": "2026-11-13T15:45:10-05:00",
+      "description": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update",
+      "link": "https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai/",
+      "pubDate": "Fri, 13 Nov 2026 20:35:53 +0000",
+      "description": "Apple today released HomePod software version 27.2.1, but it does not enable Siri AI on the HomePod mini 2 . Apple's website continues to say the feature is \"coming in a future software update,\" but i",
+      "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+      "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+      "pubDate": "2026-11-13T15:30:00-05:00",
+      "description": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/cmf-by-nothing-speaker-s-breakout.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Epic formally asks SCOTUS to uphold contempt ruling against Apple",
+      "link": "https://9to5mac.com/2026/11/13/epic-formally-asks-scotus-to-uphold-contempt-ruling-against-apple/",
+      "pubDate": "Fri, 13 Nov 2026 20:00:50 +0000",
+      "description": "Epic Games has submitted its official response to Apple’s Supreme Court appeal, urging the justices to uphold the contempt ruling over App Store payment restrictions. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple releases tvOS 27.2.1 and HomePod 27.2.1, here’s what’s new",
+      "link": "https://9to5mac.com/2026/11/13/apple-releases-tvos-27-2-1-and-homepod-27-2-1-heres-whats-new/",
+      "pubDate": "Fri, 13 Nov 2026 19:33:08 +0000",
+      "description": "Apple has just released tvOS 27.2.1 for Apple TV 4K and HomePod 27.2.1 for HomePod models, here’s what’s new. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-tv-homepod-mini.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Perplexity brings AI agents feature called Teammates to the Mac",
+      "link": "https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/",
+      "pubDate": "Fri, 13 Nov 2026 19:31:05 +0000",
+      "description": "This week, Perplexity has deployed its new proactive agentic AI feature called Teammates to the Mac. Perplexity Teammates were previously limited to iOS and the web. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
+      "link": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
+      "pubDate": "Fri, 13 Nov 2026 19:26:39 +0000",
+      "description": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after Apple released tvOS 27.2. tvOS 27.2.1 brings Siri AI ",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+      "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+      "pubDate": "2026-11-13T14:14:38-05:00",
+      "description": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a f",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Microsoft 365 Outage Resolving After Nearly 24 Hours",
+      "link": "https://www.macrumors.com/2026/11/13/microsoft-365-outage-resolving/",
+      "pubDate": "Fri, 13 Nov 2026 19:00:35 +0000",
+      "description": "The ongoing Microsoft 365 outage is resolving after nearly 24 hours. The company said the underlying issue has been fixed and it is seeing \"broad recovery and stability\" across its services as it work",
+      "image": "https://images.macrumors.com/article-new/2026/11/microsoft-365-icons.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iOS 27.3 adds three new features I’ve used almost every day",
+      "link": "https://9to5mac.com/2026/11/13/ios-27-3-adds-three-new-features-ive-used-almost-every-day/",
+      "pubDate": "Fri, 13 Nov 2026 18:56:41 +0000",
+      "description": "iOS 27.3 is coming next month , and during the beta so far there are three new features I’ve been using almost every day. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iPhone Duo Survives 450,000 Folds, but Hinge is Weakening",
+      "link": "https://www.macrumors.com/2026/11/13/iphone-duo-fold-testing/",
+      "pubDate": "Fri, 13 Nov 2026 18:43:39 +0000",
+      "description": "For the last three weeks, CNET has been stress testing the iPhone Duo 's hinge on a livestream. After over 451,000 folds, the hinge is showing signs of wear. CNET says the hinge started feeling looser",
+      "image": "https://images.macrumors.com/t/Im11BUuuIFrgQlKCgYNZc5nbdm8=/2500x/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "YouTube App Not Working on Your New Apple TV? Here's the Fix",
+      "link": "https://www.macrumors.com/2026/11/13/youtube-app-apple-tv-not-working-fix/",
+      "pubDate": "Fri, 13 Nov 2026 18:18:12 +0000",
+      "description": "The fourth-generation Apple TV 4K began arriving to customers today, and some users noticed the YouTube app is not working . If you have encountered this issue, make sure tvOS 27.2 is installed via Se",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple TV 4K Launch Day Deal Arrives at Amazon",
+      "link": "https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/",
+      "pubDate": "Fri, 13 Nov 2026 18:16:52 +0000",
+      "description": "Amazon today is back with a discount on the brand new A19 Apple TV 4K for launch day, available for $289.99 , down from $299.00. This is a match of the pre-order discount we saw last week. Not",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View3.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+      "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+      "pubDate": "2026-11-13T13:10:41-05:00",
+      "description": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE inst",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/keychron1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "9to5Mac Daily: November 13, 2026 – New Apple TV 4K and HomeView now available",
+      "link": "https://9to5mac.com/2026/11/13/daily-november-13-2026/",
+      "pubDate": "Fri, 13 Nov 2026 18:04:08 +0000",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for O",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Jensen Huang was reckless with the environment, too",
+      "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "pubDate": "2026-11-13T12:44:22-05:00",
+      "description": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+      "link": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+      "pubDate": "2026-11-13T12:12:56-05:00",
+      "description": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turn",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/campsnapA.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "The MacRumors Show: HomeView and Apple TV 4K First Impressions",
+      "link": "https://www.macrumors.com/2026/11/13/the-macrumors-show-homeview-first-impressions/",
+      "pubDate": "Fri, 13 Nov 2026 17:00:23 +0000",
+      "description": "On this week's episode of The MacRumors Show , we share first impressions of Apple's new HomeView and Apple TV 4K, including their hardware, everyday usefulness, and experiences with Siri AI. Subscrib",
+      "image": "https://images.macrumors.com/t/1WJv2Hc5qHejXe_prIz5rpB_nuA=/2500x/article-new/2026/11/TMRS-218-Apple-TV-4K-and-HomeView-Thumb.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "This tiny iOS 27 camera feature really makes a huge difference",
+      "link": "https://9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference/",
+      "pubDate": "Fri, 13 Nov 2026 17:00:00 +0000",
+      "description": "When shooting both photos and videos on my iPhone, I make regular use of a few different third-party apps, mostly because I like to take manual control. But a combination of the new Pro controls on th",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-18-Pro-and-iOS-27-customizable-controls.jpeg?quality=82&strip=all&w=1200",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Maps in iOS 27 has hidden new feature I’ve been loving",
+      "link": "https://9to5mac.com/2026/11/13/apple-maps-in-ios-27-has-hidden-new-feature-ive-been-loving/",
+      "pubDate": "Fri, 13 Nov 2026 16:59:38 +0000",
+      "description": "iOS 27 gave Apple Maps a handful of new features , and my favorite is one that keeps offering fresh updates every week: Local Lists. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "The new Apple TV has a YouTube problem",
+      "link": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+      "pubDate": "2026-11-13T11:55:57-05:00",
+      "description": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black scree",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268864_Smart_home_photos_HMCRAE37.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Meets Thai Officials Over iPhone Spyware Warnings",
+      "link": "https://www.macrumors.com/2026/11/13/apple-thailand-spyware-warnings/",
+      "pubDate": "Fri, 13 Nov 2026 16:32:40 +0000",
+      "description": "Apple met with Thai officials earlier this week to discuss spyware warnings received by politicians and other users in the country, Bloomberg reports. The discussions followed Apple's October 29 threa",
+      "image": "https://images.macrumors.com/article-new/2023/10/Apple-Logo-Spotlight-Blue.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Shares HomeView 27.2 Release Notes With List of Features",
+      "link": "https://www.macrumors.com/2026/11/13/apple-shares-homeview-27-2-release-notes/",
+      "pubDate": "Fri, 13 Nov 2026 16:30:25 +0000",
+      "description": "Apple's new HomeView smart home display launched today and the release notes for HomeView software version 27.2 are now available in a support document . Since these are the first HomeView release not",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview-entertainment-feature-1.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Deals: Apple TV 4K release day discount, Apple Watch Ultra $250 off, AirPods Pro 3, AirTag 2 all-time low, more",
+      "link": "https://9to5mac.com/2026/11/13/deals-apple-tv-4k-discount-airpods-pro-3-airtag-2/",
+      "pubDate": "Fri, 13 Nov 2026 16:27:06 +0000",
+      "description": "Alongside Amazon’s now live early Black Friday sale , it has also brought back its discount on the new Apple TV 4K for release day with much faster shipping times than Apple for most folks, alongside ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-Apple-TV-4K-Ultra-AirPods-Pro-3.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Microsoft’s massive Outlook outage might be over",
+      "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "pubDate": "2026-11-13T11:17:11-05:00",
+      "description": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on F",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "HomeView in Québec: Apple Says Canadian French Support to Arrive in Software Update",
+      "link": "https://www.macrumors.com/2026/11/13/homeview-quebec-canadian-french/",
+      "pubDate": "Fri, 13 Nov 2026 16:02:27 +0000",
+      "description": "Apple's new HomeView smart home display is available starting today. If you use Canadian French, which is most widely spoken in Québec but also elsewhere, Apple today reiterated that the HomeView will",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview-wall-mount.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
+      "link": "https://9to5mac.com/2026/11/13/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
+      "pubDate": "Fri, 13 Nov 2026 15:59:49 +0000",
+      "description": "iOS 27.2 arrived last month with new features for Messages , Apple TV , and more, plus two improvements for CarPlay. Here’s what’s new for CarPlay users. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-ios-27-home-screen-car.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet, enabling ‘dot’ agents to make purchases",
+      "link": "https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/",
+      "pubDate": "Fri, 13 Nov 2026 15:46:54 +0000",
+      "description": "OpenAI is launching ChatGPT Wallet, which it says is “setting a new bar for secure payments by agents.” ChatGPT Wallet works with OpenAI’s “dots” agent feature and includes a partnership with American",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Security Bite: Apple details Secure Exclaves, a glimpse at its ambient computing future",
+      "link": "https://9to5mac.com/2026/11/13/security-bite-apple-details-secure-exclaves-a-glimpse-at-its-ambient-computing-future/",
+      "pubDate": "Fri, 13 Nov 2026 15:42:20 +0000",
+      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to man",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Says HomeView Sets New Record in Design-Focused Interview",
+      "link": "https://www.macrumors.com/2026/11/13/apple-says-homeview-sets-new-record/",
+      "pubDate": "Fri, 13 Nov 2026 15:20:09 +0000",
+      "description": "TechRadar 's Jacob Krol interviewed Apple's Vice President of Hardware Engineering Matthew Costello about Apple's all-new HomeView smart home display, which is available starting today. The discussion",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview-lifestyle.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Home’s new video doorbell, smart cameras now available to order",
+      "link": "https://9to5mac.com/2026/11/13/apple-homes-new-video-doorbell-smart-cameras-now-available-to-order/",
+      "pubDate": "Fri, 13 Nov 2026 15:14:32 +0000",
+      "description": "Today Apple has launched two Home products: HomeView and a new Apple TV 4K . Additionally, the first three accessories in the Apple Home Collection are now available to order: a video doorbell and two",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/lg-indoor-camera-apple-home-collection.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Watch Ultra 3 Gets Big $250 Discounts Ahead of Black Friday",
+      "link": "https://www.macrumors.com/2026/11/13/apple-watch-ultra-3-250-off/",
+      "pubDate": "Fri, 13 Nov 2026 15:10:46 +0000",
+      "description": "Amazon and Best Buy today have a big collection of Apple Watch Ultra 3 models on sale, starting at $549.00 , down from $799.00. This is a massive $250 discount on the previous-generation d",
+      "image": "https://images.macrumors.com/article-new/2025/11/apple-watch-ultra-3-black-friday-green.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Best Apple Deals of the Week: AirTag 2 Hits Record Low Price, Plus Early Black Friday Sales",
+      "link": "https://www.macrumors.com/2026/11/13/best-apple-deals-of-the-week-11-13-26/",
+      "pubDate": "Fri, 13 Nov 2026 14:53:49 +0000",
+      "description": "Black Friday is two weeks away, and this week we saw numerous early discount events pop up online, including great sales at Amazon, Anker, Samsung, Walmart, and more. Note: MacRumors is an affiliate p",
+      "image": "https://images.macrumors.com/article-new/2024/03/best-apple-deals-new-blue.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iPhone 18 and 18e Coming in Spring 2027 With A20 Chip",
+      "link": "https://www.macrumors.com/2026/11/13/iphone-18-and-18e-coming-in-spring-2027/",
+      "pubDate": "Fri, 13 Nov 2026 14:37:16 +0000",
+      "description": "Apple's iPhone 18 and iPhone 18e will launch in spring 2027 with an A20 chip, Bloomberg 's Mark Gurman reiterated on the latest episode of his \"Power On\" podcast . The remarks align with his previous ",
+      "image": "https://images.macrumors.com/article-new/2026/03/iphone-17e-notch.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "King Charles to Join Elton John's Apple Music Radio Show",
+      "link": "https://www.macrumors.com/2026/11/13/king-charles-to-join-apple-music-radio-show/",
+      "pubDate": "Fri, 13 Nov 2026 14:28:41 +0000",
+      "description": "King Charles III will join Elton John on Apple Music 1 this Saturday for a special episode of \"Rocket Hour\" marking 50 years of The King's Trust. The episode premieres at 9 a.m. GMT on November 14, th",
+      "image": "https://images.macrumors.com/article-new/2026/11/rocket-hour-elton-john-king-charles.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "PSA: YouTube app not working on your new Apple TV? Here’s the fix",
+      "link": "https://9to5mac.com/2026/11/13/new-apple-tv-youtube-broken-fix/",
+      "pubDate": "Fri, 13 Nov 2026 14:21:50 +0000",
+      "description": "If you just unboxed your new Apple TV 4K, you might run into a problem using the YouTube app. Some users report an error message that reads: “YouTube is not yet available on this device.” Here’s how t",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-4th-gen-3.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models",
+      "link": "https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models/",
+      "pubDate": "Fri, 13 Nov 2026 14:15:56 +0000",
+      "description": "Today the new Apple TV 4K has arrived ( order here ) with Siri AI as a major tentpole feature. But older Apple TV 4K models are about to get Siri AI too via a tvOS 27.2.1 software update. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "New Apple TV 4K and HomeView now available: Here’s everything you need to know",
+      "link": "https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know/",
+      "pubDate": "Fri, 13 Nov 2026 13:57:26 +0000",
+      "description": "The new Apple TV 4K and HomeView smart display are officially available. The first pre-orders have arrived for eager shoppers, and you can now also head to your local Apple Store to buy select configu",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-08.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Select 'Apple Home Collection' Accessories Now Available to Order",
+      "link": "https://www.macrumors.com/2026/11/13/apple-home-collection-orders-begin/",
+      "pubDate": "Fri, 13 Nov 2026 13:53:31 +0000",
+      "description": "The first three HomeView -compatible smart home accessories in the Apple Home Collection are available to order starting today, including the LG Indoor Cam ($199.95), LG Outdoor Cam ($299.95),",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-home-collection-feature2.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Major Microsoft 365 Outage Continues",
+      "link": "https://www.macrumors.com/2026/11/13/major-microsoft-365-outage-continues/",
+      "pubDate": "Fri, 13 Nov 2026 11:55:16 +0000",
+      "description": "The worldwide Microsoft 365 outage continues, leaving users unable to access email and disrupting features in Teams, Copilot, and other services, although Microsoft says recovery efforts are making pr",
+      "image": "https://images.macrumors.com/article-new/2026/11/microsoft.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Launches Two Products Today",
+      "link": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
+      "pubDate": "Fri, 13 Nov 2026 10:37:14 +0000",
+      "description": "Apple is releasing two new products today, Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have been available to pre-order since mid-October. Appl",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
+      "source": "MacRumors"
+    },
     {
       "title": "Apple TV just debuted three new originals, including a heist thriller series",
       "link": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
@@ -10,75 +378,11 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Donald Trump really wants Tim Cook to run Nvidia",
-      "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-      "pubDate": "2026-11-12T19:46:07-05:00",
-      "description": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But Pres",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228842017.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Hands-On With the New Apple TV 4K and Siri AI",
       "link": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/",
       "pubDate": "Fri, 13 Nov 2026 00:42:07 +0000",
       "description": "The 4th-generation Apple TV 4K with an A19 chip and Siri AI support is available starting on November 13, and we were able to spend some time with it ahead of launch. Subscribe to the MacRumors YouTub",
       "image": "https://images.macrumors.com/t/Klp9x3R0niKAd-wJW65m-OsfTJk=/2500x/article-new/2026/11/Apple-TV-4K-Thumb-2.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Xbox announces Wolfenstein 3",
-      "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-      "pubDate": "2026-11-12T19:11:44-05:00",
-      "description": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially anno",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ss_c195852422ed8e92ffa4d68ea4bfd34291823c3e.1920x1080.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Siri AI Coming to Older Apple TV 4K Models in tvOS 27.2.1",
-      "link": "https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/",
-      "pubDate": "Thu, 12 Nov 2026 23:57:48 +0000",
-      "description": "An upcoming tvOS 27.2.1 update will bring Siri AI to the 2nd- and 3rd-generation Apple TV 4K models, according to Apple. A support document outlining ‌Siri‌ AI requirements across Apple prod",
-      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-      "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-      "pubDate": "2026-11-12T18:43:22-05:00",
-      "description": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Humble Bundle redesign removes two-factor verification from settings",
-      "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-      "pubDate": "2026-11-12T18:30:52-05:00",
-      "description": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as repor",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&strip=all&crop=0,0,100,88.092261904762",
-      "source": "The Verge"
-    },
-    {
-      "title": "Microsoft Outlook is still down",
-      "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-      "pubDate": "2026-11-12T18:24:13-05:00",
-      "description": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-      "link": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-      "pubDate": "2026-11-12T18:00:00-05:00",
-      "description": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ab",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "HomeView Launch Kicks Off as First Orders Reach Customers",
-      "link": "https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/",
-      "pubDate": "Thu, 12 Nov 2026 22:50:59 +0000",
-      "description": "Apple announced an all-new home product a month ago, and it's now starting to arrive to customers. It's Friday, November 13, in Australia and New Zealand, which means it's the HomeView launch day. Cus",
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
       "source": "MacRumors"
     },
     {
@@ -90,30 +394,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "pubDate": "2026-11-12T16:55:32-05:00",
-      "description": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
-      "link": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-      "pubDate": "2026-11-12T16:45:00-05:00",
-      "description": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
-      "link": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
-      "pubDate": "2026-11-12T16:28:53-05:00",
-      "description": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25665142/247314_Oura_Ring_4_AKrales_0105.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Apple HomeView launches tomorrow, but its first security update is already here",
       "link": "https://9to5mac.com/2026/11/12/apple-homeview-launches-tomorrow-but-its-first-security-update-is-already-here/",
       "pubDate": "Thu, 12 Nov 2026 21:14:40 +0000",
@@ -122,44 +402,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Continues to Move Up iPhone Duo Delivery Dates",
-      "link": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/",
-      "pubDate": "Thu, 12 Nov 2026 21:01:31 +0000",
-      "description": "It's a Christmas miracle: some customers who ordered the iPhone Duo through Apple and received an estimated January 25 delivery date saw their delivery windows move up to December 14 to December 21 to",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-iPhone-Duo-Early-Feature.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Here are the 25 original Xbox games you can now play on PC",
-      "link": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
-      "pubDate": "2026-11-12T16:00:00-05:00",
-      "description": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX_PCBackCompat.jpg?quality=90&strip=all&crop=0,0,100,93.955555555556",
-      "source": "The Verge"
-    },
-    {
       "title": "Opera One for iOS adds Data Saver feature, cutting browsing data usage by up to 80%",
       "link": "https://9to5mac.com/2026/11/12/opera-one-for-ios-adds-data-saver-feature-cutting-browsing-data-usage-by-up-to-80/",
       "pubDate": "Thu, 12 Nov 2026 20:52:21 +0000",
       "description": "Opera today announced that its Data Saver feature is now available on iOS, in a press release that also revealed a 20% year-over-year increase in the browser’s monthly active users. Here are the detai",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/opera-one.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Explains How HomeView Keeps Camera Data Private",
-      "link": "https://www.macrumors.com/2026/11/12/apple-homeview-secure-exclaves/",
-      "pubDate": "Thu, 12 Nov 2026 20:49:35 +0000",
-      "description": "Apple today shared an in-depth look at how it's using Secure Exclaves to protect camera and microphone data on the HomeView, iPhone 18 Pro , and other products. Apple describes Secure Exclaves as comp",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature5.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple Releases Updated HomeView Software 27.2 Before Launch",
-      "link": "https://www.macrumors.com/2026/11/12/apple-homeview-software-27-2-24v526/",
-      "pubDate": "Thu, 12 Nov 2026 20:34:21 +0000",
-      "description": "With the HomeView set to start arriving to some users in just a matter of hours, Apple has released a new HomeView Software 27.2 update. The software has a build number of 24V526, and it is the second",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-homeview-on-black.jpeg",
-      "source": "MacRumors"
     },
     {
       "title": "Apple TV announces new film ‘Connector’ starring Brad Pitt",
@@ -184,30 +432,6 @@
       "description": "Since the Twitter days, X has limited media-per-post to four items. As of today, you can share five times more photos and videos per post. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/x-app.webp?w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Sports App Now Features UFC",
-      "link": "https://www.macrumors.com/2026/11/12/apple-sports-app-ufc/",
-      "pubDate": "Thu, 12 Nov 2026 20:03:35 +0000",
-      "description": "Apple Sports was updated today with support for the UFC, allowing mixed martial arts (MMA) fans to keep track of fights in the free iPhone app. The latest version of the Apple Sports app provides live",
-      "image": "https://images.macrumors.com/article-new/2026/11/apple-sports-ufc-screenshots.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Trump Says Tim Cook Should Be Nvidia CEO as Jensen Huang Resigns",
-      "link": "https://www.macrumors.com/2026/11/12/trump-says-tim-cook-should-be-nvidia-ceo/",
-      "pubDate": "Thu, 12 Nov 2026 19:58:40 +0000",
-      "description": "In a post on his Truth Social platform today, U.S. President Donald Trump said he thinks that Apple's chairman Tim Cook should become Nvidia's CEO. Nvidia today announced that Jensen Huang has resigne",
-      "image": "https://images.macrumors.com/article-new/2026/04/Tim-Cook-and-Donald-Trump.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple Releases Emotional 2026 Holiday Ad Featuring MacBook Neo",
-      "link": "https://www.macrumors.com/2026/11/12/apple-2026-holiday-ad/",
-      "pubDate": "Thu, 12 Nov 2026 19:40:54 +0000",
-      "description": "Apple today shared its annual holiday season ad , in which a young man rediscovers his creativity after receiving a MacBook Neo as a gift from his parents. The short film, titled The Dreamer , is dire",
-      "image": "https://images.macrumors.com/t/324iWZQfAH70sOtrcHuGoEDI2Lg=/1600x/article-new/2026/11/Apple-2026-Holiday-Ad.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "iOS 27’s Find My app adds convenient feature I’ve long wished for",
@@ -250,28 +474,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Walmart Black Friday Sale Begins With Early Deals on TVs, Laptops, and More",
-      "link": "https://www.macrumors.com/2026/11/12/walmart-black-friday-sale-begins/",
-      "pubDate": "Thu, 12 Nov 2026 18:20:43 +0000",
-      "description": "Walmart's Black Friday sale has officially kicked off today, with an online shopping event that's also seeing some matching deals in retail locations. There are quite a few major discounts in this sal",
-      "image": "https://images.macrumors.com/article-new/2022/11/walmart-new-ornametns.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Apple Sports adds UFC events with real-time stats and results",
       "link": "https://9to5mac.com/2026/11/12/apple-sports-adds-ufc-events-with-real-time-stats-and-results/",
       "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
       "description": "Apple continues to expand the appeal of its free Sports app, which focuses on delivering real-time sports scores and stats, across many different sports. Today, Apple is adding UFC into the mix, so MM",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-sports-ufc.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Adds Samsung Foldables to Trade-In Program",
-      "link": "https://www.macrumors.com/2026/11/12/apple-adds-samsung-foldables-to-trade-in-program/",
-      "pubDate": "Thu, 12 Nov 2026 16:43:45 +0000",
-      "description": "Apple today revised its U.S. trade-in estimates, with increases for many older iPhones, reductions for several Pro models, and newly listed offers for six Samsung foldables. The iPhone 17 Pro has the ",
-      "image": "https://images.macrumors.com/article-new/2026/09/Apple-Trade-Ins-Feature.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Deals: HomeView discount, M5 iPad Pro $300 off, Magic Keyboard, AirTag 2 all-time low, more",
@@ -298,44 +506,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple's Official iPhone 18 Pro Cases and Watch Bands Get Big Discounts on Amazon",
-      "link": "https://www.macrumors.com/2026/11/12/apple-accessories-amazon-sale/",
-      "pubDate": "Thu, 12 Nov 2026 15:46:08 +0000",
-      "description": "Today we're tracking a major sale on official Apple accessories at Amazon , with the best prices of the year on iPhone 18 Pro and Pro Max cases, Apple Watch Bands, and more. iPhone Cases Note: MacRumo",
-      "image": "https://images.macrumors.com/article-new/2026/11/iphone-18-blue-case-holiday.jpeg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Nintendo to End 'Sign in With Apple' Support in January",
-      "link": "https://www.macrumors.com/2026/11/12/nintendo-to-end-sign-in-with-apple-support/",
-      "pubDate": "Thu, 12 Nov 2026 15:32:07 +0000",
-      "description": "Nintendo will stop allowing users to sign in to their Nintendo Account with an Apple or Google account on January 26, 2027, the company has announced . Users will also no longer be able to create a Ni",
-      "image": "https://images.macrumors.com/article-new/2026/11/sign-in-with-apple.jpeg",
-      "source": "MacRumors"
-    },
-    {
       "title": "New Apple TV comedy starring Elizabeth Banks, Ted Danson coming soon",
       "link": "https://9to5mac.com/2026/11/12/new-apple-tv-comedy-starring-elizabeth-banks-ted-danson-coming-soon/",
       "pubDate": "Thu, 12 Nov 2026 15:21:02 +0000",
       "description": "Apple TV has announced a new comedy, She’s Fine, that’s coming soon with stars Elizabeth Banks and Ted Danson. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/shes-fine-banks-delaney.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Home Collection: Select Accessories Available to Order This Friday",
-      "link": "https://www.macrumors.com/2026/11/12/apple-home-collection-orders/",
-      "pubDate": "Thu, 12 Nov 2026 14:50:37 +0000",
-      "description": "Apple today announced that select Apple Home Collection accessories will be available to order starting Friday, November 13, with availability beginning in December. Apple did not say exactly which ac",
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-home-collection-feature2.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple Says HomeView Software Update Coming Next Month With Siri Fix",
-      "link": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/",
-      "pubDate": "Thu, 12 Nov 2026 14:44:15 +0000",
-      "description": "In her HomeView review shared in a free edition of her New Things newsletter today , tech journalist Joanna Stern said Siri AI once told her \"I don't have a camera to see you,\" even though the device ",
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview-wall-mount.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Apple Home Collection accessories available for pre-order this Friday",
@@ -368,14 +544,6 @@
       "description": "It’s been four years since Apple last updated the Apple TV 4K, but a new version is here. There’s Siri AI support, a faster chip, an improved remote, and more. Here’s everything that’s changed, what’s",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-4th-gen-color-1.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Review: Is Apple's All-New HomeView Smart Home Hub Worth $299?",
-      "link": "https://www.macrumors.com/2026/11/12/apple-homeview-review/",
-      "pubDate": "Thu, 12 Nov 2026 14:00:12 +0000",
-      "description": "On our YouTube channel today, Dan Barbera shared a review of Apple's all-new HomeView smart home hub ahead of the device launching on Friday. Subscribe to MacRumors on YouTube Barbera spent the past w",
-      "image": "https://images.macrumors.com/t/717aSb6Cnggzs0hNE3B4_RM96IM=/2500x/article-new/2026/11/HomeView-Hands-On-Thumb-3.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Mount Thor raises $45 million to build Mac data centers for AI agents",
@@ -418,28 +586,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "'Ratchet & Clank: Ranger Rumble' to Leave App Store This Month",
-      "link": "https://www.macrumors.com/2026/11/12/ratchet-clank-ranger-rumble-to-leave-app-store/",
-      "pubDate": "Thu, 12 Nov 2026 12:52:07 +0000",
-      "description": "Sony is pulling the plug on a mobile spin-off of one of the PlayStation's best-known franchises before its worldwide launch. \"Ratchet & Clank: Ranger Rumble\" adapted the long-running series into a fre",
-      "image": "https://images.macrumors.com/article-new/2026/11/rachet-clank-ranger-rumble.jpeg",
-      "source": "MacRumors"
-    },
-    {
       "title": "30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry",
       "link": "https://9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry/",
       "pubDate": "Thu, 12 Nov 2026 12:45:48 +0000",
       "description": "A poll of 9to5Mac readers who were lucky enough to take delivery of their iPhone Duo in the first few days shows that 30% of them have returned it for a refund. While that could be considered bad news",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/30-of-iPhone-Duo-buyers-may-have-returned-it-but-I-dont-think-Apple-should-worry.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple's Johny Srouji Eyed to Replace Nvidia CEO Jensen Huang",
-      "link": "https://www.macrumors.com/2026/11/12/johny-srouji-eyed-as-potential-nvidia-ceo/",
-      "pubDate": "Thu, 12 Nov 2026 12:29:41 +0000",
-      "description": "Apple's chief hardware officer Johny Srouji is being considered as a potential successor to Nvidia CEO Jensen Huang as the chipmaker's board prepares to remove its co-founder, according to Semafor . C",
-      "image": "https://images.macrumors.com/article-new/2026/11/johny-srouji.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
@@ -474,28 +626,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Support Community Deserved a Proper Goodbye",
-      "link": "https://www.macrumors.com/2026/11/11/apple-support-community-deserved-a-proper-goodbye/",
-      "pubDate": "Thu, 12 Nov 2026 04:51:19 +0000",
-      "description": "Apple on Tuesday abruptly placed the Apple Support Community into a read-only state and announced that the forums will be permanently closing on Friday, November 20 . Those who contributed to the site",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
       "link": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
       "pubDate": "Thu, 12 Nov 2026 04:01:11 +0000",
       "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for O",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
-      "link": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/",
-      "pubDate": "Wed, 11 Nov 2026 21:37:39 +0000",
-      "description": "Apple employee Eric Chen Su was arrested and charged with suspicion of gross vehicular manslaughter last week following a fatal collision near the intersection of North Tantau Avenue and Pruneridge Av",
-      "image": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
-      "source": "MacRumors"
     },
     {
       "title": "iPhone Duo one week later: The future, or not for me?",
@@ -911,142 +1047,6 @@
       "pubDate": "Mon, 09 Nov 2026 21:46:15 +0000",
       "description": "HBO Max and Paramount+ customers will soon be able to pay for one subscription that unlocks both services. That’s according to Skydance, the company that came out of Paramount’s Warner Bros. Discovery",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/hbo-max-paramount-plus-apps.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Edgar Wright directs Apple’s hilarious new Apple Pay action ad",
-      "link": "https://9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad/",
-      "pubDate": "Mon, 09 Nov 2026 21:30:57 +0000",
-      "description": "Apple has once again turned to cinematic action to promote Apple Pay, in a new ad directed by Edgar Wright ( Baby Driver , Shaun of the Dead ). Watch the new ad below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-pay-mayhem.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "How to customize or disable the touchscreen on the new MacBook Pro",
-      "link": "https://9to5mac.com/2026/11/09/how-to-customize-or-disable-the-touchscreen-on-the-new-macbook-pro-and-sidecar/",
-      "pubDate": "Mon, 09 Nov 2026 21:11:30 +0000",
-      "description": "A headlining feature of Apple’s new MacBook Pro with PROLED XDR Display is the long-awaited addition of a touchscreen. However, not everyone has been so thrilled about this addition. Here’s how you ca",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Disable-MacBook-Touch-Display-FI.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
-      "link": "https://9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026/",
-      "pubDate": "Mon, 09 Nov 2026 20:47:38 +0000",
-      "description": "A new Financial Times report reveals how Apple saved billions in taxes in 2026 by shifting profits through Singapore and Ireland. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more",
-      "link": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/",
-      "pubDate": "Mon, 09 Nov 2026 20:20:00 +0000",
-      "description": "Today Apple released iOS 27.2.1 for iPhone with bug fixes and security updates, alongside a variety of related software updates on other platforms. Here are the security fix details for each update. m",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-privacy-private-cloud-compute.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Our favorite gear to elevate your new MacBook Pro setup",
-      "link": "https://9to5mac.com/2026/11/09/our-favorite-gear-to-elevate-your-new-macbook-pro-setup/",
-      "pubDate": "Mon, 09 Nov 2026 20:15:38 +0000",
-      "description": "Update 10/11: Amazon has now launched an official early Black Friday deal on Apple’s latest USB-C Magic Mouse with the white model down at $59.99 and the black at $79.99 – that’s put o nearly 25% off ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Best-MacBook-Pro-accessories-chargers-keyboards-monitors.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple to open new Developer Center in Istanbul as part of broader Turkey investment",
-      "link": "https://9to5mac.com/2026/11/09/apple-to-open-new-developer-center-in-istanbul-as-part-of-broader-turkey-investment/",
-      "pubDate": "Mon, 09 Nov 2026 20:07:24 +0000",
-      "description": "Apple today announced a long-term investment in Turkey, with seven new facilities focused on app development and manufacturing set to open in the country starting next year. Here are the details. more",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-developer.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iOS 27.3: Three new iPhone features coming soon",
-      "link": "https://9to5mac.com/2026/11/09/ios-27-3-three-new-iphone-features-coming-soon/",
-      "pubDate": "Mon, 09 Nov 2026 20:03:31 +0000",
-      "description": "iOS 27.3 is currently in beta and packed with new features , here are three that will hit your iPhone when the update launches next month . more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-lock-screen-jb.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "MagSafe Monday: Pelican’s MagSafe wallet is built for the people who still carry cash",
-      "link": "https://9to5mac.com/2026/11/09/pelicans-magsafe-wallet-is-for-the-people-who-still-carry-cash/",
-      "pubDate": "Mon, 09 Nov 2026 19:09:00 +0000",
-      "description": "I’ve been on a Pelican kick this fall. It started with the Pelican MagSafe Wallet , then the Pelican MagSafe Battery Pack , and the reason is pretty simple: once the weather turns cool, I want iPhone ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Pelican-Money-Clip.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Anthropic upgrades Claude with new Fable 5.2 model, details here",
-      "link": "https://9to5mac.com/2026/11/09/anthropic-upgrades-claude-with-new-fable-5-2-model-details-here/",
-      "pubDate": "Mon, 09 Nov 2026 19:03:36 +0000",
-      "description": "Anthropic is out with its second big update to Claude Fable 5 since introducing the model class back in June. Here’s what’s new with Claude Fable 5.2. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple releases iOS 26.7.3, watchOS 27.2.1, and more",
-      "link": "https://9to5mac.com/2026/11/09/apple-releases-ios-26-7-3-watchos-27-2-1-and-more/",
-      "pubDate": "Mon, 09 Nov 2026 18:26:35 +0000",
-      "description": "Today Apple released a variety of software updates with the latest security fixes, including iOS 26.7.3 for iPhone, watchOS 27.2.1 for Apple Watch, and more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple releases macOS 27.2.1 Golden Gate, Tahoe 26.7.3, and Sequoia 15.8.3",
-      "link": "https://9to5mac.com/2026/11/09/apple-releases-macos-27-2-1-golden-gate-tahoe-26-7-3-and-sequoia-15-8-3/",
-      "pubDate": "Mon, 09 Nov 2026 18:25:58 +0000",
-      "description": "After rolling out the first Release Candidates of macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3 last week, Apple today released the official versions of both systems, alongside macOS 27.2.1 Golden Gate.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-hero.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple releases iOS 27.2.1 for iPhone, here’s what’s new",
-      "link": "https://9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new/",
-      "pubDate": "Mon, 09 Nov 2026 18:09:45 +0000",
-      "description": "Apple has released a minor new software update for iPhone users today: iOS 27.2.1. Here’s what’s new. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple to stream Las Vegas Formula 1 race for free in the United States",
-      "link": "https://9to5mac.com/2026/11/09/apple-tv-las-vegas-formula-1/",
-      "pubDate": "Mon, 09 Nov 2026 16:59:39 +0000",
-      "description": "Apple today announced that the Formula 1 Las Vegas Grand Prix will be streaming for free on the Apple TV app , no subscription required. This means anyone in the US can log on to the Apple TV app on t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-las-vegas-f1.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple launches $50 ‘intelligence usage packs’ for select AI features",
-      "link": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
-      "pubDate": "Mon, 09 Nov 2026 16:32:12 +0000",
-      "description": "Apple has said it will eventually charge for expanded usage of select AI features. Now the first ‘intelligence usage packs’ have arrived tied to Apple Creator Studio apps. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/09/apple-intelligence.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Here’s how Webex adapts meetings and multitasking for iPhone Duo",
-      "link": "https://9to5mac.com/2026/11/09/heres-how-webex-adapts-meetings-and-multitasking-for-iphone-duo/",
-      "pubDate": "Mon, 09 Nov 2026 16:29:58 +0000",
-      "description": "Webex has supported iPhone Duo since launch, and now Cisco is detailing how its collaboration app takes advantage of Apple’s first foldable iPhone. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/webex-iphone-duo.webp?w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Deals: M5 MacBook Air $250 off, touch display MacBook PROLED $150 gift card, Apple Watch Ultra 4, more from $13",
-      "link": "https://9to5mac.com/2026/11/09/deals-m5-macbook-touch-display-proled-ultra-4/",
-      "pubDate": "Mon, 09 Nov 2026 16:29:04 +0000",
-      "description": "The pre-order deals on the new Apple HomeView are still rolling alongside the $50 price drop on AirPods Pro 3 and a chance to secure some 2026 Apple Polishing Cloths at $9 Prime shipped , but we do ha",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-PROLED-XDR-MacBook-HomeView-Ultra-4.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year",
-      "link": "https://9to5mac.com/2026/11/09/apple-music-launches-best-of-2026-content-reveals-artist-of-the-year/",
-      "pubDate": "Mon, 09 Nov 2026 16:13:47 +0000",
-      "description": "Apple Music has launched new playlists and curated content for the ‘Best of 2026’ and also revealed its new Artist of the Year. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
     {

@@ -1,6 +1,502 @@
 {
-  "updatedAt": "2026-11-19T09:49:27.269Z",
+  "updatedAt": "2026-11-20T09:36:35.435Z",
   "items": [
+    {
+      "title": "WhatsApp is raising group chat limit to 1,500 participants",
+      "link": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/",
+      "pubDate": "Fri, 20 Nov 2026 01:54:39 +0000",
+      "description": "WhatsApp is gradually rolling out an increase to its group chat limit, allowing up to 1,500 participants to join in, instead of the previous 1,024 cap. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "LiberNovo’s Black Friday sale takes up to 42% off ergonomic chairs",
+      "link": "https://9to5mac.com/2026/11/19/libernovos-black-friday-sale-takes-up-to-42-off-ergonomic-chairs/",
+      "pubDate": "Fri, 20 Nov 2026 00:00:00 +0000",
+      "description": "You can spend plenty of time getting your Mac, display, and desk just right. But what about the chair you use every day? Between typing, taking video calls, and leaning back to watch something, your p",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-Sale-Chair-Lineup-US-UK-1920x1080-2.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access",
+      "link": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/",
+      "pubDate": "Thu, 19 Nov 2026 23:47:30 +0000",
+      "description": "Following its launch for ChatGPT Pro, Business Premium, and Enterprise users, OpenAI is now beginning to test ChatGPT dot with a small number of ChatGPT Plus subscribers. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
+      "link": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
+      "pubDate": "Thu, 19 Nov 2026 23:12:05 +0000",
+      "description": "A new Black Friday deal for Apple TV will be rolling out today. Until November 30 at 8 p.m. Pacific Time, new and qualified returning customers in the U.S. can subscribe to the Apple TV streaming serv",
+      "image": "https://images.macrumors.com/article-new/2026/04/New-Apple-TV-Logo.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "macOS 27.3 public beta 2 now available, here’s everything new",
+      "link": "https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/",
+      "pubDate": "Thu, 19 Nov 2026 23:01:25 +0000",
+      "description": "After releasing developer beta 2 of macOS 27.3 earlier this week, the company is now rolling out the public beta for users looking to try the new features ahead of next month’s official release. Here’",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-public.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
+      "link": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
+      "pubDate": "Thu, 19 Nov 2026 22:45:00 +0000",
+      "description": "We're tracking the first ever discounts on Apple's newest MacBook Pros today on Amazon. This includes $150 off the 14-inch M6 MacBook Pro , and up to $250 off the 16-inch MacBook Pro with PROL",
+      "image": "https://images.macrumors.com/article-new/2026/11/macbook-pros-black-friday.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "ChatGPT Health feature now works with Mac app, Dots, more",
+      "link": "https://9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
+      "pubDate": "Thu, 19 Nov 2026 22:43:20 +0000",
+      "description": "OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year. Next, ChatGPT Health is set to expand to more platforms, including the Mac app and more. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-health-chatgpt.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple is Building an AI Agent That Can Use Apps and Code",
+      "link": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/",
+      "pubDate": "Thu, 19 Nov 2026 22:43:08 +0000",
+      "description": "Apple is working on a proactive AI agent like Meta's Muse or OpenAI's Dots, according to job listings spotted by Bloomberg . The listing describes an AI agent that can code, use apps, and browse the w",
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "pubDate": "2026-11-19T17:31:41-05:00",
+      "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing s",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Report: Apple job listings detail plans for autonomous AI agents",
+      "link": "https://9to5mac.com/2026/11/19/report-apple-job-listings-detail-plans-for-autonomous-ai-agents/",
+      "pubDate": "Thu, 19 Nov 2026 22:21:28 +0000",
+      "description": "Bloomberg reports that Apple is hiring engineers to develop an autonomous AI agent capable of browsing the web, writing code, and controlling apps on behalf of users. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Siri-AI-Beta-macOS-27-Top-Features.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "pubDate": "2026-11-19T16:59:35-05:00",
+      "description": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hoveri",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple TV is now $6.99/month (50% off) for Black Friday, details here",
+      "link": "https://9to5mac.com/2026/11/19/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
+      "pubDate": "Thu, 19 Nov 2026 21:55:07 +0000",
+      "description": "Apple TV has just launched a Black Friday deal that lets new and returning subscribers get the service for just $6.99/month for up to six months. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "AirPods Black Friday Deals Hit Pro 3 at $179 and Max 2 at $429",
+      "link": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/",
+      "pubDate": "Thu, 19 Nov 2026 21:50:00 +0000",
+      "description": "Early Black Friday deals are in full swing, and today we're tracking big discounts on both the AirPods Pro 3 and AirPods Max 2 at Amazon. Note: MacRumors is an affiliate partner with Amazon. When you ",
+      "image": "https://images.macrumors.com/article-new/2026/11/airpods-black-friday.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out [U: Public]",
+      "link": "https://9to5mac.com/2026/11/19/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
+      "pubDate": "Thu, 19 Nov 2026 21:48:30 +0000",
+      "description": "Update, November 19, 4:46 p.m. ET: The release candidates are now available to public beta testers, with the same build numbers as the developer RCs. In addition to macOS 27.3 beta 2 , Apple is also r",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Second iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
+      "link": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/",
+      "pubDate": "Thu, 19 Nov 2026 21:43:39 +0000",
+      "description": "Apple today seeded the second betas of iOS 27.3, iPadOS 27.3, macOS Golden Gate 27.3, tvOS 27.3, and watchOS 27.3. Apple also has revised betas of of iOS 27.3 and iPadOS 27.3 available for developers.",
+      "image": "https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iPadOS 27.3, watchOS 27.3, more get public beta 2, here’s what’s new",
+      "link": "https://9to5mac.com/2026/11/19/ipados-27-3-watchos-27-3-more-get-public-beta-2-heres-whats-new/",
+      "pubDate": "Thu, 19 Nov 2026 21:42:03 +0000",
+      "description": "Apple has released public beta 2 for iPadOS 27.3 alongside a variety of other 27.3 updates. Here’s what’s new. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPadOS-27.3-public.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple releases iOS 27.3 public beta 2, new developer beta 2 build",
+      "link": "https://9to5mac.com/2026/11/19/apple-releases-ios-27-3-public-beta-2-heres-whats-new/",
+      "pubDate": "Thu, 19 Nov 2026 21:37:58 +0000",
+      "description": "Apple has released iOS 27.3 public beta 2 for iPhone. Today’s release also includes a new build for iOS 27.3 beta 2 for developers. The update brings new Calendar controls, more Siri AI capabilities, ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.3-public.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "pubDate": "2026-11-19T16:12:06-05:00",
+      "description": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include title",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "9to5Mac Daily: November 19, 2026 – New iPhone rumors, leadership changes",
+      "link": "https://9to5mac.com/2026/11/19/daily-november-19-2026/",
+      "pubDate": "Thu, 19 Nov 2026 21:11:02 +0000",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for O",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Roborock’s Black Friday deals make smarter cleaning more affordable than ever",
+      "link": "https://9to5mac.com/2026/11/19/roborocks-black-friday-deals-make-smarter-cleaning-more-affordable-than-ever/",
+      "pubDate": "Thu, 19 Nov 2026 21:00:00 +0000",
+      "description": "Cleaning our homes is never going to make anyone’s list of favorite activities, but with the right technology, the task can be made almost effortless. Whether you’re looking for an affordable robot va",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/1280_720.jpg?quality=82&strip=all&w=1280",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Next year’s iPhone Pro redesign sounds like exactly what I’ve been wanting",
+      "link": "https://9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting/",
+      "pubDate": "Thu, 19 Nov 2026 20:49:24 +0000",
+      "description": "Rumors about next year’s 20th anniversary iPhone Pro models have been ramping up, and they suggest Apple is designing an ‘iPhone 20 Pro’ that combines traits from two current models. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple fires back at Epic over claims it withheld 122,000 documents",
+      "link": "https://9to5mac.com/2026/11/19/apple-fires-back-at-epic-over-claims-it-withheld-122000-documents/",
+      "pubDate": "Thu, 19 Nov 2026 20:43:53 +0000",
+      "description": "Apple has responded to Epic Games’ filing from last Friday, pushing back against accusations that it improperly withheld more than 122,000 documents related to its proposed App Store commissions. Here",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Meta’s Muse Charm might cost $300",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "pubDate": "2026-11-19T15:22:17-05:00",
+      "description": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earli",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Google's Gemini Can Now Control Apps on Your Mac",
+      "link": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
+      "pubDate": "Thu, 19 Nov 2026 20:14:23 +0000",
+      "description": "Google today expanded Gemini's capabilities, allowing it to take full advantage of your Mac. Gemini for Mac can use apps, files, and websites to complete multi-step tasks in the background while you w",
+      "image": "https://images.macrumors.com/article-new/2026/04/gemini-for-mac-app-google.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "pubDate": "2026-11-19T15:05:06-05:00",
+      "description": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI c",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+      "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+      "pubDate": "2026-11-19T14:40:28-05:00",
+      "description": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contr",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Executive in Charge of iPhone's Camera App Reportedly Retires",
+      "link": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires/",
+      "pubDate": "Thu, 19 Nov 2026 19:37:10 +0000",
+      "description": "Apple's vice president of camera and photo software engineering Jon McCormack retired at the end of October after more than eight years at the company, according to Bloomberg 's Mark Gurman . The repo",
+      "image": "https://images.macrumors.com/article-new/2026/11/iPhone-18-Pro-Camera.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+      "pubDate": "2026-11-19T14:35:52-05:00",
+      "description": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out i",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSCF7932.webp?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "HomeView woes, iPhone Duo face unlock, macOS Full Disk Access changes",
+      "link": "https://9to5mac.com/2026/11/19/happy-hour-617/",
+      "pubDate": "Thu, 19 Nov 2026 19:35:11 +0000",
+      "description": "Benjamin and Chance discuss their HomeView experiences and Siri reliability issues after a week of the product being in the world. Benjamin also tests the new Apple TV surround sound feature. And the ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "You can now buy a Steam Machine without getting on a waitlist",
+      "link": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+      "pubDate": "2026-11-19T14:33:22-05:00",
+      "description": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: Y",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Some creators are skeptical of Instagram’s new affiliate program",
+      "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "pubDate": "2026-11-19T14:12:30-05:00",
+      "description": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier thi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple TV reveals new series with Andrew Garfield, Jude Law as magicians",
+      "link": "https://9to5mac.com/2026/11/19/apple-tv-reveals-new-series-with-andrew-garfield-jude-law-as-magicians/",
+      "pubDate": "Thu, 19 Nov 2026 19:09:51 +0000",
+      "description": "Jude Law and Andrew Garfield star as Siegfried & Roy, the famous magicians, in Apple TV’s forthcoming series Wild Things. Here’s the release date and full details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/andrew-garfield-wild-things-sphere.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Gemini app for Mac adds computer use to control desktop apps",
+      "link": "https://9to5google.com/2026/11/19/gemini-mac-computer-use/",
+      "pubDate": "Thu, 19 Nov 2026 18:55:42 +0000",
+      "description": "Google is upgrading the Gemini app on Mac with computer use capabilities that can work across local desktop applications and the web. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-Mac-computer-use.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iPhone Duo vs. Samsung Galaxy Z Fold8: Which is Better?",
+      "link": "https://www.macrumors.com/2026/11/19/iphone-duo-vs-samsung-galaxy-z-fold8/",
+      "pubDate": "Thu, 19 Nov 2026 18:51:58 +0000",
+      "description": "A couple of months before the iPhone Duo came out, Samsung launched the Galaxy Z Fold8. It's Samsung's widest and shortest foldable to date, with Samsung adopting an aspect ratio closer to the ‌i",
+      "image": "https://images.macrumors.com/t/85vunbYejf4QA2maOsNKRGdauy0=/2500x/article-new/2026/11/iPhone-Duo-v-Z-Fold8-Thumb.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Deals – Black Friday Week now live: MacBook Neo, M6 Pro $150 off, PROLED XDR, Beats 360 $100 off, more",
+      "link": "https://9to5mac.com/2026/11/19/black-friday-week-deals-macbook-neo-m6-pro-proled/",
+      "pubDate": "Thu, 19 Nov 2026 18:42:08 +0000",
+      "description": "The official Amazon Black Friday Week is now soaring with Apple deals, including AirPods Pro 3 at $70 off , the latest 2026 AirPods Max 2 now at $120 off , and loads of MacBook deals – MacBook Neo dow",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-Black-Friday-M6-MacBook-Series-12-Neo-AirPods.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+      "pubDate": "2026-11-19T13:33:08-05:00",
+      "description": "Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple’s head of camera and Photos software has retired, per report",
+      "link": "https://9to5mac.com/2026/11/19/apple-head-of-camera-software-retires/",
+      "pubDate": "Thu, 19 Nov 2026 17:52:01 +0000",
+      "description": "According to a new report from Bloomberg , Apple’s head of camera and photo software retired last month. Jon McCormack spent eight years at Apple and “oversaw the Camera and Photos apps and the underl",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Announces 2026 Black Friday Event, Here's What You Can Get",
+      "link": "https://www.macrumors.com/2026/11/19/apple-announces-2026-black-friday-event/",
+      "pubDate": "Thu, 19 Nov 2026 17:11:26 +0000",
+      "description": "Apple's annual four-day Black Friday through Cyber Monday shopping event is returning on Friday, November 27 through Monday, November 30 in many countries, including the United States, Canada, Austral",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-2026-Black-Friday-Event-Hero.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iOS 27 gave AirPods Pro a convenient new setting, here’s how to use it",
+      "link": "https://9to5mac.com/2026/11/19/ios-27-gave-airpods-pro-convenient-new-setting-heres-how-to-use-it/",
+      "pubDate": "Thu, 19 Nov 2026 17:10:46 +0000",
+      "description": "iOS 27 gave AirPods Pro a variety of new features , but there’s another addition that’s easy to miss: a convenient new setting in Control Center for Adaptive Audio. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Sonos Black Friday Sale Takes Up to 25% Off Speakers, Soundbars, and More",
+      "link": "https://www.macrumors.com/2026/11/19/sonos-black-friday-sale-3/",
+      "pubDate": "Thu, 19 Nov 2026 17:04:40 +0000",
+      "description": "Sonos is back with its annual Black Friday sale , with up to 25 percent off select products through November 30. This event includes savings on speakers, soundbars, headphones, subwoofers, and many mo",
+      "image": "https://images.macrumors.com/article-new/2025/12/sonos-glitter.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Halide camera app just got even better for iPhone Duo",
+      "link": "https://9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo/",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "description": "Halide 3.4 is out today as the latest update to the pro camera app. The update adds several new features, including a larger viewfinder for iPhone Duo and more. The new Halide update also lets you use",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Halide-3-4-iPhone-Duo.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple TV to Stream Female 'F1 Academy' Races in U.S. Starting in 2027",
+      "link": "https://www.macrumors.com/2026/11/19/apple-tv-f1-academy/",
+      "pubDate": "Thu, 19 Nov 2026 16:47:17 +0000",
+      "description": "Apple today announced that all-female F1 ACADEMY races and qualifying sessions will be streamed exclusively on Apple TV in the U.S. starting in March 2027, further expanding the existing five-year par",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-TV-F1-Academy.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple TV will stream all-female racing series F1 Academy starting next year",
+      "link": "https://9to5mac.com/2026/11/19/apple-tv-f1-academy-stream-next-year/",
+      "pubDate": "Thu, 19 Nov 2026 16:10:21 +0000",
+      "description": "Apple is coming up to the end of its first year as the exclusive broadcaster of Formula 1 in the United States, with the deal set to continue through 2031. So far, it seems to be going well for all pa",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-f1-academy.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iPadOS 27.3: Three new features coming to your iPad",
+      "link": "https://9to5mac.com/2026/11/19/ipados-27-3-three-new-features-coming-to-your-ipad/",
+      "pubDate": "Thu, 19 Nov 2026 16:09:55 +0000",
+      "description": "iPadOS 27.3 is now in beta and will launch to all users next month , here are three new features it introduces for iPad. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m5-ipad-pro-magic-keyboard_f6917e.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, much more",
+      "link": "https://9to5mac.com/2026/11/19/best-apple-black-friday-deals-now-live/",
+      "pubDate": "Thu, 19 Nov 2026 16:04:36 +0000",
+      "description": "The official Amazon Black Friday sale is officially underway and we have now collected all of the best Apple deals – there’s a ton of them. Alongside AirPods Pro 3 at $70 off and AirPods Max 2 now at ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5toys_black_friday_02-02.png?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Microsoft To Do is retiring, including Mac and iOS apps",
+      "link": "https://9to5mac.com/2026/11/19/microsoft-to-do-is-retiring-including-mac-and-ios-apps/",
+      "pubDate": "Thu, 19 Nov 2026 15:55:27 +0000",
+      "description": "Microsoft is saying goodbye to its task management service To Do, including the Mac and iOS apps. Here’s what users need to know. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/microsoft-to-do.webp?w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "iOS 27.3 beta can cause HomeView issues, Apple confirms",
+      "link": "https://9to5mac.com/2026/11/19/ios-27-3-beta-can-cause-homeview-issues-apple-confirms/",
+      "pubDate": "Thu, 19 Nov 2026 15:46:03 +0000",
+      "description": "Apple’s new HomeView just launched last Friday, but some early adopters reported issues with Siri AI in their first days of use. Apple shipped fixes in HomeView 27.2.1 yesterday, but it also confirmed",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-siri-ai-app.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Tomorrow Marks the End of a 28-Year Era at Apple",
+      "link": "https://www.macrumors.com/2026/11/19/tomorrow-marks-end-of-28-year-era-at-apple/",
+      "pubDate": "Thu, 19 Nov 2026 15:08:00 +0000",
+      "description": "Apple previously announced that the Apple Support Community discussion forums for user-to-user tech support will be permanently closing this Friday, November 20. The forums have existed in some form f",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "UK court rules Apple can share the top secret order everyone already knew",
+      "link": "https://9to5mac.com/2026/11/19/uk-court-rules-apple-can-share-the-top-secret-order-everyone-already-knew/",
+      "pubDate": "Thu, 19 Nov 2026 15:01:45 +0000",
+      "description": "The Investigatory Powers Tribunal – essentially a British court that deals with complaints about state surveillance – has ruled that Apple is allowed to reveal a secret order it received from the UK g",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/Apple-standing-up-for-Advanced-Data-Protection-is-way-more-important-than-it-seems.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Amazon Takes $200 Off Every Apple Studio Display for Black Friday",
+      "link": "https://www.macrumors.com/2026/11/19/200-off-apple-studio-display/",
+      "pubDate": "Thu, 19 Nov 2026 14:40:35 +0000",
+      "description": "Amazon today has the first discounts on the Apple Studio Display in months, with $200 off every model of the 2026 display, plus a $300 discount on the Studio Display XDR as well. Note: MacRumo",
+      "image": "https://images.macrumors.com/article-new/2026/11/studio-display-black-friday.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "UK Loses Secrecy Fight Over Apple 'Backdoor' Order",
+      "link": "https://www.macrumors.com/2026/11/19/uk-loses-secrecy-fight-over-apple-backdoor-order/",
+      "pubDate": "Thu, 19 Nov 2026 14:06:17 +0000",
+      "description": "Apple's challenge to a UK government demand for access to encrypted customer data can now be heard largely in public, after a tribunal rejected the Home Office's attempt to keep the order secret, acco",
+      "image": "https://images.macrumors.com/article-new/2025/02/iCloud-Versus-UK-Key-Feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Beats 360 Black Friday Deal Arrives With Massive $100 Discount on Amazon",
+      "link": "https://www.macrumors.com/2026/11/19/beats-360-black-friday-deal/",
+      "pubDate": "Thu, 19 Nov 2026 13:56:57 +0000",
+      "description": "Amazon today has introduced a major discount on the brand new Beats 360 headphones, now available for $249.00 in the Black and Cloud color options, down from $349.00. You can get the Sky color",
+      "image": "https://images.macrumors.com/article-new/2026/11/beats-360-dark-blue.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "MacBook Pro PROLED, MacBook Neo, more: The best Amazon Black Friday deals on Macs",
+      "link": "https://9to5mac.com/2026/11/19/macbook-pro-proled-macbook-neo-more-the-best-amazon-black-friday-deals-on-macs/",
+      "pubDate": "Thu, 19 Nov 2026 13:56:07 +0000",
+      "description": "The official 2026 Amazon Black Friday sale is now live with a solid $70 off AirPods Pro 3 and the lowest prices ever on Apple Watch Series 12 , among many other Apple deals, but we are now tracking so",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-pro-proled-xdr-touch-10.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Music Radio Now Reaches Over 50 Million Monthly Listeners",
+      "link": "https://www.macrumors.com/2026/11/19/apple-music-radio-50-million-listeners/",
+      "pubDate": "Thu, 19 Nov 2026 13:31:52 +0000",
+      "description": "Apple Music Radio now attracts more than 50 million unique listeners per month, ‌Apple Music‌'s global creative director Zane Lowe revealed in a new interview. Speaking to Billboard , Lowe s",
+      "image": "https://images.macrumors.com/t/4sXnnATlhCGMLMMFMsTYMLJyjVQ=/1672x/article-new/2026/10/apple-music-new-logo-red.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Future Macs Could Get Brighter, Longer-Lasting OLED Displays in 2030",
+      "link": "https://www.macrumors.com/2026/11/19/future-macs-could-get-brighter-oled-displays/",
+      "pubDate": "Thu, 19 Nov 2026 13:09:27 +0000",
+      "description": "LG Display is developing a new way to make OLED screens with higher brightness, longer lifespans, and lower power consumption for future Macs, according to The Elec . The technology, called \"FLiPP,\" i",
+      "image": "https://images.macrumors.com/article-new/2024/03/macbook-air-new-blue.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Save 20% on Twelve South’s tiny Airfly Drive wireless CarPlay dongle",
+      "link": "https://9to5mac.com/2026/11/19/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
+      "pubDate": "Thu, 19 Nov 2026 12:55:10 +0000",
+      "description": "Update November 19: Twelve South’s Airfly Drive dongle is now 20% off as part of Amazon’s early Black Friday festivities . That drops the price from $39.99 to $31.99 Buy Twelve South Airfly Drive in w",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "OLED iMac plans may be cancelled by Apple for two reasons",
+      "link": "https://9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons/",
+      "pubDate": "Thu, 19 Nov 2026 12:51:43 +0000",
+      "description": "Apple is considering abandoning plans to launch an OLED iMac , according to a new supply chain report. The news comes just weeks after the first OLED Mac was launched in the form of the new touchscree",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/OLED-iMac-may-be-cancelled-by-Apple-for-two-reasons.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Faces 'Planned Obsolescence' Trial Over iPhone Repairs",
+      "link": "https://www.macrumors.com/2026/11/19/apple-faces-planned-obsolescence-trial/",
+      "pubDate": "Thu, 19 Nov 2026 12:51:43 +0000",
+      "description": "Apple will face trial in France in June 2027 over allegations that it restricted independent iPhone repairs, French advocacy group Halte à l'Obsolescence Programmée (HOP) this week announced . The cas",
+      "image": "https://images.macrumors.com/article-new/2024/11/iPhone-Self-Service-Repair.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Canva introduces new controls to hide generative AI features",
+      "link": "https://9to5mac.com/2026/11/19/canva-introduces-new-controls-to-hide-generative-ai-features/",
+      "pubDate": "Thu, 19 Nov 2026 12:30:00 +0000",
+      "description": "In light of growing pushback from users who want more control over how AI is integrated into their apps (if at all), Canva is introducing new settings that let them hide generative AI features and see",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/canva-ai.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Major privacy breaches reported in Muse AI, including bank balances",
+      "link": "https://9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances/",
+      "pubDate": "Thu, 19 Nov 2026 12:20:00 +0000",
+      "description": "Meta employees have expressed concerns about what appear to be major privacy breaches when using Muse , currently the second most popular free iPhone app in the App Store with over 10 million download",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Major-privacy-breaches-reported-in-Muse-AI-including-bank-balances.webp?w=1500",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple announces Black Friday deals on iPhone, iPad, Mac, and more",
+      "link": "https://9to5mac.com/2026/11/19/apple-announces-black-friday-deals-on-iphone-ipad-mac-and-more/",
+      "pubDate": "Thu, 19 Nov 2026 12:05:37 +0000",
+      "description": "Apple has officially announced this year’s Black Friday promotion. Starting Friday, you can score up to $300 in gift cards when you buy an eligible Apple product. Apple’s announcement comes as Amazon ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-gifts.jpeg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple May Cancel OLED iMac",
+      "link": "https://www.macrumors.com/2026/11/19/apple-may-cancel-oled-imac/",
+      "pubDate": "Thu, 19 Nov 2026 11:55:02 +0000",
+      "description": "Apple is considering delaying or scrapping its planned iMac with an OLED display amid concerns about high panel costs and weaker-than-expected demand for ‌OLED‌ devices, according to The Ele",
+      "image": "https://images.macrumors.com/article-new/2024/03/imac-new-blue.jpg",
+      "source": "MacRumors"
+    },
     {
       "title": "Official 2026 Amazon Black Friday sale now live! Millions of deals: Apple, Google, TVs, home, more",
       "link": "https://9to5toys.com/2026/11/19/amazon-2026-black-friday-sale-now-live/",
@@ -8,14 +504,6 @@
       "description": "The official Amazon Black Friday sale is now live ! Today marks the beginning of its massive 12-day long Black Friday event leading right up to and beyond Thanksgiving and Black Friday with millions o",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Amazon-Black-Friday-Week-Now-live-2026.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
-      "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
-      "pubDate": "2026-11-18T20:39:45-05:00",
-      "description": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Mu",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "Instagram Now Lets You Save Songs to Apple Music",
@@ -42,36 +530,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "pubDate": "2026-11-18T18:18:35-05:00",
-      "description": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Time",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple Releases Safari Technology Preview 257 With Bug Fixes and Performance Improvements",
-      "link": "https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/",
-      "pubDate": "Wed, 18 Nov 2026 23:15:24 +0000",
-      "description": "Apple today released a new update for Safari Technology Preview , the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users ",
-      "image": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Apple Card doubles Daily Cash rewards for new customers in limited-time offer",
       "link": "https://9to5mac.com/2026/11/18/apple-card-doubles-daily-cash-rewards-for-new-customers-in-limited-time-offer/",
       "pubDate": "Wed, 18 Nov 2026 23:12:32 +0000",
       "description": "If you’ve been thinking about getting an Apple Card, now might be a good time. Users who apply for an Apple Card through December 10 are eligible to earn double Daily Cash for their first year. Here a",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-card.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
-      "link": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
-      "pubDate": "2026-11-18T17:05:48-05:00",
-      "description": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
@@ -90,22 +554,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Absolute Batman can save DC Studios",
-      "link": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
-      "pubDate": "2026-11-18T16:20:00-05:00",
-      "description": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PowHeader.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple Card Offers New Users Double Daily Cash for a Year",
-      "link": "https://www.macrumors.com/2026/11/18/apple-card-double-daily-cash/",
-      "pubDate": "Wed, 18 Nov 2026 21:12:05 +0000",
-      "description": "Apple is aiming to get people to sign up for the Apple Card over the holidays by offering a 2X Daily Cash bonus for new users. iPhone users who sign up for an Apple Card by December 10 can earn up to ",
-      "image": "https://images.macrumors.com/article-new/2023/06/Apple-Card-Balance.jpeg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Instagram finally lets users edit Stories after publishing, but there’s a catch",
       "link": "https://9to5mac.com/2026/11/18/instagram-finally-lets-users-edit-stories-after-publishing-but-theres-a-catch/",
       "pubDate": "Wed, 18 Nov 2026 20:48:35 +0000",
@@ -114,15 +562,7 @@
       "source": "9to5Mac"
     },
     {
-      "title": "HomeView 27.2.1 Update Fixes Siri Bugs",
-      "link": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-update-fixes-siri-bugs/",
-      "pubDate": "Wed, 18 Nov 2026 20:41:55 +0000",
-      "description": "Apple today released a new software update for the HomeView, and it fixes two Siri issues users were running into . According to Apple, HomeView 27.2.1 fixes a bug that could cause ‌Siri‌ re",
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature0.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple among the companies facing pressure from US senators over ‘nudify’ apps [U: Apple responds]",
+      "title": "Apple among the companies facing pressure from US senators over ‘nudify’ apps [U: Apple, TTP respond]",
       "link": "https://9to5mac.com/2026/11/18/apple-among-the-companies-facing-pressure-from-us-senators-over-nudify-apps/",
       "pubDate": "Wed, 18 Nov 2026 20:05:10 +0000",
       "description": "The Guardian reports that three US senators have sent letters to the CEOs of Apple, Google, and Meta, demanding answers about their failure to prevent access to AI-powered ‘nudify’ apps. Here are the ",
@@ -136,62 +576,6 @@
       "description": "Next year’s fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an iPhone Duo 2. Here’s what to expect per the latest leaks. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "pubDate": "2026-11-18T14:40:36-05:00",
-      "description": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child hande",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305507602.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Nvidia’s rise, visualized",
-      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "pubDate": "2026-11-18T14:30:00-05:00",
-      "description": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and c",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002526/acastro_STK083_01.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
-      "link": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-18T14:30:00-05:00",
-      "description": "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favor",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258218_Sony_Bravia_8_II_TV_JHiggins_0015.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Instagram now lets you edit your stories after you post them",
-      "link": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
-      "pubDate": "2026-11-18T14:29:10-05:00",
-      "description": "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/insta-story-edit.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
-      "link": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
-      "pubDate": "2026-11-18T14:11:50-05:00",
-      "description": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one ca",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Exclusive-image-of-the-unannounced-Lenovo-Legion-Go-Beam-gaming-handheld-in-white-with-lime-green-accents.jpg?quality=90&strip=all&crop=2.6,4.9777777777778,89.2,87.911111111111",
-      "source": "The Verge"
-    },
-    {
-      "title": "Tech lawsuits defined 2026 — and lawmakers want more",
-      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-      "pubDate": "2026-11-18T14:07:29-05:00",
-      "description": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple Releases 27.2.1 HomeView Software Update",
-      "link": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-software/",
-      "pubDate": "Wed, 18 Nov 2026 18:53:53 +0000",
-      "description": "Apple today released new 27.2.1 software for the HomeView, marking the first post-release software update for the device. There are no notes that mention what's new in the update, but Apple does have ",
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Apple releases HomeView 27.2.1 update, here’s what’s new",
@@ -216,30 +600,6 @@
       "description": "Last month Apple announced big updates coming to Apple Creator Studio in November, and those updates have just arrived, headlined by the addition of MotionVFX in Final Cut Pro and a lot more. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/final-cut-pro-motionvfx-update.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Amazon Offering $100 Off Nearly All M4 iPad Air Models",
-      "link": "https://www.macrumors.com/2026/11/18/amazon-100-off-m4-ipad-air-models/",
-      "pubDate": "Wed, 18 Nov 2026 17:50:00 +0000",
-      "description": "Amazon this week has multiple early Black Friday discounts on the M4 iPad Air , providing $100 off nearly every model. These remain the best prices we've seen in the wake of Apple's summer price h",
-      "image": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Apple's Fall Creator Studio Updates Now Live",
-      "link": "https://www.macrumors.com/2026/11/18/apple-fall-creator-studio-updates/",
-      "pubDate": "Wed, 18 Nov 2026 17:43:18 +0000",
-      "description": "Apple today refreshed its suite of Creator Studio apps, launching the fall updates that it announced in October . Final Cut Pro with MotionVFX integration is now available, letting users access Motion",
-      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Creator-Studio.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "iPhone 20 Pro Rumored to Return to Titanium",
-      "link": "https://www.macrumors.com/2026/11/18/iphone-20-pro-rumored-to-return-to-titanium/",
-      "pubDate": "Wed, 18 Nov 2026 17:13:36 +0000",
-      "description": "Apple's rumored \"iPhone 20 Pro\" could return to titanium as part of a more rounded design, according to the leaker known as \" Fixed Focus Digital .\" In a new post on Weibo , the leaker said the iPhone",
-      "image": "https://images.macrumors.com/article-new/2026/11/Titanium-iPhone-15-Pro.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "iOS 27.3 adds Siri AI usage limits, here’s what counts toward your limit",
@@ -274,36 +634,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Releases Siri Remote Firmware Update",
-      "link": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
-      "pubDate": "Wed, 18 Nov 2026 15:38:56 +0000",
-      "description": "Apple on Tuesday released a firmware update for the fourth-generation Siri Remote. The new version is 0001.0061.0000.0000, up from 0001.0057.0000.0000, according to AppleDB . There is no way to manual",
-      "image": "https://images.macrumors.com/article-new/2026/11/Siri-Remote-Feature.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "Target's Early Black Friday Event Offers Savings on Apple, TVs, and Accessories",
-      "link": "https://www.macrumors.com/2026/11/18/targets-early-black-friday/",
-      "pubDate": "Wed, 18 Nov 2026 15:24:51 +0000",
-      "description": "Target's early Black Friday sale has begun, with an online shopping event that will run through next week. There are quite a few major discounts in this sale, including sitewide savings on headphones,",
-      "image": "https://images.macrumors.com/article-new/2020/11/Target-November-Deals-Simple.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "iPhone 18, iPhone Air 2 get new release timing updates",
       "link": "https://9to5mac.com/2026/11/18/iphone-18-iphone-air-2-get-new-release-timing-updates/",
       "pubDate": "Wed, 18 Nov 2026 15:09:06 +0000",
       "description": "Apple only launched high-end ‘Pro’ and ‘Duo’ iPhones this fall, marking a departure from previous years when more affordable models debuted too. But iPhone 18 and iPhone Air 2 are still coming, and a ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Announces 2026 App Store Award Finalists",
-      "link": "https://www.macrumors.com/2026/11/18/2026-app-store-award-finalists/",
-      "pubDate": "Wed, 18 Nov 2026 14:57:44 +0000",
-      "description": "Apple today revealed the 45 finalists for its 2026 App Store Awards, with nominations spanning its devices, Apple Arcade , and the Cultural Impact category. \"ElevenReader,\" \"(Not Boring) Camera,\" and ",
-      "image": "https://images.macrumors.com/article-new/2025/12/Apple-App-Store-Awards-2025.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "New Siri Remote for Apple TV 4K just got a firmware update",
@@ -314,14 +650,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "iPhone Duo 2 Likely to Retain Touch ID as Face ID Remains Uncertain",
-      "link": "https://www.macrumors.com/2026/11/18/iphone-duo-2-likely-to-retain-touch-id/",
-      "pubDate": "Wed, 18 Nov 2026 14:16:44 +0000",
-      "description": "Apple's second-generation iPhone Duo will retain its existing display sizes and side-mounted fingerprint sensor, according to the leaker known as \" Digital Chat Station .\" In a new post on Weibo, the ",
-      "image": "https://images.macrumors.com/article-new/2024/09/face-id.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Apple announces 2026 App Store Award finalists",
       "link": "https://9to5mac.com/2026/11/18/apple-announces-2026-app-store-award-finalists/",
       "pubDate": "Wed, 18 Nov 2026 14:09:45 +0000",
@@ -330,28 +658,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Amazon Takes $850 Off 2026 16-Inch MacBook Pro With M5 Max Chip",
-      "link": "https://www.macrumors.com/2026/11/18/amazon-850-off-macbook-pro/",
-      "pubDate": "Wed, 18 Nov 2026 13:54:43 +0000",
-      "description": "Amazon today introduced the biggest discount yet on one model of the 16-inch MacBook Pro from early 2026. You can get the M5 Max model with 48GB RAM and a 2TB SSD for $4,149.00 , down from $4,",
-      "image": "https://images.macrumors.com/article-new/2026/03/m5-pro-macbook-pro-launch-day.jpeg",
-      "source": "MacRumors"
-    },
-    {
       "title": "Leaker claims Apple developing four models of 20th anniversary iPhone",
       "link": "https://9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone/",
       "pubDate": "Wed, 18 Nov 2026 13:30:06 +0000",
       "description": "Leaker Ice Universe says Apple is currently developing four models of the 20th anniversary iPhone which we’ve been referring to as the iPhone 20 . We’re expecting next year’s flagship models to be a r",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary-color-wave.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "WhatsApp's iCloud Backup Alternative Rolls Out to Beta Users on iPhone",
-      "link": "https://www.macrumors.com/2026/11/18/whatsapp-backup-alternative-rolls-out-beta-ios/",
-      "pubDate": "Wed, 18 Nov 2026 13:14:09 +0000",
-      "description": "WhatsApp is rolling out its first-party cloud backup service to some users on the beta version of the app for iOS, reports WABetaInfo . WhatsApp cloud backup options in iOS beta (image: WABetaInfo) Th",
-      "image": "https://images.macrumors.com/article-new/2026/11/whatsapp-chat-cloud-backup-wabetainfo.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone",
@@ -370,28 +682,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "MacPaw's Moonlock Cybersecurity App Launches for iPhone",
-      "link": "https://www.macrumors.com/2026/11/18/macpaw-moonlock-cybersecurity-app-iphone/",
-      "pubDate": "Wed, 18 Nov 2026 13:00:05 +0000",
-      "description": "MacPaw today launched its Moonlock cybersecurity app for the iPhone, bringing the company's consumer-focused security features to mobile for the first time. Moonlock is designed to help iPhone users r",
-      "image": "https://images.macrumors.com/article-new/2026/11/Moonlock-macpaw.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "MacPaw’s Moonlock comes to iPhone, helping users detect potential scams",
       "link": "https://9to5mac.com/2026/11/18/macpaws-moonlock-comes-to-iphone-helping-users-detect-potential-scams/",
       "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
       "description": "After launching Moonlock for Mac last year, MacPaw is bringing its scam-detection app to iPhone today. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macpaw-moonlock.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple Reportedly Developing Two Designs for 20th Anniversary iPhone",
-      "link": "https://www.macrumors.com/2026/11/18/two-designs-for-20th-anniversary-iphone/",
-      "pubDate": "Wed, 18 Nov 2026 12:57:25 +0000",
-      "description": "Apple is currently developing four models with two different designs for the iPhone's 20th anniversary, according to the leaker known as \"Ice Universe.\" In a new post on Weibo , the leaker outlined th",
-      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Banks, FAA, Microsoft, Apple – no systemic attack on the US, says White House",
@@ -402,36 +698,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Apple Rolls Out All-New Maps Experience Across India",
-      "link": "https://www.macrumors.com/2026/11/18/apple-rolls-out-all-new-maps-across-india/",
-      "pubDate": "Wed, 18 Nov 2026 12:23:29 +0000",
-      "description": "Apple today announced the rollout of an all-new Apple Maps experience in India, bringing the company's redesigned map to the country for the first time. The update offers faster and more accurate navi",
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Maps-India-3up-scaled.jpg",
-      "source": "MacRumors"
-    },
-    {
       "title": "The UK and some other countries don’t get more Siri AI usage with iCloud+",
       "link": "https://9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud/",
       "pubDate": "Wed, 18 Nov 2026 12:00:06 +0000",
       "description": "Apple this week revealed the additional Siri AI usage you’ll get if you have an iCloud+ subscription. This ranges from doubled limits for a 200GB plan to 20 times for a 12TB plan. However, the company",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "iPhone Air 2 Reportedly Sticks With Same Display",
-      "link": "https://www.macrumors.com/2026/11/18/iphone-air-2-reportedly-sticks-with-same-display/",
-      "pubDate": "Wed, 18 Nov 2026 11:50:26 +0000",
-      "description": "Apple's upcoming iPhone Air 2 will keep the same display specifications as its predecessor so the company can use existing OLED panel inventory, according to Korean publication ETNews . Citing industr",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-silver.jpg",
-      "source": "MacRumors"
-    },
-    {
-      "title": "iPhone 18 and iPhone Air 2 Display Production to Begin Soon Ahead of Expected March Launch",
-      "link": "https://www.macrumors.com/2026/11/18/iphone-18-iphone-air-2-display-production-begins/",
-      "pubDate": "Wed, 18 Nov 2026 11:46:22 +0000",
-      "description": "Apple's display suppliers are preparing to begin mass production of OLED panels for the upcoming iPhone Air 2 and iPhone 18, according to a report from Korea's ETNews . The devices will mark Apple's f",
-      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-ceramic-shield.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "Apple announces App Store price changes in multiple countries, new California tax rules",
@@ -448,14 +720,6 @@
       "description": "Apple Music Hall has added Kings of Leon to its lineup of upcoming gigs at the newly opened London venue. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall_5c7713.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Aqara Debuts Six Matter Smart Lights That Work With Apple Home",
-      "link": "https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/",
-      "pubDate": "Wed, 18 Nov 2026 00:22:19 +0000",
-      "description": "Aqara today launched six new Matter-enabled smart lights that work with Apple's Home platform. The lights also include Thread and Zigbee support and can be used with Aqara sensors and switches. The &#",
-      "image": "https://images.macrumors.com/article-new/2026/09/aqara-floor-lamp.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
@@ -778,276 +1042,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out",
-      "link": "https://9to5mac.com/2026/11/16/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
-      "pubDate": "Mon, 16 Nov 2026 19:27:57 +0000",
-      "description": "In addition to macOS 27.3 beta 2 , Apple is also rolling out the first Release Candidates for macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Everything new in iOS 27.3 beta 2",
-      "link": "https://9to5mac.com/2026/11/16/everything-new-in-ios-27-3-beta-2-so-far/",
-      "pubDate": "Mon, 16 Nov 2026 19:24:53 +0000",
-      "description": "iOS 27.3 beta 2 is here. Apple’s next iPhone software update brings a ton of changes including the redesigned Health app and much more. Below, we’re collecting the new features and changes discovered ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.3-hero.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iOS 27.3 brings vertical video and video podcasts to Apple TV app",
-      "link": "https://9to5mac.com/2026/11/16/ios-27-3-brings-vertical-video-and-video-podcasts-to-apple-tv-app/",
-      "pubDate": "Mon, 16 Nov 2026 19:21:04 +0000",
-      "description": "iOS 27.3 beta 2 debuted today and includes two new types of video in the Apple TV app: vertical ‘clips’ and video podcasts. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "You can now ask Siri AI questions about your health data, with iOS 27.3 beta 2",
-      "link": "https://9to5mac.com/2026/11/16/siri-ai-health-app-questions-ios-27/",
-      "pubDate": "Mon, 16 Nov 2026 19:16:41 +0000",
-      "description": "While Siri AI expanded on what kinds of things you can ask Apple’s voice assistant in many ways, one area where the system took a step back was health data. Since Siri AI’s launch in iOS 27.0, the sys",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/siri-ai-health-ios-27-beta-3.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "macOS 27.3 beta 2 now available with vertical tabs in Safari, native Live Activities, more",
-      "link": "https://9to5mac.com/2026/11/16/macos-27-3-beta-2-now-available/",
-      "pubDate": "Mon, 16 Nov 2026 19:14:31 +0000",
-      "description": "Apple is rolling out the second developer beta of macOS 27.3 ahead of the official launch of the update, which includes several notable additions. Here’s what’s coming. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-b2.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iOS 27.3 gives Apple’s Calendar app new design updates",
-      "link": "https://9to5mac.com/2026/11/16/ios-27-3-gives-apples-calendar-app-new-design-updates/",
-      "pubDate": "Mon, 16 Nov 2026 18:52:18 +0000",
-      "description": "iOS 27.3 beta 2 arrived today, most notably giving the iPhone Duo a face unlock feature . The update also includes some design updates for Apple’s Calendar app. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple․com now available in Spanish for US users",
-      "link": "https://9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users/",
-      "pubDate": "Mon, 16 Nov 2026 18:21:12 +0000",
-      "description": "Apple is making a notable change to Apple․com. Starting today, users in the United States can now browse the Apple website in Spanish. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CleanShot-2026-11-16-at-1.08.06-PM@2x.png?w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iOS 27.3 adds new face unlock feature for iPhone Duo",
-      "link": "https://9to5mac.com/2026/11/16/ios-27-3-adds-new-face-unlock-feature-for-iphone-duo/",
-      "pubDate": "Mon, 16 Nov 2026 18:13:54 +0000",
-      "description": "In today’s iOS 27.3 beta release, Apple is introducing two changes for iPhone Duo users. Most notably, it adds a new face recognition option that lets you unlock your iPhone Duo by looking at it. Appl",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-duo-face-id.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "macOS 27.3 includes new privacy controls for Full Disk Access and more",
-      "link": "https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/",
-      "pubDate": "Mon, 16 Nov 2026 18:12:27 +0000",
-      "description": "Last month, Apple announced its plans to tighten macOS privacy controls around Full Disk Access amid the rise of “increasingly capable and autonomous” AI agents. With today’s new macOS 27.3 beta, Appl",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple reveals how iCloud+ increases Siri AI and Apple Intelligence usage limits",
-      "link": "https://9to5mac.com/2026/11/16/apple-intelligence-siri-ai-usage-limits/",
-      "pubDate": "Mon, 16 Nov 2026 18:12:09 +0000",
-      "description": "iOS 27.3 beta 2 is now available, and Apple is adding the ability for users to unlock higher usage limits for Apple Intelligence and Siri AI via iCloud+. Here’s everything you need to know. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple releases beta 2 for iPadOS 27.3, watchOS 27.3, and more",
-      "link": "https://9to5mac.com/2026/11/16/apple-releases-beta-2-for-ipados-27-3-watchos-27-3-and-more/",
-      "pubDate": "Mon, 16 Nov 2026 18:11:30 +0000",
-      "description": "Update, 6:15 p.m. ET: Apple has now released beta 2 for tvOS 27.3 (24K5298d) and HomePod 27.3 (24K5298d). Apple has just released beta 2 for iPadOS 27.3, watchOS 27.3, visionOS 27.3, and more. It’s av",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple releases iOS 27.3 beta 2 for iPhone",
-      "link": "https://9to5mac.com/2026/11/16/apple-releases-ios-27-3-beta-2-for-iphone/",
-      "pubDate": "Mon, 16 Nov 2026 18:07:38 +0000",
-      "description": "Apple has released the second iOS 27.3 developer beta for iPhone. The upcoming software update includes the redesigned Health app, new Safari features, expanded Siri AI capabilities, and more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.3-b2.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Security Bite: The world’s biggest Apple security conference kicks off this week in Hawaii",
-      "link": "https://9to5mac.com/2026/11/16/security-bite-the-worlds-biggest-apple-security-conference-kicks-off-this-week-in-hawaii/",
-      "pubDate": "Mon, 16 Nov 2026 16:40:25 +0000",
-      "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to man",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Deals: Apple Watch Series 12 best price ever, AirPods Pro 3 now even lower, Apple’s iPhone Duo charger 25% off, more",
-      "link": "https://9to5mac.com/2026/11/16/deals-apple-watch-series-12-airpods-pro-3-iphone-duo-charger/",
-      "pubDate": "Mon, 16 Nov 2026 16:27:28 +0000",
-      "description": "Alongside the ongoing discount on M5 MacBook Air at up to $250 off and AirTag 2 from just $17.50 each , Amazon has now updated its giant early Black Friday sale with an even lower price on AirPods Pro",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-black-friday-deals-Apple-Watch-Series-12-AirPods-Pro-3.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple has 15+ new products coming in 2027, per report",
-      "link": "https://9to5mac.com/2026/11/16/apple-has-15-new-products-coming-in-2027-per-report/",
-      "pubDate": "Mon, 16 Nov 2026 16:16:39 +0000",
-      "description": "Apple just wrapped up a very busy product launch season, but a new report offers a sneak peek at the 15+ new products coming in 2027. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/john-ternus-macbook-pro-proled-xdr.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "ChatGPT Health feature will soon work with Mac app, Dots, more",
-      "link": "https://9to5mac.com/2026/11/16/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
-      "pubDate": "Mon, 16 Nov 2026 16:03:12 +0000",
-      "description": "OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year. Next, ChatGPT Health is set to expand to more platforms, including the Mac app and more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-health-chatgpt.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "HomeView missing some podcast feeds? Here’s why",
-      "link": "https://9to5mac.com/2026/11/16/homeview-missing-some-podcast-feeds-heres-why/",
-      "pubDate": "Mon, 16 Nov 2026 15:34:09 +0000",
-      "description": "Apple’s new HomeView features the Podcasts app, but not all feeds appear to be supported for now. Instead, HomeView appears to have the same bug that tvOS 27 introduced to the Apple TV 4K’s Podcasts a",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-hand-touch.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple has renewed Slow Horses for seasons 7, 8, 9, and 10",
-      "link": "https://9to5mac.com/2026/11/16/apple-has-renewed-slow-horses-for-seasons-7-8-9-and-10/",
-      "pubDate": "Mon, 16 Nov 2026 15:18:31 +0000",
-      "description": "Slow Horses isn’t going away anytime soon, as Apple TV confirmed today that the hit series has been renewed through season 10—meaning at least four more seasons are coming. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Apple-Originals-score-nine-Golden-Globe-nominations.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Next year’s iPhone Pro redesign gets new update via leaker",
-      "link": "https://9to5mac.com/2026/11/16/next-years-iphone-pro-redesign-gets-new-update-via-leaker/",
-      "pubDate": "Mon, 16 Nov 2026 14:54:22 +0000",
-      "description": "Next year is the iPhone’s 20th anniversary, and Apple reportedly has a big redesign coming to its Pro models. Here’s what to expect per the latest leak. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
       "title": "Xcode Instruments: Profile, Fix, and Verify Performance",
       "link": "https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/",
       "pubDate": "Mon, 16 Nov 2026 14:34:49 +0000",
       "description": "Xcode Instruments is a developer tool that comes for free with Xcode. It has a lot of useful tools to inspect and improve your app. Although it has a lot to offer, it’s often an area which is a ",
       "image": "https://swiftlee-banners.herokuapp.com/imagegenerator.php?title=Xcode+Instruments%3A+Profile%2C+Fix%2C+and+Verify+Performance",
       "source": "Antoine van der Lee"
-    },
-    {
-      "title": "Microsoft outage saw 80% of servers fail – here’s what happened",
-      "link": "https://9to5mac.com/2026/11/16/microsoft-outage-saw-80-of-servers-fail-heres-what-happened/",
-      "pubDate": "Mon, 16 Nov 2026 13:43:06 +0000",
-      "description": "Last week saw a truly epic outage to Microsoft 365 , with a huge number of users unable to send and receive emails. The company has now admitted that at the worst point, more than 80% of its servers w",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Microsoft-outage-saw-80-of-servers-fail-–-heres-what-happened.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "New camera sensor coming to the iPhone 20 Pro’s main camera, says leaker",
-      "link": "https://9to5mac.com/2026/11/16/new-camera-sensor-coming-to-the-iphone-20-pros-main-camera-says-leaker/",
-      "pubDate": "Mon, 16 Nov 2026 13:02:52 +0000",
-      "description": "The biggest improvement to iPhone photo quality that Apple could make would be to give the device a larger sensor. There have been two reports suggesting this is on the way, although with a potentiall",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/09/Sensor-size.jpg?quality=82&strip=all&w=1000",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Video podcasts coming soon to Apple TV and other devices",
-      "link": "https://9to5mac.com/2026/11/16/video-podcasts-coming-soon-to-apple-tv-and-other-devices/",
-      "pubDate": "Mon, 16 Nov 2026 12:30:32 +0000",
-      "description": "Apple will soon be adding a video podcasts section to Apple TV , which will also be available in the Apple TV app on other devices like smart TVs. That means it will come to more than a billion device",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Video-podcasts-coming-soon-to-Apple-TV-and-other-devices.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple provides a safe way to ask an AI questions about your health",
-      "link": "https://9to5mac.com/2026/11/16/apple-provides-a-safe-way-to-ask-an-ai-questions-about-your-health/",
-      "pubDate": "Mon, 16 Nov 2026 12:09:32 +0000",
-      "description": "A growing number of people are asking AI chatbots about their health issues, raising two major concerns: safety and privacy. Apple is now offering a safer way to do this through an Apple Health AI Usa",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-provides-a-safe-way-to-ask-an-AI-questions-about-your-health.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple’s Messages app keeps getting better; here are my favorite updates",
-      "link": "https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/",
-      "pubDate": "Sun, 15 Nov 2026 23:06:10 +0000",
-      "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s larges",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Here’s one small change that could improve iPhone Duo’s unoptimized apps",
-      "link": "https://9to5mac.com/2026/11/15/iphone-duo-default-split-view-option-suggestion/",
-      "pubDate": "Sun, 15 Nov 2026 21:44:51 +0000",
-      "description": "iPhone Duo has been out for about 3 weeks now, and I’ve happily been using mine since launch day. Many people have made a big deal about the app situation , but I’d largely say most apps I rely on are",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC04170.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
-      "link": "https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/",
-      "pubDate": "Sun, 15 Nov 2026 16:36:12 +0000",
-      "description": "Next fall, Apple will introduce its second-generation iPhone Duo. It’s unclear what it’ll offer in terms of meaningful upgrades outside of the usual chip upgrades and camera improvements, but Apple en",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "The new Apple TV has twice as much RAM as the previous model, but apps and games can’t use it",
-      "link": "https://9to5mac.com/2026/11/15/new-apple-tv-ram-limit/",
-      "pubDate": "Sun, 15 Nov 2026 15:57:57 +0000",
-      "description": "The new Apple TV 4K features an A19 chip inside with 128 GB storage and 8 GB RAM, twice the amount of memory as the previous version. Presumably, the supply crunch surrounding the memory chips is part",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-ram-memory-limit.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Apple’s Siri AI smart glasses are reportedly launching next year, here’s what to expect",
-      "link": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
-      "pubDate": "Sun, 15 Nov 2026 15:48:52 +0000",
-      "description": "Apple’s long awaited smart glasses, akin to Meta Ray-Bans but tailored to Siri AI and the Apple ecosystem, are almost here. According to Bloomberg’s Mark Gurman , the product should be introduced at t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-dark.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Hands-on: This 25W MagSafe charger is thinner than an iPhone: KUXIU K4 Air [Video]",
-      "link": "https://9to5mac.com/2026/11/15/hands-on-this-25w-magsafe-charger-is-thinner-than-an-iphone-kuxiu-k4-air-video/",
-      "pubDate": "Sun, 15 Nov 2026 15:23:31 +0000",
-      "description": "When it comes to 3-in-1 travel chargers, I look at two main things: How fast it can charge my iPhone and how portable it is. I have tested plenty of travel chargers that aim to be as portable as possi",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/IMG_6662-e1794695776576.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "AirPods Pro 3 hit Black Friday pricing early at $179 (Reg. $249)",
-      "link": "https://9to5mac.com/2026/11/15/airpods-pro-3-hit-black-friday-pricing-early-at-179-reg-249/",
-      "pubDate": "Sun, 15 Nov 2026 13:39:39 +0000",
-      "description": "Hot on the heels of Apple Watch Series 12 hitting its best price ever and all-time lows on AirTag 2 at $17.50 , Black Friday pricing is already live on AirPods Pro 3 starting today. You can now land t",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/AirPods-Pro-3-deal-April-2026-01.webp?w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "MacBook Neo 2: Here’s everything we know so far",
-      "link": "https://9to5mac.com/2026/11/15/macbook-neo-2-features-release-date/",
-      "pubDate": "Sun, 15 Nov 2026 13:01:56 +0000",
-      "description": "Apple released the all-new MacBook Neo earlier this year, and it’s been a resounding success by all indications. Here’s everything we know so far about what’s next for Apple’s most affordable laptop …",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "All Apple Watch Series 12 models just dropped to the lowest price ever",
-      "link": "https://9to5mac.com/2026/11/15/apple-watch-series-12-black-friday-deals-lowest-price/",
-      "pubDate": "Sun, 15 Nov 2026 12:52:50 +0000",
-      "description": "Amazon’s early Black Friday sale is in full swing and, while we aren’t expecting it to kick into overdrive until next week, it unexpectedly just delivered the lowest price ever on the latest Apple Wat",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-band-lineup.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
-      "link": "https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/",
-      "pubDate": "Sun, 15 Nov 2026 00:42:21 +0000",
-      "description": "iPhone Duo, because it offers a much larger inside display, means theres all tons of new use cases that you wouldn’t normally come across with your iPhone. Of course, one of them is the fact that you ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04326-2616x1308.jpg.jpeg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
     },
     {
       "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",

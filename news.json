@@ -1,6 +1,174 @@
 {
-  "updatedAt": "2026-11-22T09:17:09.929Z",
+  "updatedAt": "2026-11-23T10:14:09.639Z",
   "items": [
+    {
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "pubDate": "2026-11-22T22:00:00-05:00",
+      "description": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame yo",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "pubDate": "2026-11-22T17:48:02-05:00",
+      "description": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
+      "link": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
+      "pubDate": "Sun, 22 Nov 2026 22:02:43 +0000",
+      "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s larges",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-rose.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "AirPods Pro 3 Drop to $169.99 in Amazon Black Friday Sale",
+      "link": "https://www.macrumors.com/2026/11/22/airpods-pro-3-169/",
+      "pubDate": "Sun, 22 Nov 2026 20:52:00 +0000",
+      "description": "Apple's AirPods Pro 3 have dropped to an even lower price today for Black Friday, available for $169.99 on Amazon, down from $249.00. This beats the previous low price by about $10, and is",
+      "image": "https://images.macrumors.com/article-new/2026/11/airpods-pro-3-blue-snow.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "iPhone Duo Could Get More Lock Screen Widgets, Leak Suggests",
+      "link": "https://www.macrumors.com/2026/11/22/iphone-duo-could-get-more-lock-screen-widgets/",
+      "pubDate": "Sun, 22 Nov 2026 20:38:16 +0000",
+      "description": "An experimental iPhone Duo interface tested by Apple would allow widgets to occupy two separate areas of the Lock Screen, according to findings shared by the leaker known as \"pdfu.\" The unreleased lay",
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-duo-cyber-monday.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+      "link": "https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/",
+      "pubDate": "Sun, 22 Nov 2026 20:29:51 +0000",
+      "description": "Apple's recent Siri layoffs affected employees working on the assistant's older infrastructure rather than its newer AI systems, according to Bloomberg 's Mark Gurman . In his latest \"Power On\" newsle",
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "pubDate": "2026-11-22T12:46:44-05:00",
+      "description": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "pubDate": "2026-11-22T12:25:20-05:00",
+      "description": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff d",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
+      "link": "https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/",
+      "pubDate": "Sun, 22 Nov 2026 17:13:56 +0000",
+      "description": "Apple made a bunch of changes to iOS to optimize it for the iPhone Duo’s form factor, including revamping the Lock Screen. According to a new leak today, the company has tested another change, referre",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "pubDate": "2026-11-22T12:00:00-05:00",
+      "description": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In a",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+      "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+      "pubDate": "2026-11-22T11:33:29-05:00",
+      "description": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-n",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3127600889_10.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "M6 MacBook Pro Drops to $1,799 in New Black Friday Sale ($200 Off)",
+      "link": "https://www.macrumors.com/2026/11/22/m6-macbook-pro-200-discount/",
+      "pubDate": "Sun, 22 Nov 2026 15:39:40 +0000",
+      "description": "Amazon today has a new best-ever price on the M6 MacBook Pro , joining in on great Black Friday deals on the AirPods Pro 3 and Apple Watch SE 3 . Note: MacRumors is an affiliate partner with some of t",
+      "image": "https://images.macrumors.com/article-new/2026/11/m6-macbook-pro-blue-snow.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "MacBook Neo 2 likely to launch around March, could feature new colors: report",
+      "link": "https://9to5mac.com/2026/11/22/macbook-neo-2-likely-to-launch-around-march-could-feature-new-colors-report/",
+      "pubDate": "Sun, 22 Nov 2026 15:38:23 +0000",
+      "description": "One of Apple’s most beloved products this year was undoubtedly the MacBook Neo . Unlike some of its other budget products, Apple seems interested in updating the MacBook Neo on an annual cycle, and we",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Apple Reportedly Plans to Release These Products in February or March",
+      "link": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/",
+      "pubDate": "Sun, 22 Nov 2026 15:32:53 +0000",
+      "description": "Apple plans to unveil an iPhone 18e, iPhone 18, updated entry-level iPad, and new MacBook Neo and MacBook Air models around February or March next year, according to the latest word from Bloomberg 's ",
+      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Neo-2-on-Yellow-Feature.jpg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Apple Watch SE 3 Lineup Sees Record Low Prices Starting at Just $179",
+      "link": "https://www.macrumors.com/2026/11/22/apple-watch-se-3-179/",
+      "pubDate": "Sun, 22 Nov 2026 15:24:42 +0000",
+      "description": "New Black Friday deals are rolling in today , including fresh all-time low prices across the entire Apple Watch SE 3 lineup. Prices start at just $179.00 for the 40mm GPS Apple Watch SE 3, and thi",
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-se-3-blue-snow.jpeg",
+      "source": "MacRumors"
+    },
+    {
+      "title": "Protesters storm Meta offices in India",
+      "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "pubDate": "2026-11-22T10:15:07-05:00",
+      "description": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are dem",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off",
+      "link": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
+      "pubDate": "Sun, 22 Nov 2026 14:43:24 +0000",
+      "description": "Recently, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. For Black Friday, it’s",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
+    {
+      "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+      "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+      "pubDate": "2026-11-22T09:00:00-05:00",
+      "description": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "‘The show is starting soon. Please turn on your headphones.’",
+      "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+      "pubDate": "2026-11-22T09:00:00-05:00",
+      "description": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand eac",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "How Tamagotchis got us hooked on digital pets",
+      "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+      "pubDate": "2026-11-22T08:15:27-05:00",
+      "description": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensat",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRH_Tamagotchi_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "AirPods Pro 3 just got even cheaper, now $149 ($100 off)",
+      "link": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
+      "pubDate": "Sun, 22 Nov 2026 10:15:48 +0000",
+      "description": "Update 11/23: Amazon just dropped the price on AirPods Pro 3 again to an incredible $149 shipped – that’s the Amazon all-time low at $100 off. Apple’s AirPods Pro 3 have now dropped even lower for Bla",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?quality=82&strip=all&w=1600",
+      "source": "9to5Mac"
+    },
     {
       "title": "iOS 27: My favorite new iPhone features (other than AI)",
       "link": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/",
@@ -8,14 +176,6 @@
       "description": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline. However, the update also includes plenty of non-AI features that I’ve come to really enjoy. Here are a few of my favorite ",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "pubDate": "2026-11-21T16:59:31-05:00",
-      "description": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame",
@@ -26,28 +186,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "pubDate": "2026-11-21T15:03:37-05:00",
-      "description": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
       "link": "https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like/",
       "pubDate": "Sat, 21 Nov 2026 19:35:44 +0000",
       "description": "iPhone 18 Pro and iPhone Duo have been out for quite some time now, and despite that, it’s still incredibly challenging to order an iPhone Duo in a timely manner. If for whatever reason you’re conside",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "The FBI and USDA were reportedly hacked",
-      "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "pubDate": "2026-11-21T12:42:27-05:00",
-      "description": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     },
     {
       "title": "Apple Store in UK Permanently Closing Today",
@@ -82,38 +226,6 @@
       "source": "MacRumors"
     },
     {
-      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-      "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-      "pubDate": "2026-11-21T11:00:00-05:00",
-      "description": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliabl",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/John_Roberts_1.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-      "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-21T11:00:00-05:00",
-      "description": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon an",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Alexa_Frame_JTuohy_0011.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Can Anthropic afford to put safety first?",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "pubDate": "2026-11-21T10:00:00-05:00",
-      "description": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-21T09:55:28-05:00",
-      "description": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Top Stories: iPhone Duo Face Unlock, HomeView Tidbits, and More",
       "link": "https://www.macrumors.com/2026/11/21/top-stories-iphone-duo-face-unlock/",
       "pubDate": "Sat, 21 Nov 2026 14:00:10 +0000",
@@ -130,14 +242,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "pubDate": "2026-11-21T09:00:00-05:00",
-      "description": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahj",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Amazon Takes $120 Off 46mm GPS Apple Watch Series 12 With New Record Low Price [Update: Gone]",
       "link": "https://www.macrumors.com/2026/11/21/amazon-120-off-46mm-gps-apple-watch-series-12/",
       "pubDate": "Sat, 21 Nov 2026 13:59:00 +0000",
@@ -146,26 +250,10 @@
       "source": "MacRumors"
     },
     {
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "pubDate": "2026-11-21T08:00:00-05:00",
-      "description": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find ou",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
-      "title": "The game of the year is finally here",
-      "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-      "pubDate": "2026-11-21T08:00:00-05:00",
-      "description": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
-    },
-    {
       "title": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods, new iPad mini, more [Updated]",
       "link": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
       "pubDate": "Sat, 21 Nov 2026 12:59:00 +0000",
-      "description": "Update 11/22: Amazon has now dropped the price on AirPods Pro 3 even lower to $169.99 shipped , or just shy of $80 off the list price. You’ll also now find an even deeper deal on the current-generatio",
+      "description": "Update 11/23: Amazon just dropped the price on AirPods Pro 3 again to an incredible $149 shipped – that’s the Amazon all-time low at $100 off. You’ll also now find an even deeper deal on the current-g",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Black-Friday-deals.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
@@ -434,14 +522,6 @@
       "source": "9to5Mac"
     },
     {
-      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month",
-      "link": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
-      "pubDate": "Thu, 19 Nov 2026 23:12:05 +0000",
-      "description": "A new Black Friday deal for Apple TV will be rolling out today. Until November 30 at 8 p.m. Pacific Time, new and qualified returning customers in the U.S. can subscribe to the Apple TV streaming serv",
-      "image": "https://images.macrumors.com/article-new/2026/04/New-Apple-TV-Logo.jpeg",
-      "source": "MacRumors"
-    },
-    {
       "title": "macOS 27.3 public beta 2 now available, here’s everything new",
       "link": "https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/",
       "pubDate": "Thu, 19 Nov 2026 23:01:25 +0000",
@@ -450,28 +530,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR",
-      "link": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
-      "pubDate": "Thu, 19 Nov 2026 22:45:00 +0000",
-      "description": "We're tracking the first ever discounts on Apple's newest MacBook Pros today on Amazon. This includes $150 off the 14-inch M6 MacBook Pro , and up to $250 off the 16-inch MacBook Pro with PROL",
-      "image": "https://images.macrumors.com/article-new/2026/11/macbook-pros-black-friday.jpeg",
-      "source": "MacRumors"
-    },
-    {
       "title": "ChatGPT Health feature now works with Mac app, Dots, more",
       "link": "https://9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
       "pubDate": "Thu, 19 Nov 2026 22:43:20 +0000",
       "description": "OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year. Next, ChatGPT Health is set to expand to more platforms, including the Mac app and more. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-health-chatgpt.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Apple is Building an AI Agent That Can Use Apps and Code",
-      "link": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development/",
-      "pubDate": "Thu, 19 Nov 2026 22:43:08 +0000",
-      "description": "Apple is working on a proactive AI agent like Meta's Muse or OpenAI's Dots, according to job listings spotted by Bloomberg . The listing describes an AI agent that can code, use apps, and browse the w",
-      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
-      "source": "MacRumors"
     },
     {
       "title": "Report: Apple job listings detail plans for autonomous AI agents",
@@ -490,28 +554,12 @@
       "source": "9to5Mac"
     },
     {
-      "title": "AirPods Black Friday Deals Hit Pro 3 at $179 and Max 2 at $429",
-      "link": "https://www.macrumors.com/2026/11/19/airpods-black-friday-deals/",
-      "pubDate": "Thu, 19 Nov 2026 21:50:00 +0000",
-      "description": "Early Black Friday deals are in full swing, and today we're tracking big discounts on both the AirPods Pro 3 and AirPods Max 2 at Amazon. Note: MacRumors is an affiliate partner with Amazon. When you ",
-      "image": "https://images.macrumors.com/article-new/2026/11/airpods-black-friday.jpeg",
-      "source": "MacRumors"
-    },
-    {
       "title": "First macOS Sequoia 15.8.4 and macOS Tahoe 26.7.4 RCs rolling out [U: Public]",
       "link": "https://9to5mac.com/2026/11/19/first-macos-sequoia-15-8-4-and-macos-tahoe-26-7-4-rcs-rolling-out/",
       "pubDate": "Thu, 19 Nov 2026 21:48:30 +0000",
       "description": "Update, November 19, 4:46 p.m. ET: The release candidates are now available to public beta testers, with the same build numbers as the developer RCs. In addition to macOS 27.3 beta 2 , Apple is also r",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Second iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
-      "link": "https://www.macrumors.com/2026/11/19/ios-27-3-public-beta-2/",
-      "pubDate": "Thu, 19 Nov 2026 21:43:39 +0000",
-      "description": "Apple today seeded the second betas of iOS 27.3, iPadOS 27.3, macOS Golden Gate 27.3, tvOS 27.3, and watchOS 27.3. Apple also has revised betas of of iOS 27.3 and iPadOS 27.3 available for developers.",
-      "image": "https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "iPadOS 27.3, watchOS 27.3, more get public beta 2, here’s what’s new",
@@ -560,14 +608,6 @@
       "description": "Apple has responded to Epic Games’ filing from last Friday, pushing back against accusations that it improperly withheld more than 122,000 documents related to its proposed App Store commissions. Here",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
-    },
-    {
-      "title": "Google's Gemini Can Now Control Apps on Your Mac",
-      "link": "https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/",
-      "pubDate": "Thu, 19 Nov 2026 20:14:23 +0000",
-      "description": "Google today expanded Gemini's capabilities, allowing it to take full advantage of your Mac. Gemini for Mac can use apps, files, and websites to complete multi-step tasks in the background while you w",
-      "image": "https://images.macrumors.com/article-new/2026/04/gemini-for-mac-app-google.jpg",
-      "source": "MacRumors"
     },
     {
       "title": "HomeView woes, iPhone Duo face unlock, macOS Full Disk Access changes",
@@ -999,46 +1039,6 @@
       "pubDate": "Tue, 17 Nov 2026 17:51:47 +0000",
       "description": "OpenAI kicked off the GPT-6 generation with Astra in September , then upgraded Sol to GPT-6.1 a few weeks later at DevDay . Today, GPT-6.2 Astra and GPT-6.2 Sol are coming to ChatGPT Work and Codex to",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "The Google Wallet app is now available on iOS",
-      "link": "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
-      "pubDate": "Tue, 17 Nov 2026 17:49:25 +0000",
-      "description": "Google Wallet is now available on iOS to “organize purchases, tickets, boarding passes, and more in one easy place” in the US. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Google-Wallet-iOS-1.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "iCloud, App Store, and other Apple services hit by ongoing outage [U]",
-      "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
-      "pubDate": "Tue, 17 Nov 2026 17:33:58 +0000",
-      "description": "Apple services are having a rough Tuesday. iCloud, the App Store, and other services are experiencing an apparent outage, with users reporting connection failures and trouble signing in. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "You can now assign Gemini ‘tasks’ for free in six countries",
-      "link": "https://9to5google.com/2026/11/17/gemini-tasks-free/",
-      "pubDate": "Tue, 17 Nov 2026 17:23:00 +0000",
-      "description": "Starting today, the Gemini app’s “tasks” feature, previously known as Spark, is now available for free users after requiring AI Pro in the past. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-task-free-cover.webp?w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "VSCO launches its first native Mac photo editor with RAW support, batch editing, more",
-      "link": "https://9to5mac.com/2026/11/17/vsco-launches-its-first-native-mac-photo-editor-with-raw-support-batch-editing-more/",
-      "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
-      "description": "VSCO today released Studio Pro Desktop, its first native photo editor for Mac, bringing many of the company’s familiar editing tools to macOS, alongside new features aimed at photographers working wit",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/vsco-desktop.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
-    },
-    {
-      "title": "Deals: Rare MacBook Neo discounts from $650 ($50 off), Apple Watch Series 12, Nomad 2026 Black Friday sale, more",
-      "link": "https://9to5mac.com/2026/11/17/deals-macbook-neo-apple-watch-nomad-airpods/",
-      "pubDate": "Tue, 17 Nov 2026 16:23:44 +0000",
-      "description": "Joining the return of Amazon Apple Watch Series 12 model out there, and the now live Nomad 2026 Black Friday sale – rare deals on iPhone cases, Apple Watch bands, Find My gear, and much more. Just be ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-MacBook-Neo-Apple-TV-4K-AirPods-Nomad.jpg?quality=82&strip=all&w=1600",
       "source": "9to5Mac"
     },
     {

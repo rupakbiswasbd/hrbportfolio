@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-24T11:57:21.019Z",
+  "updatedAt": "2026-11-25T10:49:37.276Z",
   "items": [
     {
-      "title": "Meta's Muse Personal AI Agent Launches in the UK",
-      "link": "https://www.macrumors.com/2026/11/24/metas-muse-personal-ai-agent-launches-in-the-uk/",
-      "pubDate": "Tue, 24 Nov 2026 11:15:54 +0000",
-      "description": "Meta has rolled out its Muse personal AI agent to users in the United Kingdom. Launched in the U.S. in September, Muse can complete tasks for users on their behalf, like sending an email or booking tr",
-      "image": "https://images.macrumors.com/article-new/2026/11/meta-muse-uk@2x-scaled.jpg",
+      "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
+      "link": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
+      "pubDate": "Wed, 25 Nov 2026 10:27:42 +0000",
+      "description": "Anthropic has released a new feature for Claude that allows users to install artifacts as desktop apps on macOS and Windows. When you ask Claude to create an artifact, you can now click \"Install as ap",
+      "image": "https://images.macrumors.com/article-new/2024/05/claude-ai.jpeg",
       "source": "MacRumors"
     },
     {
-      "title": "These are my two must-have iPhone Duo accessories",
-      "link": "https://9to5mac.com/2026/11/23/these-are-my-two-must-have-iphone-duo-accessories/",
-      "pubDate": "Tue, 24 Nov 2026 01:30:09 +0000",
-      "description": "If you’re an iPhone Duo user, two must-have Apple accessories are at all-time low prices today. These are great additions to any iPhone Duo setup: Apple Pencil (USB-C) $49 (Reg. $79) Apple 40W Dynamic",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-apple-pencil.jpg?quality=82&strip=all&w=1600",
+      "title": "PrismML’s Bonsai 2.5 brings better coding and tool use to on-device AI",
+      "link": "https://9to5mac.com/2026/11/24/prismmls-bonsai-2-5-brings-better-coding-and-tool-use-to-on-device-ai/",
+      "pubDate": "Wed, 25 Nov 2026 01:08:37 +0000",
+      "description": "Back in July, PrismML claimed its roughly 4 GB, 1-bit Bonsai 27B was the first AI model of its size to run on an iPhone. Now PrismML has released Ternary Bonsai 2.5 27B, an update to the model it intr",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/PrismML.png?w=1508",
       "source": "9to5Mac"
     },
     {
-      "title": "9to5Mac Daily: November 23, 2026 – Apple agentic AI, spring product rumors",
-      "link": "https://9to5mac.com/2026/11/23/daily-november-23-2026/",
-      "pubDate": "Tue, 24 Nov 2026 01:04:38 +0000",
-      "description": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for O",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "source": "9to5Mac"
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "pubDate": "2026-11-24T20:00:00-05:00",
+      "description": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into ",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
     }
   ]
 }

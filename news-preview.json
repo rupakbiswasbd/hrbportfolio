@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-11-25T10:49:37.276Z",
+  "updatedAt": "2026-11-26T10:23:45.870Z",
   "items": [
     {
-      "title": "Claude Now Lets You Install Artifacts as Desktop Apps",
-      "link": "https://www.macrumors.com/2026/11/25/claude-install-artifacts-desktop-apps/",
-      "pubDate": "Wed, 25 Nov 2026 10:27:42 +0000",
-      "description": "Anthropic has released a new feature for Claude that allows users to install artifacts as desktop apps on macOS and Windows. When you ask Claude to create an artifact, you can now click \"Install as ap",
-      "image": "https://images.macrumors.com/article-new/2024/05/claude-ai.jpeg",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "pubDate": "2026-11-26T04:54:40-05:00",
+      "description": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge"
+    },
+    {
+      "title": "New Apple Store Opening in India, Download the Special Wallpaper Now",
+      "link": "https://www.macrumors.com/2026/11/25/apple-store-kukatpally-hyderabad-india/",
+      "pubDate": "Thu, 26 Nov 2026 04:17:15 +0000",
+      "description": "Apple has announced it will be opening an all-new store at the Lake Shore shopping mall in Hyderabad, India on Thursday, December 10 at 5 p.m. local time. Apple Kukatpally will be the company's first ",
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Kukatpally-Wallpaper.jpg",
       "source": "MacRumors"
     },
     {
-      "title": "PrismML’s Bonsai 2.5 brings better coding and tool use to on-device AI",
-      "link": "https://9to5mac.com/2026/11/24/prismmls-bonsai-2-5-brings-better-coding-and-tool-use-to-on-device-ai/",
-      "pubDate": "Wed, 25 Nov 2026 01:08:37 +0000",
-      "description": "Back in July, PrismML claimed its roughly 4 GB, 1-bit Bonsai 27B was the first AI model of its size to run on an iPhone. Now PrismML has released Ternary Bonsai 2.5 27B, an update to the model it intr",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/PrismML.png?w=1508",
+      "title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
+      "link": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/",
+      "pubDate": "Thu, 26 Nov 2026 02:12:24 +0000",
+      "description": "Following reports that its characters sent inappropriate messages to minors, Apple has removed the popular Chinese AI companion app Talkie from the App Store. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
       "source": "9to5Mac"
-    },
-    {
-      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-      "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-      "pubDate": "2026-11-24T20:00:00-05:00",
-      "description": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into ",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0,0,100,100",
-      "source": "The Verge"
     }
   ]
 }
